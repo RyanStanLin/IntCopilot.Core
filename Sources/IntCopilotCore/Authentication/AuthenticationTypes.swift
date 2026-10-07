@@ -78,7 +78,7 @@ public struct SessionSnapshot: Codable, Sendable {
     public let token: String
     /// 已知 Token 过期时刻。
     public let expiresAt: Date?
-    /// 可访问的学校及完整元数据。
+    /// 学校上下文及完整元数据；家长为域名对应的公开配置，不作为账号授权证明。
     public let schools: [School]
     /// 用户当前选择的学校；多学校未选择时为 nil。
     public let selectedSchoolID: SchoolID?
@@ -91,7 +91,7 @@ public struct SessionSnapshot: Codable, Sendable {
 }
 
 public struct LoginResult: Sendable {
-    /// 当前账号可访问学校，供多学校账号选择。
+    /// 教师可访问学校或家长入口域名的学校配置；供多学校选择，不替代服务端授权。
     public let schools: [School]
     /// 单学校自动选择，多学校保留 nil，交由用户选择。
     public let selectedSchool: School?

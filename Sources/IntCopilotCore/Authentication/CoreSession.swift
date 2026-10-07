@@ -15,7 +15,7 @@ actor CoreSession {
     private var token: String?
     /// Token 过期提示；不会将未验证的 JWT 声明作为授权依据。
     private var expiresAt: Date?
-    /// 服务端返回的可访问学校。
+    /// 学校上下文；教师来自认证账号，家长来自公开入口域名配置。
     private var schools: [School] = []
     /// 当前学校，多个学校时需要调用方选择。
     private var selectedSchool: School?

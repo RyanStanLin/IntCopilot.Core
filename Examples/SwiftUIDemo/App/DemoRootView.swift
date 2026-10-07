@@ -36,7 +36,6 @@ struct DemoRootView: View {
                 }
             }.navigationTitle(store.section.rawValue)
             .toolbar { ToolbarItem { if store.isBusy { ProgressView().controlSize(.small) } } }
-            .disabled(store.isBusy)
         }
         .sheet(item: $store.pendingMutation) { pending in MutationConfirmation(pending: pending) }
         .disabled(store.diagnosticRunning)
@@ -97,21 +96,21 @@ struct ContextPanel: View {
             Picker("学校", selection: $store.selectedSchoolID) {
                 Text("选择学校").tag("")
                 ForEach(store.schools) { Text($0.name).tag($0.id.rawValue) }
-            }
+            }.disabled(store.isBusy)
             ActionButton("应用学校", symbol: "building.2") { await store.selectSchool() }.disabled(!store.isLoggedIn)
         }
         VStack(alignment: .leading) {
             Picker("学生", selection: $store.selectedStudentID) {
                 Text("选择学生").tag("")
                 ForEach(store.students) { Text($0.name + ($0.enName.map { " · " + $0 } ?? "")).tag($0.id.rawValue) }
-            }
+            }.disabled(store.isBusy)
             ActionButton(store.platform == .parent ? "获取关联学生" : "获取课程学生", symbol: "person.2") { await store.loadStudents() }.disabled(!store.isLoggedIn || store.selectedSchoolID != store.activeSchoolID)
         }
         VStack(alignment: .leading) {
             Picker("课程", selection: $store.selectedCourseID) {
                 Text(store.platform == .parent ? "全部课程 / 未选择" : "选择课程").tag("")
                 ForEach(store.courses) { Text($0.name).tag($0.id.rawValue) }
-            }
+            }.disabled(store.isBusy)
             ActionButton("获取课程", symbol: "books.vertical") { await store.loadCourses() }.disabled(!store.isLoggedIn || store.selectedSchoolID != store.activeSchoolID)
         }
     }

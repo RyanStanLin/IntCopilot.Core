@@ -17,11 +17,12 @@ struct LabCard<Content: View>: View {
 }
 
 struct ActionButton: View {
+    @EnvironmentObject private var store: DemoStore
     let title: String
     let symbol: String
     let action: @MainActor () async -> Void
     init(_ title: String, symbol: String = "arrow.clockwise", action: @escaping @MainActor () async -> Void) { self.title = title; self.symbol = symbol; self.action = action }
-    var body: some View { Button { Task { await action() } } label: { Label(title, systemImage: symbol) }.buttonStyle(.bordered) }
+    var body: some View { Button { Task { await action() } } label: { Label(title, systemImage: symbol) }.buttonStyle(.bordered).disabled(store.isBusy) }
 }
 
 struct ActionRow<Content: View>: View {

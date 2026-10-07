@@ -10,6 +10,7 @@ actor FixtureTransport: HTTPTransport {
         if let url = Bundle.main.url(forResource: "FixtureIndex", withExtension: "json", subdirectory: "Fixtures"), let data = try? Data(contentsOf: url), let value = try? JSONDecoder().decode([JSONValue].self, from: data) { index = value } else { index = [] }
     }
     func send(_ request: HTTPRequest) async throws -> HTTPResponse {
+        if ProcessInfo.processInfo.arguments.contains("--slow-offline") { try await Task.sleep(for: .milliseconds(750)) }
         let path = GuardedTransport.route(request.url)
         let schools = "[{\"schoolId\":400008,\"name\":\"示例学校（离线）\",\"enName\":\"Example School\",\"domain\":\"pcd.intschool.cn\"}]"
         if path == "/api/login/schools" { return json(schools) }
@@ -30,7 +31,20 @@ actor FixtureTransport: HTTPTransport {
             let parts = id.split(separator: ":", maxSplits: 2)
             return parts.count == 3 && parts[0] == platform.rawValue && parts[1] == request.method.rawValue && GuardedTransport.matches(String(parts[2]), path)
         }), let file = entry["file"]?.stringValue, let url = Bundle.main.url(forResource: file, withExtension: nil, subdirectory: "Fixtures") {
-            return HTTPResponse(statusCode: 200, body: try Data(contentsOf: url))
+            var body = try Data(contentsOf: url)
+            if ProcessInfo.processInfo.arguments.contains("--month-attendance-sample"), path.hasPrefix("/api/attendance/statistic/student/"),
+               var payload = try JSONDecoder().decode(JSONValue.self, from: body).objectValue,
+               let days = payload["dailyStatistics"]?.arrayValue, !days.isEmpty {
+                let query = URLComponents(url: request.url, resolvingAgainstBaseURL: false)?.queryItems ?? []
+                guard let start = query.first(where: { $0.name == "start" })?.value.flatMap(Int.init) else { throw APIError.invalidParameter("离线月考勤样本需要开始时间") }
+                payload["dailyStatistics"] = .array((0..<30).map { index in
+                    var day = days[index % days.count].objectValue ?? [:]
+                    day["date"] = .integer(start + index * 86_400_000)
+                    return .object(day)
+                })
+                body = try JSONEncoder().encode(JSONValue.object(payload))
+            }
+            return HTTPResponse(statusCode: 200, body: body)
         }
         if request.method != .get { return HTTPResponse(statusCode: 200) }
         throw APIError.invalidResponse("离线样本未覆盖此接口；不会转为真实网络请求")

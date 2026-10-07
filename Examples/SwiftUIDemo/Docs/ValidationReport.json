@@ -530,5 +530,25 @@
         "说明": null
       }
     ]
+  },
+  "attendanceDateFocusRegression": {
+    "date": "2026-10-08",
+    "originalObservation": "macOS 主线程卡在 NSDatePickerCell.setEnabled / FocusNavigator / AttributeGraph 更新循环，CPU 持续占用约一个核心。",
+    "change": "仅禁用操作按钮和上下文选择；请求加载期间不禁用日期输入框。",
+    "offlineUI": {
+      "responseDelayMilliseconds": 750,
+      "attendanceSampleDays": 30,
+      "focusedDateEditAndQuery": "passed",
+      "repeatQuery": "passed",
+      "expandDailyRecords": "passed",
+      "idleAfterQueries": "passed"
+    },
+    "businessWritesExecuted": false,
+    "liveReadOnly": {
+      "parentSeptemberAttendance": "passed",
+      "responseDays": 30,
+      "queryDurationSeconds": 1.237,
+      "personalDataRecorded": false
+    }
   }
 }

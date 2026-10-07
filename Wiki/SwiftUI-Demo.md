@@ -57,6 +57,10 @@ SwiftPM 的 `DemoSupportTests` 验证传输边界、所有已确认查询、全�
 
 可在 Xcode Scheme 的运行参数加入 `--offline --offline-smoke`，在真正的 App 中逐步执行两平台离线诊断，包含密码、Token、快照、学生与课程查询、短信错误后重试。结果显示在 App 中；可选 `--report-file /path/to/report.json` 写入仅含检查名称和结果的报告。模拟器报告路径必须位于 App 沙盒内。
 
+日期输入回归可加入 `--offline --slow-offline --month-attendance-sample`：每次离线响应延迟 750 ms，考勤样本展开为 30 天。登录 `demo` / `demo` 后获取学生，进入考勤页，编辑开始/结束日期为 9 月 1–30 日，保留日期输入焦点后点击查询；再编辑日期并重复查询，展开每日记录。此模式重复脱敏样本用于 UI 回归，不代表真实整月考勤。
+
+查询加载只禁用操作按钮和学校/学生/课程选择，不禁用日期输入框。macOS 下禁用含已编辑日期输入框的整页曾触发焦点更新循环；日期调整会用于下一次查询，正在执行的请求使用发出时的范围。
+
 真实诊断需显式传入 `--live-readonly-smoke --credentials-file /private/path/credentials.private.json`；该文件由使用者提供，形如 `{"parent":{"account":"…","password":"…"},"teacher":{"account":"…","password":"…"}}`。凭据、报告和 research 均不属于工程资源，也不得提交。真实诊断只验证当时有数据的路径，空列表会标记跳过，静态样本不能证明服务器契约稳定。
 
 ## 扩展

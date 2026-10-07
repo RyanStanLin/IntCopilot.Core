@@ -88,7 +88,7 @@ Swift：`exampleAssignmentDetails`。失败时按条目语义检查 ID，不把�
 
 ## 报告周期 → 学生成绩报告 → 详情 / 下载
 
-家长：`reportPeriods()`（GET `/api/monthly-grade/monthlyGradeByStudent`）→ 用户选择带周期名称的报告 → `report(for:)`（GET `/api/monthly-grade/report/detail`）。gradePeriodId 来自周期记录，studentId 和学校来自 scope。Swift：`exampleStudentReport`。查询均只读且抓包覆盖。
+家长：`reportPeriods()`（GET `/api/monthly-grade/monthly-grade/by-student`）→ 用户选择带周期名称的报告 → `report(for:)`（GET `/api/monthly-grade/report/detail`）。gradePeriodId 来自周期记录，studentId 和学校来自 scope。Swift：`exampleStudentReport`。查询均只读且抓包覆盖。
 
 教师：课程 `reportPeriods()`（路径 courseId，query schoolYearId）→ 用户选择周期 → `monthlyGradeTable(period:)`（路径 gradePeriodId/courseId）→ 显示完整成绩表和周期配置。结果中的 reported、status、权限与可用项目决定后续操作。
 

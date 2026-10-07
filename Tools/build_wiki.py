@@ -15,7 +15,7 @@ SOURCES = {
     'schoolId': ['/api/login/schools'], 'schoolYearId': ['/api/semester/currentSchoolYear', '/api/dropDown/schoolYearRuleList'],
     'studentId': ['/api/student/list', '/api/course/students'], 'courseId': ['/api/course/cascadeBySchoolYear', '/api/dropDown/relatedAllCourses'],
     'taskId': ['/api/task/mergeList', '/api/task/detail'], 'taskStudentId': ['/api/task/performance', '/api/task/mergeList'],
-    'gradePeriodId': ['/api/monthly-grade/monthlyGradeByStudent', '/api/monthly-grade/grade-period/{courseId}'],
+    'gradePeriodId': ['/api/monthly-grade/monthly-grade/by-student', '/api/monthly-grade/grade-period/{courseId}'],
     'classArrangeId': ['/api/attendance/class', '/api/attendance/class/cca'], 'classPeriodId': ['/api/course/cascade/attendance'],
     'primaryTypeId': ['/api/diary/primary-type'], 'diaryEntryTypeId': ['/api/diary/entry-type'], 'diaryEntryId': ['/api/diary/by-student', '/api/diary/entries'],
     'reasonId': ['/api/dropDown/leave-reasons'], 'leaveApplicationId': ['/api/attendance/leave-application'],

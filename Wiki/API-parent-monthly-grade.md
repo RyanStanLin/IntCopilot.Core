@@ -62,7 +62,7 @@ return h.get("/monthly-grade/monthly-grade/by-student",Object(n["a"])({params:{s
 
 | 位置 | 字段 | JSON 类型 | 依赖 / 语义 |
 |---|---|---|---|
-| query | `gradePeriodId` | URL 参数 | 成绩周期标识，来自报告周期选项 |
+| query | `gradePeriodId` | URL 参数 | [GET /api/monthly-grade/monthly-grade/by-student](API-parent-monthly-grade#endpoint-7ed24e051e1f) |
 | query | `studentId` | URL 参数 | [GET /api/student/list](API-parent-student#endpoint-ddd046aba236) |
 
 字段列表区分抓包可确认内容与前端表达式；表达式中的其他可选字段未实测时不能当作完整契约证明。

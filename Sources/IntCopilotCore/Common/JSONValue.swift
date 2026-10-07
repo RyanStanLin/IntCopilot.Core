@@ -37,6 +37,7 @@ public enum JSONValue: Codable, Sendable, Hashable {
         guard case .object(let object) = self else { return nil }; return object[key]
     }
 
+    /// 字符串或数字、布尔值的文本表示；null、数组与对象为 nil。
     public var stringValue: String? {
         switch self {
         case .string(let value): value
@@ -45,9 +46,13 @@ public enum JSONValue: Codable, Sendable, Hashable {
         default: nil
         }
     }
+    /// 可精确转换为 Int 的数值或十进制字符串；无法转换时为 nil。
     public var integerValue: Int? { stringValue.flatMap(Int.init) }
+    /// 原始 JSON 布尔值；其他类型及 null 为 nil。
     public var boolValue: Bool? { if case .bool(let value) = self { value } else { nil } }
+    /// 原始 JSON 数组；其他类型及 null 为 nil。
     public var arrayValue: [JSONValue]? { if case .array(let value) = self { value } else { nil } }
+    /// 原始 JSON 对象与全部动态键；其他类型及 null 为 nil。
     public var objectValue: [String: JSONValue]? { if case .object(let value) = self { value } else { nil } }
     public static func integer(_ value: Int) -> JSONValue { .number(Decimal(value)) }
     public static func milliseconds(_ date: Date) -> JSONValue {
@@ -69,6 +74,7 @@ struct JSONKey: CodingKey {
 }
 
 public protocol CapturedResponse: Codable, Sendable {
+    /// 稳定模型之外的新增响应字段，保留原始 JSON 值。
     var additionalFields: [String: JSONValue] { get }
 }
 
@@ -137,6 +143,7 @@ public struct Identifier<Tag: Sendable>: Codable, Sendable, Hashable, CustomStri
     public let rawValue: String
     public init(_ value: String) { rawValue = value }
     public init(_ value: Int) { rawValue = String(value) }
+    /// 上游标识的原始字符串表示，不代表业务名称。
     public var description: String { rawValue }
     public init(from decoder: any Decoder) throws {
         let value = try JSONValue(from: decoder)

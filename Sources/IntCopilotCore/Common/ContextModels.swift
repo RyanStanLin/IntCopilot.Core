@@ -19,6 +19,7 @@ public struct SchoolDateRange: Sendable {
 
 public enum CourseKind: String, Codable, Sendable {
     case regular = "1001", cca = "1002"
+    /// 具名课程类别选项；原始代码来自本业务域已确认字典。
     public var option: SemanticOption { SemanticOption(rawValue: .string(rawValue), name: self == .regular ? "常规课程" : "延展课程", enName: self == .regular ? "Course" : "CCA", domain: "courseType") }
 }
 

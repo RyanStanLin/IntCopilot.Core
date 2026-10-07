@@ -14,7 +14,7 @@ if ARGS.private_captures:
     def collect(value):
         if isinstance(value, dict):
             for key, item in value.items():
-                if key.lower() in {'password', 'account', 'username', 'token', 'accesstoken', 'access_token', 'email', 'mobile', 'idnum', 'cardnum'} and isinstance(item, str) and len(item) >= 8:
+                if key.lower() in {'password', 'account', 'username', 'token', 'accesstoken', 'access_token', 'email', 'mobile', 'idnum', 'cardnum'} and isinstance(item, str) and len(item) >= (4 if key.lower() == 'password' else 8):
                     PRIVATE_VALUES.add(item)
                 collect(item)
         elif isinstance(value, list):
@@ -30,7 +30,7 @@ if ARGS.private_captures:
         except (json.JSONDecodeError, ValueError):
             for key, values in parse_qs(body).items():
                 if key in {'password', 'username'}:
-                    PRIVATE_VALUES.update(v for v in values if len(v) >= 8)
+                    PRIVATE_VALUES.update(v for v in values if len(v) >= (4 if key == 'password' else 8))
 
 findings = []
 files = [p for p in ROOT.rglob('*') if p.is_file() and not any(part in {'.git', '.build', '.swiftpm', '__pycache__'} for part in p.relative_to(ROOT).parts)]

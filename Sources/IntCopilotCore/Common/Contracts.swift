@@ -19,6 +19,7 @@ public struct CapturedEndpoint<Response: Decodable & Sendable>: Sendable {
     /// 已验证的类型化响应对应的目录标识。
     public let id: String
     init(id: String) { self.id = id }
+    /// 此端点的目录契约与证据；目录缺失时抛出 unknownEndpoint。
     public var descriptor: EndpointDescriptor { get throws { try APIContractCatalog.endpoint(id: id) } }
 }
 
@@ -38,6 +39,7 @@ public indirect enum APIParameter: Sendable {
         default: break
         }
     }
+    /// 参数的 JSON 编码表示；日期使用 Unix 毫秒，选项使用关联原始值。
     var json: JSONValue {
         switch self {
         case .text(let v), .identifier(let v): .string(v)

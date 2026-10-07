@@ -69,6 +69,7 @@ public struct SemanticOption: Codable, Sendable, Hashable, Identifiable {
 
 public enum LeaveKind: String, Codable, Sendable, CaseIterable {
     case personal
+    /// 依据已确认前端规则的具名请假类别，可直接传给参数编码器。
     public var option: SemanticOption { SemanticOption(rawValue: .string(rawValue), name: "请假申请", enName: "Leave application", domain: "leaveKind") }
 }
 

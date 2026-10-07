@@ -1,0 +1,58 @@
+[
+  {
+    "key": 611792798,
+    "value": "示例文本-ea519c8b",
+    "enValue": "示例文本-11f11823",
+    "extraValue": "示例文本-8b3cb013",
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 301009947,
+        "value": "示例文本-0df38375",
+        "enValue": "示例文本-0c767c48",
+        "extraValue": {
+          "deputyHead": false,
+          "headTeacher": false,
+          "reported": false,
+          "effort": true,
+          "attainment": true,
+          "ep": false,
+          "hc": true,
+          "courseTeacher": false,
+          "tutor": true,
+          "status": "processing"
+        },
+        "isTeach": false,
+        "subOptions": []
+      }
+    ]
+  },
+  {
+    "key": 468898755,
+    "value": "示例文本-144a1146",
+    "enValue": "示例文本-b04249f1",
+    "extraValue": "示例文本-58a882a4",
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 416163508,
+        "value": "示例文本-0df38375",
+        "enValue": "示例文本-0c767c48",
+        "extraValue": {
+          "deputyHead": false,
+          "headTeacher": false,
+          "reported": false,
+          "effort": true,
+          "attainment": true,
+          "ep": false,
+          "hc": true,
+          "courseTeacher": false,
+          "tutor": true,
+          "status": "processing"
+        },
+        "isTeach": false,
+        "subOptions": []
+      }
+    ]
+  }
+]

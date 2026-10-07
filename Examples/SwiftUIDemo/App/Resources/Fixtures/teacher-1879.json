@@ -1,0 +1,95 @@
+{
+  "studentNum": 2,
+  "gradedNum": 2,
+  "avgScore": 1.5,
+  "topScore": 95.0,
+  "lowestScore": 1.5,
+  "data": [
+    {
+      "label": "",
+      "lower": 0,
+      "higher": 59,
+      "num": 0,
+      "males": [],
+      "females": [],
+      "borders": [],
+      "unBorders": []
+    },
+    {
+      "label": "",
+      "lower": 60,
+      "higher": 69,
+      "num": 0,
+      "males": [],
+      "females": [],
+      "borders": [],
+      "unBorders": []
+    },
+    {
+      "label": "",
+      "lower": 70,
+      "higher": 79,
+      "num": 0,
+      "males": [],
+      "females": [],
+      "borders": [],
+      "unBorders": []
+    },
+    {
+      "label": "",
+      "lower": 80,
+      "higher": 89,
+      "num": 1,
+      "males": [
+        {
+          "name": "示例文本-75fed6eb",
+          "score": 1.5,
+          "boarding": false,
+          "gender": "male",
+          "courseId": null,
+          "columnId": null
+        }
+      ],
+      "females": [],
+      "borders": [],
+      "unBorders": [
+        {
+          "name": "示例文本-75fed6eb",
+          "score": 1.5,
+          "boarding": false,
+          "gender": "male",
+          "courseId": null,
+          "columnId": null
+        }
+      ]
+    },
+    {
+      "label": "",
+      "lower": 90,
+      "higher": 100,
+      "num": 1,
+      "males": [
+        {
+          "name": "示例文本-63978605",
+          "score": 1.5,
+          "boarding": false,
+          "gender": "male",
+          "courseId": null,
+          "columnId": null
+        }
+      ],
+      "females": [],
+      "borders": [],
+      "unBorders": [
+        {
+          "name": "示例文本-63978605",
+          "score": 1.5,
+          "boarding": false,
+          "gender": "male",
+          "courseId": null,
+          "columnId": null
+        }
+      ]
+    }
+  ]
+}

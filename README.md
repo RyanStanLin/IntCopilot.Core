@@ -44,4 +44,6 @@ let roster = try await teacher.course(courses[userSelectedIndex]).students()
 
 [完整 GitHub Wiki](https://github.com/RyanStanLin/IntCopilot.Core/wiki) 包含安装、认证、会话、逐接口/字段参考、依赖图、操作 SOP、测试规范及新增 API 指南。Wiki 源文件保存在 [Wiki](Wiki)，可编译 SOP 源码保存在测试 target。此包不提供 UI、磁盘或 Keychain 持久化。
 
+SwiftUI 测试工作台位于 [Examples/SwiftUIDemo](Examples/SwiftUIDemo)，支持 Mac、iPhone 和 iPad，包含两端登录、查询页面、完整 API 目录和逐次确认的手动写入测试。用 Xcode 打开其中的 `IntCopilotDemo.xcodeproj` 即可运行。
+
 MIT License。平台属于其原运营方；本 SDK 与运营方没有隶属关系。

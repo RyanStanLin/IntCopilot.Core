@@ -15,8 +15,8 @@ public struct ParentTaskMergeListGETResponseItemsItem: CapturedResponse {
     public let name: String
     /// 是否线上提交或线上状态。
     public let online: Bool
-    /// 分数；单位及评分方式由任务或成绩规则决定。
-    public let score: Double
+    /// 作业分数；单位由任务评分规则决定；未评分或服务端缺失时为 nil，不当作零分。
+    public let score: Double?
     /// 开始日期或时刻，Unix 毫秒。
     public let startDate: Int
     /// 本业务域状态；不能跨业务域套用代码表。
@@ -39,7 +39,7 @@ public struct ParentTaskMergeListGETResponseItemsItem: CapturedResponse {
         self.isRead = try container.decode(Bool.self, forKey: JSONKey("isRead"))
         self.name = try container.decode(String.self, forKey: JSONKey("name"))
         self.online = try container.decode(Bool.self, forKey: JSONKey("online"))
-        self.score = try container.decode(Double.self, forKey: JSONKey("score"))
+        self.score = try container.decodeIfPresent(Double.self, forKey: JSONKey("score"))
         self.startDate = try container.decode(Int.self, forKey: JSONKey("startDate"))
         self.status = try container.decode(Bool.self, forKey: JSONKey("status"))
         self.topScore = try container.decode(Int.self, forKey: JSONKey("topScore"))

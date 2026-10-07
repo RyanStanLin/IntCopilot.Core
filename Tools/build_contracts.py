@@ -266,7 +266,11 @@ def scrub(value, key='', semantic=False):
             if k.isdigit() and int(k)>7:return str(anonymous_id(k))
             m=re.fullmatch(r'(task|cus|col|grade|g)_(\d+)',k)
             return m[1]+'_'+str(anonymous_id(m[2])) if m else k
-        return {scrub_key(k):scrub(v,k,semantic) for k,v in value.items()}
+        def scrub_member(k, v):
+            if k == 'code' and any(x in value for x in ['studentId','teacherId','studentName']) and isinstance(v,str) and v.isdigit() and len(v)>5:
+                return '示例文本-'+pseudonym(v)[:8]
+            return scrub(v,k,semantic)
+        return {scrub_key(k):scrub_member(k,v) for k,v in value.items()}
     if isinstance(value,list): return [scrub(v,key,semantic) for v in value]
     if value is None or isinstance(value,bool):return value
     if isinstance(value,(int,float)):
@@ -365,8 +369,11 @@ def swift_model(s, name, path):
         used.add(n)
         properties=[];decode=[];encode=[];fields=[]
         for k,v in node['fields'].items():
-            t,d=build(v['schema'],n+pascal(k),k);optional=v['optional'];typ=t+('?' if optional else '')
+            t,d=build(v['schema'],n+pascal(k),k)
+            if n=='ParentTaskDetailGETResponse' and k=='score':t='Double'
+            optional=v['optional'] or (n in {'ParentTaskMergeListGETResponseItemsItem','ParentTaskDetailGETResponse'} and k=='score');typ=t+('?' if optional else '')
             meaning=MEANINGS.get(k,'服务端 '+k+' 字段；完整业务含义尚未确认，保留其完整结构')
+            if n in {'ParentTaskMergeListGETResponseItemsItem','ParentTaskDetailGETResponse'} and k=='score':meaning='作业分数；单位由任务评分规则决定；未评分为 nil，不当作零分'
             if optional:meaning+='；允许为空或缺失'
             properties += ['    /// '+meaning+'。','    public let '+member(k)+': '+typ]
             fields.append({'field':k,'type':typ,'meaning':meaning,'semanticDomain':d})

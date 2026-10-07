@@ -1,0 +1,100 @@
+[
+  {
+    "courseId": 237958942,
+    "description": "示例文本-2366ad6c",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": false
+  },
+  {
+    "courseId": 173650491,
+    "description": "示例文本-98cec844",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": false
+  },
+  {
+    "courseId": 578173192,
+    "description": "示例文本-d2457df5",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": false
+  },
+  {
+    "courseId": 263308999,
+    "description": "示例文本-c6cb414e",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": false
+  },
+  {
+    "courseId": 648706926,
+    "description": "示例文本-fbc93642",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 293422607,
+    "description": "示例文本-dd046bd5",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": false
+  },
+  {
+    "courseId": 336651986,
+    "description": "示例文本-795c156d",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 837310991,
+    "description": "示例文本-697d5ef9",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 341713909,
+    "description": "示例文本-949e5acc",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 445965865,
+    "description": "示例文本-ec07f49d",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": false
+  },
+  {
+    "courseId": 267102167,
+    "description": "示例文本-ed6b7d19",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 583346490,
+    "description": "示例文本-5a0bcac6",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 697968952,
+    "description": "示例文本-8ae3c005",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  },
+  {
+    "courseId": 451737754,
+    "description": "示例文本-eb6e50b6",
+    "type": "1001",
+    "unHandInNum": 0,
+    "isRead": true
+  }
+]

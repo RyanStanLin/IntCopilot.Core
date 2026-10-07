@@ -1,0 +1,94 @@
+{
+  "pageSize": 30,
+  "pageCurrent": 1,
+  "totalItem": 1,
+  "items": [
+    {
+      "studentId": 244037659,
+      "studentAvatar": "https://example.invalid/resource/627f4fd5",
+      "studentName": "示例文本-aedc0a46",
+      "className": "示例文本-5f93acbb",
+      "house": "示例文本-14e3c4c9",
+      "gender": "male",
+      "points": 1,
+      "dormitoryName": "",
+      "selfStudyRoomName": "",
+      "diaryIds": [
+        184391,
+        184398,
+        184485,
+        184602,
+        184667,
+        184694,
+        184909,
+        185220,
+        185534,
+        185824,
+        185890,
+        186285,
+        186847,
+        186872,
+        187028,
+        187049
+      ],
+      "countNum": 16,
+      "conductPoints": 13,
+      "housePoints": null,
+      "notePoints": 0,
+      "positivePoints": 3,
+      "negativePoints": 16,
+      "icons": [],
+      "modifyTime": 1115690840000,
+      "diaryEntryStatistics": [
+        {
+          "diaryEntryTypeId": 261892813,
+          "value": "示例文本-c7e8aaf6",
+          "enValue": "示例文本-c7e8aaf6",
+          "countNum": 3
+        },
+        {
+          "diaryEntryTypeId": 167935102,
+          "value": "示例文本-dbeacda6",
+          "enValue": "示例文本-dbeacda6",
+          "countNum": 5
+        },
+        {
+          "diaryEntryTypeId": 860163158,
+          "value": "示例文本-719c19e1",
+          "enValue": "示例文本-719c19e1",
+          "countNum": 3
+        },
+        {
+          "diaryEntryTypeId": 482800394,
+          "value": "示例文本-b596a09f",
+          "enValue": "示例文本-b596a09f",
+          "countNum": 0
+        },
+        {
+          "diaryEntryTypeId": 188945266,
+          "value": "示例文本-287a754e",
+          "enValue": "示例文本-287a754e",
+          "countNum": 0
+        },
+        {
+          "diaryEntryTypeId": 98213563,
+          "value": "示例文本-a0e8ca18",
+          "enValue": "示例文本-a0e8ca18",
+          "countNum": 0
+        },
+        {
+          "diaryEntryTypeId": 778142784,
+          "value": "示例文本-5e83854a",
+          "enValue": "示例文本-a0251ae3",
+          "countNum": 0
+        },
+        {
+          "diaryEntryTypeId": 103364383,
+          "value": "示例文本-938ece92",
+          "enValue": "示例文本-938ece92",
+          "countNum": 5
+        }
+      ]
+    }
+  ]
+}

@@ -21,8 +21,8 @@ public struct ParentTaskDetailGETResponse: CapturedResponse {
     public let overDeadline: Bool
     /// 完整附件资源引用。
     public let resources: [JSONValue]
-    /// 分数；单位及评分方式由任务或成绩规则决定。
-    public let score: Int
+    /// 作业分数；单位由任务评分规则决定；未评分或服务端缺失时为 nil，不当作零分。
+    public let score: Double?
     /// 是否启用评分。
     public let scoreFlag: Bool
     /// 本业务域状态；不能跨业务域套用代码表。
@@ -58,7 +58,7 @@ public struct ParentTaskDetailGETResponse: CapturedResponse {
         self.online = try container.decode(Bool.self, forKey: JSONKey("online"))
         self.overDeadline = try container.decode(Bool.self, forKey: JSONKey("overDeadline"))
         self.resources = try container.decode([JSONValue].self, forKey: JSONKey("resources"))
-        self.score = try container.decode(Int.self, forKey: JSONKey("score"))
+        self.score = try container.decodeIfPresent(Double.self, forKey: JSONKey("score"))
         self.scoreFlag = try container.decode(Bool.self, forKey: JSONKey("scoreFlag"))
         self.status = try container.decode(Bool.self, forKey: JSONKey("status"))
         self.studentResources = try container.decode([JSONValue].self, forKey: JSONKey("studentResources"))

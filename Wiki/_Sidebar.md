@@ -11,3 +11,4 @@
 - [可编译 Swift 示例](SOP-Examples)
 - [脱敏测试与真实测试边界](Testing)
 - [新增 API 完整指南](Adding-APIs)
+- [SwiftUI 双平台测试工作台](SwiftUI-Demo)

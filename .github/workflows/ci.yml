@@ -44,3 +44,22 @@ jobs:
           xcodebuild -scheme IntCopilot.Core -destination '${{ matrix.destination }}'
           -derivedDataPath '${{ runner.temp }}/IntCopilotBuild'
           CODE_SIGNING_ALLOWED=NO SWIFT_VERSION=6 SWIFT_STRICT_CONCURRENCY=complete build
+  swiftui-demo:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Demo safety tests
+        working-directory: Examples/SwiftUIDemo
+        run: swift test -Xswiftc -strict-concurrency=complete
+      - name: Compile macOS Demo
+        working-directory: Examples/SwiftUIDemo
+        run: >-
+          xcodebuild -project IntCopilotDemo.xcodeproj -scheme IntCopilotDemo
+          -destination 'platform=macOS' -derivedDataPath '${{ runner.temp }}/DemoMac'
+          CODE_SIGNING_ALLOWED=NO build
+      - name: Compile iOS Demo
+        working-directory: Examples/SwiftUIDemo
+        run: >-
+          xcodebuild -project IntCopilotDemo.xcodeproj -scheme IntCopilotDemo
+          -destination 'generic/platform=iOS Simulator' -derivedDataPath '${{ runner.temp }}/DemoIOS'
+          CODE_SIGNING_ALLOWED=NO build

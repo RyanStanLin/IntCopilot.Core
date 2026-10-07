@@ -1,0 +1,70 @@
+[
+  {
+    "classType": "1251",
+    "classTypeName": "示例文本-1f8ef6b1",
+    "teachers": [
+      {
+        "teacherId": 34436932,
+        "displayName": "示例文本-5e16aeff",
+        "teacherEnName": "示例文本-abdaa512",
+        "teacherName": "示例文本-6eaf4ffb",
+        "email": "person-c749a8b9@example.invalid"
+      }
+    ],
+    "tutorTeachers": []
+  },
+  {
+    "classType": "1253",
+    "classTypeName": "示例文本-7cbfea10",
+    "teachers": [
+      {
+        "teacherId": 181816149,
+        "displayName": "示例文本-7b526c18",
+        "teacherEnName": "示例文本-c56f1549",
+        "teacherName": "示例文本-f1502e87",
+        "email": "person-c0fa6bcf@example.invalid"
+      },
+      {
+        "teacherId": 34436932,
+        "displayName": "示例文本-5e16aeff",
+        "teacherEnName": "示例文本-abdaa512",
+        "teacherName": "示例文本-6eaf4ffb",
+        "email": "person-c749a8b9@example.invalid"
+      },
+      {
+        "teacherId": 852034434,
+        "displayName": "示例文本-d16b658e",
+        "teacherEnName": "示例文本-d16b658e",
+        "teacherName": "",
+        "email": "person-228ccfce@example.invalid"
+      },
+      {
+        "teacherId": 880436715,
+        "displayName": "示例文本-09a8232c",
+        "teacherEnName": "示例文本-09a8232c",
+        "teacherName": "",
+        "email": "person-03febf62@example.invalid"
+      },
+      {
+        "teacherId": 173853727,
+        "displayName": "示例文本-83482ae6",
+        "teacherEnName": "示例文本-130e9f81",
+        "teacherName": "示例文本-b72a4714",
+        "email": "person-fc387956@example.invalid"
+      }
+    ],
+    "tutorTeachers": []
+  },
+  {
+    "classType": "1256",
+    "classTypeName": "",
+    "teachers": [],
+    "tutorTeachers": []
+  },
+  {
+    "classType": "1257",
+    "classTypeName": "",
+    "teachers": [],
+    "tutorTeachers": []
+  }
+]

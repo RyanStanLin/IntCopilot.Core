@@ -1,0 +1,1849 @@
+{
+  "dailyStatistics": [
+    {
+      "date": 1115568000000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": true,
+      "editAblePM": true,
+      "editAbleEVE": true,
+      "attendances": {
+        "Period 6": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 43722490,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        },
+        "Period 5": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 639918970,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "Period 4": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 744999871,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "Period 3": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 847361547,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 2": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 762730650,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 1": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 301081885,
+          "courseName": "示例文本-fbc93642",
+          "classRoom": "示例文本-a204cc5e",
+          "comment": ""
+        },
+        "Period 9": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 851006660,
+          "courseName": "示例文本-697d5ef9",
+          "classRoom": "示例文本-ce491452",
+          "comment": ""
+        },
+        "Period 8": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 736815760,
+          "courseName": "示例文本-795c156d",
+          "classRoom": "示例文本-ce491452",
+          "comment": ""
+        },
+        "Period 7": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 408468947,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        }
+      },
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-854aa007",
+      "pm": "示例文本-2f59e1d4",
+      "eve": "示例文本-2f59e1d4",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    },
+    {
+      "date": 1115654400000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": true,
+      "editAblePM": true,
+      "editAbleEVE": true,
+      "attendances": {
+        "Period 6": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 308629780,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        },
+        "Period 5": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 264853164,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 4": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 11484691,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 3": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 576095637,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 2": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 312356517,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 1": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 250470774,
+          "courseName": "示例文本-dd046bd5",
+          "classRoom": "示例文本-0d178283",
+          "comment": ""
+        },
+        "Period 9": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 802760296,
+          "courseName": "示例文本-8ae3c005",
+          "classRoom": "示例文本-1c507a5d",
+          "comment": ""
+        },
+        "Period 8": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 574815506,
+          "courseName": "示例文本-ec07f49d",
+          "classRoom": "示例文本-1c507a5d",
+          "comment": ""
+        },
+        "CCA2": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 72890472,
+          "courseName": "示例文本-6d5f6c51",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        },
+        "Period 7": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 236042860,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        }
+      },
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-854aa007",
+      "pm": "示例文本-2f59e1d4",
+      "eve": "示例文本-2f59e1d4",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    },
+    {
+      "date": 1115740800000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": true,
+      "editAblePM": true,
+      "editAbleEVE": true,
+      "attendances": {
+        "Period 6": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 16750476,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        },
+        "Period 5": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 755402364,
+          "courseName": "示例文本-5a0bcac6",
+          "classRoom": "示例文本-d1bf762e",
+          "comment": ""
+        },
+        "Period 4": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 190673848,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 3": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 585964384,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 2": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 263719861,
+          "courseName": "示例文本-dd046bd5",
+          "classRoom": "示例文本-0d178283",
+          "comment": ""
+        },
+        "Period 1": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 622790413,
+          "courseName": "示例文本-949e5acc",
+          "classRoom": "示例文本-ce491452",
+          "comment": ""
+        },
+        "Period 9": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 242103229,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "Period 8": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 21989930,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "CCA2": {
+          "status": "intime",
+          "editAble": true,
+          "classArrangeId": 884994817,
+          "courseName": "示例文本-be6c209a",
+          "classRoom": "示例文本-ab5fc62c",
+          "comment": ""
+        },
+        "Period 7": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 492760664,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        }
+      },
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-854aa007",
+      "pm": "示例文本-2f59e1d4",
+      "eve": "示例文本-2f59e1d4",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    },
+    {
+      "date": 1115827200000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": false,
+      "editAblePM": false,
+      "editAbleEVE": false,
+      "attendances": {
+        "Period 6": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 827214695,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "Period 5": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 648211284,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 4": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 618402603,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 3": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 252907010,
+          "courseName": "示例文本-ed6b7d19",
+          "classRoom": "示例文本-76db4ac9",
+          "comment": ""
+        },
+        "Period 2": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 706203194,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        },
+        "Period 1": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 652198747,
+          "courseName": "示例文本-2366ad6c",
+          "classRoom": "示例文本-7c1f0fac",
+          "comment": ""
+        },
+        "Period 9": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 713859582,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 8": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 378187903,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "CCA2": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 584598964,
+          "courseName": "示例文本-d016632d",
+          "classRoom": "示例文本-b498e42d",
+          "comment": ""
+        },
+        "Period 7": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 784805285,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        }
+      },
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-44ee6554",
+      "pm": "示例文本-44ee6554",
+      "eve": "示例文本-44ee6554",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    },
+    {
+      "date": 1115913600000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": false,
+      "editAblePM": false,
+      "editAbleEVE": false,
+      "attendances": {
+        "Period 6": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 138544921,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        },
+        "Period 5": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 167965214,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 4": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 723144365,
+          "courseName": "示例文本-d2457df5",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 3": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 718501079,
+          "courseName": "示例文本-ed6b7d19",
+          "classRoom": "示例文本-76db4ac9",
+          "comment": ""
+        },
+        "Period 2": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 713214423,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "Period 1": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 150309799,
+          "courseName": "示例文本-98cec844",
+          "classRoom": "示例文本-f203ec82",
+          "comment": ""
+        },
+        "Period 8": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 310124254,
+          "courseName": "示例文本-eb6e50b6",
+          "classRoom": "示例文本-6752f55b",
+          "comment": ""
+        },
+        "Period 7": {
+          "status": "noRecords",
+          "editAble": true,
+          "classArrangeId": 452848411,
+          "courseName": "示例文本-c6cb414e",
+          "classRoom": "示例文本-7e3a04e1",
+          "comment": ""
+        }
+      },
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-44ee6554",
+      "pm": "示例文本-44ee6554",
+      "eve": "示例文本-44ee6554",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    },
+    {
+      "date": 1116000000000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": false,
+      "editAblePM": false,
+      "editAbleEVE": false,
+      "attendances": {},
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-44ee6554",
+      "pm": "示例文本-44ee6554",
+      "eve": "示例文本-44ee6554",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    },
+    {
+      "date": 1116086400000,
+      "classPeriods": [
+        {
+          "classPeriodId": 167776003,
+          "description": "示例文本-7caea4cb",
+          "start": 1115770200000,
+          "end": 1115772600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 2377860,
+          "description": "示例文本-14b91e79",
+          "start": 1115773200000,
+          "end": 1115775600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 126584511,
+          "description": "示例文本-f5719be0",
+          "start": 1115776200000,
+          "end": 1115778600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 537718987,
+          "description": "示例文本-1897a4ee",
+          "start": 1115779500000,
+          "end": 1115781900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 28006958,
+          "description": "示例文本-e8ef7336",
+          "start": 1115782500000,
+          "end": 1115784900000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 209549647,
+          "description": "示例文本-a5feecae",
+          "start": 1115788800000,
+          "end": 1115791200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 862180790,
+          "description": "示例文本-cace4bfb",
+          "start": 1115791800000,
+          "end": 1115794200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 650765653,
+          "description": "示例文本-3e7c4275",
+          "start": 1115794800000,
+          "end": 1115797200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 554401205,
+          "description": "示例文本-28490f3b",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 662791772,
+          "description": "示例文本-9a9575ca",
+          "start": 1115797800000,
+          "end": 1115800200000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 552668082,
+          "description": "示例文本-56ad52a1",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 721112142,
+          "description": "示例文本-8888809c",
+          "start": 1115800800000,
+          "end": 1115803800000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 754076542,
+          "description": "示例文本-b6637438",
+          "start": 1115803800000,
+          "end": 1115805600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 194041222,
+          "description": "示例文本-f70c0023",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 373933688,
+          "description": "示例文本-752a0473",
+          "start": 1115807400000,
+          "end": 1115811000000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 170558227,
+          "description": "示例文本-7d04c71c",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": false,
+          "isFullPeriodArranged": false
+        },
+        {
+          "classPeriodId": 455560785,
+          "description": "示例文本-fd1fa14d",
+          "start": 1115811000000,
+          "end": 1115814600000,
+          "sevenFive": false,
+          "isCCA": true,
+          "isFullPeriodArranged": false
+        }
+      ],
+      "editAbleAM": false,
+      "editAblePM": false,
+      "editAbleEVE": false,
+      "attendances": {},
+      "dormitoryAttendanceFlag": false,
+      "dormitoryAttendances": {
+        "am": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "pm": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        },
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "studyRoomAttendanceFlag": false,
+      "studyRoomAttendances": {
+        "eve": {
+          "status": "noRecords",
+          "editAble": false,
+          "classArrangeId": null,
+          "courseName": "",
+          "classRoom": "",
+          "comment": ""
+        }
+      },
+      "leaveInfo": [],
+      "am": "示例文本-44ee6554",
+      "pm": "示例文本-44ee6554",
+      "eve": "示例文本-44ee6554",
+      "amcomment": "",
+      "pmcomment": "",
+      "evecomment": ""
+    }
+  ],
+  "attendanceTypes": [
+    "示例文本-9b8dba1d",
+    "示例文本-aded9823",
+    "示例文本-908d8574",
+    "示例文本-f0257b3e",
+    "示例文本-8d87c00c"
+  ],
+  "dailySession": [
+    "示例文本-899fa247"
+  ],
+  "dormitorySession": [
+    "示例文本-899fa247",
+    "示例文本-21df392a",
+    "示例文本-5907f51a"
+  ]
+}

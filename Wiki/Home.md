@@ -18,6 +18,7 @@ Swift 6 API 库，公开模块 `IntCopilotCore`，运行时仅依赖 Foundation�
 | [可编译 Swift 示例](SOP-Examples) | 可编译 Swift 示例 |
 | [脱敏测试与真实测试边界](Testing) | 脱敏测试与真实测试边界 |
 | [新增 API 完整指南](Adding-APIs) | 新增 API 完整指南 |
+| [SwiftUI 双平台测试工作台](SwiftUI-Demo) | SwiftUI 双平台测试工作台 |
 
 [仓库与 CI](https://github.com/RyanStanLin/IntCopilot.Core) · [验证报告](https://github.com/RyanStanLin/IntCopilot.Core/blob/main/Docs/ValidationReport.json)
 

@@ -1,0 +1,133 @@
+[
+  {
+    "key": 734369967,
+    "value": "示例文本-493d3bda",
+    "enValue": "示例文本-f1d89eb1",
+    "extraValue": "示例文本-c94550a2",
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 603671419,
+        "value": "示例文本-4288a838",
+        "enValue": "示例文本-4288a838",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 807315695,
+        "value": "示例文本-203f30fd",
+        "enValue": "示例文本-203f30fd",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 341755803,
+        "value": "示例文本-8e221840",
+        "enValue": "示例文本-8e221840",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 675236001,
+        "value": "示例文本-0c400956",
+        "enValue": "示例文本-0c400956",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 441056618,
+        "value": "示例文本-56bce866",
+        "enValue": "示例文本-56bce866",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 133580501,
+        "value": "示例文本-f3de47dc",
+        "enValue": "示例文本-f3de47dc",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      }
+    ]
+  },
+  {
+    "key": 611792798,
+    "value": "示例文本-ea519c8b",
+    "enValue": "示例文本-11f11823",
+    "extraValue": "示例文本-8b3cb013",
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 146014529,
+        "value": "示例文本-8a7d475f",
+        "enValue": "示例文本-8a7d475f",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 34695439,
+        "value": "示例文本-10b6427a",
+        "enValue": "示例文本-10b6427a",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 617229727,
+        "value": "示例文本-6ce3422e",
+        "enValue": "示例文本-6ce3422e",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      }
+    ]
+  },
+  {
+    "key": 468898755,
+    "value": "示例文本-144a1146",
+    "enValue": "示例文本-b04249f1",
+    "extraValue": "示例文本-58a882a4",
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 600743532,
+        "value": "示例文本-8a2bb109",
+        "enValue": "示例文本-8a2bb109",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 490500212,
+        "value": "示例文本-0c7adbea",
+        "enValue": "示例文本-0c7adbea",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 628822628,
+        "value": "示例文本-6c00c5aa",
+        "enValue": "示例文本-6c00c5aa",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      },
+      {
+        "key": 898609182,
+        "value": "示例文本-708aab4f",
+        "enValue": "示例文本-708aab4f",
+        "extraValue": null,
+        "isTeach": false,
+        "subOptions": []
+      }
+    ]
+  }
+]

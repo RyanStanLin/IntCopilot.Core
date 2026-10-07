@@ -16,7 +16,7 @@
 | `online` | `Bool` | 是否线上提交或线上状态 | — |
 | `overDeadline` | `Bool` | 是否已超过截止时间 | — |
 | `resources` | `[JSONValue]` | 完整附件资源引用 | — |
-| `score` | `Int` | 分数；单位及评分方式由任务或成绩规则决定 | — |
+| `score` | `Double?` | 作业分数；单位由任务评分规则决定；未评分或服务端缺失时为 nil，不当作零分 | — |
 | `scoreFlag` | `Bool` | 是否启用评分 | — |
 | `status` | `Bool` | 本业务域状态；不能跨业务域套用代码表 | — |
 | `studentResources` | `[JSONValue]` | 学生提交的附件资源 | — |
@@ -53,7 +53,7 @@
 | `isRead` | `Bool` | 当前条目是否已读 | — |
 | `name` | `String` | 业务实体或选项名称 | — |
 | `online` | `Bool` | 是否线上提交或线上状态 | — |
-| `score` | `Double` | 分数；单位及评分方式由任务或成绩规则决定 | — |
+| `score` | `Double?` | 作业分数；单位由任务评分规则决定；未评分或服务端缺失时为 nil，不当作零分 | — |
 | `startDate` | `Int` | 开始日期或时刻，Unix 毫秒 | — |
 | `status` | `Bool` | 本业务域状态；不能跨业务域套用代码表 | — |
 | `topScore` | `Int` | 评分上限或统计最高分，依端点业务区分 | — |

@@ -1,0 +1,44 @@
+[
+  {
+    "key": 265670434,
+    "value": "生病",
+    "enValue": "Sick Leave",
+    "extraValue": null
+  },
+  {
+    "key": 484451471,
+    "value": "住院",
+    "enValue": "Hospital",
+    "extraValue": null
+  },
+  {
+    "key": 831103987,
+    "value": "医生预约",
+    "enValue": "Doctor App",
+    "extraValue": null
+  },
+  {
+    "key": 228319549,
+    "value": "个人原因",
+    "enValue": "Sick Leave",
+    "extraValue": null
+  },
+  {
+    "key": 299028714,
+    "value": "度假",
+    "enValue": "Holidays",
+    "extraValue": null
+  },
+  {
+    "key": 233637166,
+    "value": "参加考试",
+    "enValue": "Exam",
+    "extraValue": null
+  },
+  {
+    "key": 734369967,
+    "value": "其他",
+    "enValue": "Others",
+    "extraValue": null
+  }
+]

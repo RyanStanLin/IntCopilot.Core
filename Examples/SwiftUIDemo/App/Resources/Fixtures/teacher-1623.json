@@ -1,0 +1,290 @@
+[
+  {
+    "groupLabel": "示例文本-e907bde9",
+    "list": [
+      {
+        "relationId": 305476988,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 840668090,
+        "teacherName": "示例文本-d0ae32bb"
+      }
+    ]
+  },
+  {
+    "groupLabel": "示例文本-072f0d68",
+    "list": [
+      {
+        "relationId": 554822297,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 489064775,
+        "teacherName": "示例文本-835eee56"
+      },
+      {
+        "relationId": 341755803,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 489064775,
+        "teacherName": "示例文本-835eee56"
+      },
+      {
+        "relationId": 707683565,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 676151557,
+        "teacherName": "示例文本-191353a1"
+      },
+      {
+        "relationId": 707683565,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 372604762,
+        "teacherName": "示例文本-56499fe9"
+      },
+      {
+        "relationId": 554822297,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 590430868,
+        "teacherName": "示例文本-79ad118d"
+      },
+      {
+        "relationId": 341755803,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 590430868,
+        "teacherName": "示例文本-79ad118d"
+      },
+      {
+        "relationId": 707683565,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 768507887,
+        "teacherName": "示例文本-eb9f40f7"
+      },
+      {
+        "relationId": 554822297,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 565475553,
+        "teacherName": "示例文本-ea8b932d"
+      },
+      {
+        "relationId": 341755803,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 565475553,
+        "teacherName": "示例文本-ea8b932d"
+      }
+    ]
+  },
+  {
+    "groupLabel": "示例文本-fe908511",
+    "list": [
+      {
+        "relationId": 795720149,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 793217531,
+        "teacherName": "示例文本-34cb82a3"
+      },
+      {
+        "relationId": 675236001,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 793217531,
+        "teacherName": "示例文本-34cb82a3"
+      },
+      {
+        "relationId": 795720149,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 548209215,
+        "teacherName": "示例文本-06254bb2"
+      },
+      {
+        "relationId": 675236001,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 548209215,
+        "teacherName": "示例文本-06254bb2"
+      },
+      {
+        "relationId": 102305221,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 420681424,
+        "teacherName": "示例文本-6d1c6075"
+      },
+      {
+        "relationId": 795720149,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 200615009,
+        "teacherName": "示例文本-4bb47186"
+      },
+      {
+        "relationId": 675236001,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 200615009,
+        "teacherName": "示例文本-4bb47186"
+      },
+      {
+        "relationId": 102305221,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 457271502,
+        "teacherName": "示例文本-c2edcca7"
+      },
+      {
+        "relationId": 795720149,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 71477591,
+        "teacherName": "示例文本-8bc45328"
+      },
+      {
+        "relationId": 675236001,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 71477591,
+        "teacherName": "示例文本-8bc45328"
+      }
+    ]
+  },
+  {
+    "groupLabel": "示例文本-f1265dcb",
+    "list": [
+      {
+        "relationId": 63866906,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 82311781,
+        "teacherName": "示例文本-db1ea6b3"
+      },
+      {
+        "relationId": 441056618,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 82311781,
+        "teacherName": "示例文本-db1ea6b3"
+      },
+      {
+        "relationId": 63866906,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 46248677,
+        "teacherName": "示例文本-0eb69c4b"
+      },
+      {
+        "relationId": 441056618,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 46248677,
+        "teacherName": "示例文本-0eb69c4b"
+      },
+      {
+        "relationId": 63866906,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 633030530,
+        "teacherName": "示例文本-ccf2d5a9"
+      },
+      {
+        "relationId": 441056618,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 633030530,
+        "teacherName": "示例文本-ccf2d5a9"
+      }
+    ]
+  },
+  {
+    "groupLabel": "示例文本-cbb358c8",
+    "list": [
+      {
+        "relationId": 240476712,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 745217363,
+        "teacherName": "示例文本-fbea5ccf"
+      },
+      {
+        "relationId": 240476712,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 503964563,
+        "teacherName": "示例文本-5675321a"
+      },
+      {
+        "relationId": 240476712,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 493436790,
+        "teacherName": "示例文本-7b4edcee"
+      },
+      {
+        "relationId": 454720616,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 386964490,
+        "teacherName": "示例文本-12559c36"
+      },
+      {
+        "relationId": 133580501,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 386964490,
+        "teacherName": "示例文本-12559c36"
+      },
+      {
+        "relationId": 454720616,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 243767418,
+        "teacherName": "示例文本-3511e93e"
+      },
+      {
+        "relationId": 133580501,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 243767418,
+        "teacherName": "示例文本-3511e93e"
+      }
+    ]
+  },
+  {
+    "groupLabel": "示例文本-9141413a",
+    "list": [
+      {
+        "relationId": 295114435,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 173853727,
+        "teacherName": "示例文本-83482ae6"
+      },
+      {
+        "relationId": 146014529,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 173853727,
+        "teacherName": "示例文本-83482ae6"
+      },
+      {
+        "relationId": 295114435,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 852034434,
+        "teacherName": "示例文本-d16b658e"
+      },
+      {
+        "relationId": 146014529,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 852034434,
+        "teacherName": "示例文本-d16b658e"
+      },
+      {
+        "relationId": 214001888,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 434306005,
+        "teacherName": "示例文本-158ecfce"
+      },
+      {
+        "relationId": 214001888,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 580890170,
+        "teacherName": "示例文本-20e7c507"
+      },
+      {
+        "relationId": 295114435,
+        "relationName": "示例文本-2f8bc8e6",
+        "teacherId": 34436932,
+        "teacherName": "示例文本-5e16aeff"
+      },
+      {
+        "relationId": 146014529,
+        "relationName": "示例文本-0f88a2c2",
+        "teacherId": 34436932,
+        "teacherName": "示例文本-5e16aeff"
+      },
+      {
+        "relationId": 214001888,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 33761383,
+        "teacherName": "示例文本-aa35a17d"
+      },
+      {
+        "relationId": 214001888,
+        "relationName": "示例文本-71cbed04",
+        "teacherId": 851065699,
+        "teacherName": "示例文本-a2c9c687"
+      }
+    ]
+  }
+]

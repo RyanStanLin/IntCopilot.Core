@@ -1,0 +1,159 @@
+{
+  "month": 1083218775000,
+  "studentName": "示例文本-63978605",
+  "studentNum": "示例文本-58a5519a",
+  "house": "示例文本-0500af88",
+  "tutor": "示例文本-8015c85e",
+  "grade": "示例文本-6c00c5aa",
+  "headTeacher": "示例文本-12559c36",
+  "gradeItems": [
+    {
+      "courseName": "示例文本-5f655965",
+      "teachers": "示例文本-2dcaf017",
+      "effort": "示例文本-93388133",
+      "attainment": "示例文本-b36b9917",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-0ce1d3df",
+      "teachingContent": "示例文本-cf00705c",
+      "subjectClass": "",
+      "courseScheduleName": "示例文本-3255500c",
+      "customColumnScore": 0.0,
+      "level": ""
+    },
+    {
+      "courseName": "示例文本-0a49150c",
+      "teachers": "示例文本-88f0a8f4",
+      "effort": "示例文本-f1e16c0f",
+      "attainment": "示例文本-b36b9917",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-dd24fc26",
+      "teachingContent": "示例文本-0f92f9dd",
+      "subjectClass": "",
+      "courseScheduleName": "示例文本-aea86ff0",
+      "customColumnScore": 0.0,
+      "level": ""
+    },
+    {
+      "courseName": "示例文本-0774c50d",
+      "teachers": "示例文本-b106457f",
+      "effort": "示例文本-93388133",
+      "attainment": "示例文本-43adca14",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-0d84b611",
+      "teachingContent": "示例文本-46bf538c",
+      "subjectClass": "",
+      "courseScheduleName": "示例文本-3b64cfdf",
+      "customColumnScore": 0.0,
+      "level": ""
+    },
+    {
+      "courseName": "示例文本-783db887",
+      "teachers": "示例文本-8bc45328",
+      "effort": "示例文本-93388133",
+      "attainment": "示例文本-b36b9917",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-d95751d2",
+      "teachingContent": "示例文本-99a66dae",
+      "subjectClass": "",
+      "courseScheduleName": "示例文本-8ec7dad0",
+      "customColumnScore": 0.0,
+      "level": ""
+    },
+    {
+      "courseName": "示例文本-32da4e9f",
+      "teachers": "示例文本-6fd560a7",
+      "effort": "示例文本-f1e16c0f",
+      "attainment": "示例文本-a75ce03c",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-dde58007",
+      "teachingContent": "示例文本-89076511",
+      "subjectClass": "",
+      "courseScheduleName": "示例文本-68eb627d",
+      "customColumnScore": 0.0,
+      "level": ""
+    },
+    {
+      "courseName": "示例文本-9d5e2a4a",
+      "teachers": "示例文本-34cb82a3",
+      "effort": "示例文本-93388133",
+      "attainment": "示例文本-43adca14",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-5257c4f7",
+      "teachingContent": "示例文本-539f2640",
+      "subjectClass": "示例文本-0740ffe8",
+      "courseScheduleName": "示例文本-73808eed",
+      "customColumnScore": 0.0,
+      "level": ""
+    },
+    {
+      "courseName": "示例文本-9d5e2a4a",
+      "teachers": "示例文本-cf7827d4",
+      "effort": "示例文本-93388133",
+      "attainment": "示例文本-43adca14",
+      "percentage": null,
+      "comment": "",
+      "keyWords": "示例文本-ae9a5f27",
+      "teachingContent": "示例文本-c088de44",
+      "subjectClass": "示例文本-8aae6b38",
+      "courseScheduleName": "示例文本-73808eed",
+      "customColumnScore": 0.0,
+      "level": ""
+    }
+  ],
+  "housePoint": null,
+  "houseAchievements": "",
+  "conductPoints": null,
+  "behaviourEvents": "",
+  "deputyComment": null,
+  "tutorComments": [
+    {
+      "teacherName": "示例文本-12559c36",
+      "comment": "示例文本-021c339b"
+    }
+  ],
+  "headTeacherComments": [],
+  "gradePeriod": {
+    "monthlyGradePeriodId": 443224744,
+    "name": "示例文本-0df38375",
+    "enName": "示例文本-0c767c48",
+    "reportType": "monthly",
+    "schoolYear": {
+      "key": 300351004,
+      "value": "示例文本-30405708"
+    },
+    "campus": {
+      "key": 468898755,
+      "value": null
+    },
+    "startTime": 1083218775000,
+    "endTime": 1084169182000,
+    "headTeacher": false,
+    "tutor": true,
+    "deputyHead": false,
+    "deputyHeadId": null,
+    "courseTeacher": false,
+    "effort": true,
+    "attainment": true,
+    "hc": false,
+    "ep": false,
+    "teachingReview": true
+  },
+  "attendanceInfo": [
+    {
+      "gradePeriodId": 443224744,
+      "gradePeriodName": "示例文本-0df38375",
+      "startTime": 1081663568000,
+      "endTime": 1084255550000,
+      "data": {
+        "intime": 21
+      }
+    }
+  ],
+  "customColumns": []
+}

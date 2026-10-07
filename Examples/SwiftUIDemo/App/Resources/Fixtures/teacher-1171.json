@@ -1,0 +1,112 @@
+{
+  "classList": [],
+  "houseList": [
+    {
+      "id": 240476712,
+      "name": "示例文本-16935803",
+      "studentNum": 11
+    }
+  ],
+  "floorList": [],
+  "selfStudyRoomList": [
+    {
+      "id": 407662665,
+      "name": "示例文本-1c335141",
+      "studentNum": 14
+    },
+    {
+      "id": 480653437,
+      "name": "示例文本-5faff7b0",
+      "studentNum": 20
+    },
+    {
+      "id": 730381134,
+      "name": "示例文本-e7d09196",
+      "studentNum": 14
+    },
+    {
+      "id": 198989896,
+      "name": "示例文本-a93a7cda",
+      "studentNum": 23
+    },
+    {
+      "id": 468898755,
+      "name": "示例文本-e2e6f4c4",
+      "studentNum": 17
+    },
+    {
+      "id": 611792798,
+      "name": "示例文本-183fbbf9",
+      "studentNum": 19
+    },
+    {
+      "id": 734369967,
+      "name": "示例文本-ef252e95",
+      "studentNum": 14
+    },
+    {
+      "id": 297800311,
+      "name": "示例文本-d4e2fa13",
+      "studentNum": 19
+    }
+  ],
+  "courseList": [
+    {
+      "id": 237958942,
+      "name": "示例文本-2366ad6c",
+      "classRoomName": "",
+      "classPeriodId": null,
+      "classPeriodName": "",
+      "start": null,
+      "end": null,
+      "studentNum": 2,
+      "courseFlag": false
+    },
+    {
+      "id": 6087526,
+      "name": "示例文本-9ea00e2f",
+      "classRoomName": "",
+      "classPeriodId": null,
+      "classPeriodName": "",
+      "start": null,
+      "end": null,
+      "studentNum": 2,
+      "courseFlag": false
+    },
+    {
+      "id": 682500548,
+      "name": "示例文本-c244a136",
+      "classRoomName": "",
+      "classPeriodId": null,
+      "classPeriodName": "",
+      "start": null,
+      "end": null,
+      "studentNum": 1,
+      "courseFlag": false
+    },
+    {
+      "id": 327335263,
+      "name": "示例文本-3ccae375",
+      "classRoomName": "",
+      "classPeriodId": null,
+      "classPeriodName": "",
+      "start": null,
+      "end": null,
+      "studentNum": 7,
+      "courseFlag": false
+    }
+  ],
+  "ccaList": [
+    {
+      "id": 52473932,
+      "name": "示例文本-6d5f6c51",
+      "classRoomName": "",
+      "classPeriodId": null,
+      "classPeriodName": "",
+      "start": null,
+      "end": null,
+      "studentNum": 5,
+      "courseFlag": false
+    }
+  ]
+}

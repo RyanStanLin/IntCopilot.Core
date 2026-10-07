@@ -1,0 +1,36 @@
+[
+  {
+    "studentName": "示例文本-75fed6eb",
+    "studentId": 619540604,
+    "studentNum": "示例文本-482edd96",
+    "effort": {
+      "key": 285560698,
+      "value": "示例文本-93388133",
+      "type": ""
+    },
+    "attainment": {
+      "key": 373228378,
+      "value": "示例文本-43adca14",
+      "type": ""
+    },
+    "examPercentage": null,
+    "comments": ""
+  },
+  {
+    "studentName": "示例文本-63978605",
+    "studentId": 152289766,
+    "studentNum": "示例文本-58a5519a",
+    "effort": {
+      "key": 285560698,
+      "value": "示例文本-93388133",
+      "type": ""
+    },
+    "attainment": {
+      "key": 373228378,
+      "value": "示例文本-43adca14",
+      "type": ""
+    },
+    "examPercentage": null,
+    "comments": ""
+  }
+]

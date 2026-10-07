@@ -1,0 +1,21 @@
+{
+  "pageSize": 30,
+  "pageCurrent": 1,
+  "totalItem": 1,
+  "items": [
+    {
+      "entityId": 445418884,
+      "name": "示例文本-b13cea13",
+      "endDate": 1115166692000,
+      "score": 1.5,
+      "topScore": 100,
+      "creatorName": "示例文本-5675321a",
+      "displayName": "示例文本-5675321a",
+      "startDate": 1115080288000,
+      "status": false,
+      "isRead": true,
+      "type": "1001",
+      "online": false
+    }
+  ]
+}

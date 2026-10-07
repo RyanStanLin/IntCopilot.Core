@@ -134,6 +134,10 @@ home = ['# IntCopilot.Core', '', 'Swift 6 API 库，公开模块 `IntCopilotCore
         f'当前目录记录 **{len(CATALOG)} 个端点**；**{len(COVERAGE)} 个端点覆盖全部 157 组原始请求/响应**，另有补充只读证据。响应模型保留所有已确认字段、动态字典与新增字段。原始研究资料不公开。', '',
         '| 文档 | 内容 |', '|---|---|']
 sections = {'Installation':'安装与平台','Authentication':'认证、短信重试与 Token 恢复','Architecture':'架构与模块边界','API-Index':'逐接口参考','Capture-Coverage':'157 组抓包覆盖','Dependencies':'参数依赖图与来源','Semantics':'业务语义字典','Risks':'不稳定性、外部副作用及证据','SOP':'标准操作调用顺序','SOP-Examples':'可编译 Swift 示例','Testing':'脱敏测试与真实测试边界','Adding-APIs':'新增 API 完整指南'}
+demo_readme = ROOT / 'Examples/SwiftUIDemo/README.md'
+if demo_readme.exists():
+    sections['SwiftUI-Demo'] = 'SwiftUI 双平台测试工作台'
+    (WIKI / 'SwiftUI-Demo.md').write_text(demo_readme.read_text() + '\n[工程源码](https://github.com/RyanStanLin/IntCopilot.Core/tree/main/Examples/SwiftUIDemo)\n')
 for page, title in sections.items(): home.append('| [' + title + '](' + page + ') | ' + title + ' |')
 home += ['', '[仓库与 CI](https://github.com/RyanStanLin/IntCopilot.Core) · [验证报告](https://github.com/RyanStanLin/IntCopilot.Core/blob/main/Docs/ValidationReport.json)', '', 'Wiki 源文件随主仓库版本管理，并同步 GitHub 原生 Wiki。静态发现和 mock 不代表真实契约验证；未完整确认接口留在实验入口。']
 (WIKI / 'Home.md').write_text('\n'.join(home) + '\n')

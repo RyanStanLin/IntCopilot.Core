@@ -1,0 +1,1317 @@
+{
+  "classArranges": {
+    "1": [
+      {
+        "classArrangeId": 353395200,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 6087526,
+          "description": "示例文本-9ea00e2f",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 508394932,
+              "studentNum": "",
+              "name": "示例文本-7df1ca86",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 789416856,
+              "studentNum": "",
+              "name": "示例文本-1d781126",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115600400000,
+        "endTime": 1115605800000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 408468947,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 237958942,
+          "description": "示例文本-2366ad6c",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 619540604,
+              "studentNum": "",
+              "name": "示例文本-75fed6eb",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 152289766,
+              "studentNum": "",
+              "name": "示例文本-63978605",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115616000000,
+        "endTime": 1115621400000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 162911517,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 327335263,
+          "description": "示例文本-3ccae375",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 577296875,
+              "studentNum": "",
+              "name": "示例文本-fa03d3b2",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 107237384,
+              "studentNum": "",
+              "name": "示例文本-6f896207",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 833803161,
+              "studentNum": "",
+              "name": "示例文本-fc2cfb8e",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 679875020,
+              "studentNum": "",
+              "name": "示例文本-34becee6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 574356362,
+              "studentNum": "",
+              "name": "示例文本-3bb6a405",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 703246939,
+              "studentNum": "",
+              "name": "示例文本-6dc5710e",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 887372654,
+              "studentNum": "",
+              "name": "示例文本-1b0ba14f",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 490500212,
+            "name": "示例文本-0c7adbea",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115622000000,
+        "endTime": 1115627400000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      }
+    ],
+    "2": [
+      {
+        "classArrangeId": 247592560,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 682500548,
+          "description": "示例文本-c244a136",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 679875020,
+              "studentNum": "",
+              "name": "示例文本-34becee6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 490500212,
+            "name": "示例文本-0c7adbea",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115686800000,
+        "endTime": 1115689200000,
+        "week": null,
+        "periods": 1,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 677191344,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 6087526,
+          "description": "示例文本-9ea00e2f",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 508394932,
+              "studentNum": "",
+              "name": "示例文本-7df1ca86",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 789416856,
+              "studentNum": "",
+              "name": "示例文本-1d781126",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115693100000,
+        "endTime": 1115698500000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 236042860,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 237958942,
+          "description": "示例文本-2366ad6c",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 619540604,
+              "studentNum": "",
+              "name": "示例文本-75fed6eb",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 152289766,
+              "studentNum": "",
+              "name": "示例文本-63978605",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115702400000,
+        "endTime": 1115707800000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 765532320,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 327335263,
+          "description": "示例文本-3ccae375",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 577296875,
+              "studentNum": "",
+              "name": "示例文本-fa03d3b2",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 107237384,
+              "studentNum": "",
+              "name": "示例文本-6f896207",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 833803161,
+              "studentNum": "",
+              "name": "示例文本-fc2cfb8e",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 679875020,
+              "studentNum": "",
+              "name": "示例文本-34becee6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 574356362,
+              "studentNum": "",
+              "name": "示例文本-3bb6a405",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 703246939,
+              "studentNum": "",
+              "name": "示例文本-6dc5710e",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 887372654,
+              "studentNum": "",
+              "name": "示例文本-1b0ba14f",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 490500212,
+            "name": "示例文本-0c7adbea",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115708400000,
+        "endTime": 1115710800000,
+        "week": null,
+        "periods": 1,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 72890472,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 52473932,
+          "description": "示例文本-6d5f6c51",
+          "subject": null,
+          "students": [
+            {
+              "studentId": 809274662,
+              "studentNum": "",
+              "name": "示例文本-20457cb6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 304433896,
+              "studentNum": "",
+              "name": "示例文本-45c8a5ca",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 152289766,
+              "studentNum": "",
+              "name": "示例文本-63978605",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 472692646,
+              "studentNum": "",
+              "name": "示例文本-3d1424d4",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 302189236,
+              "studentNum": "",
+              "name": "示例文本-904d62aa",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            },
+            {
+              "teacherId": 304880808,
+              "name": "示例文本-c3865b5e",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [],
+        "startTime": 1115714400000,
+        "endTime": 1115717400000,
+        "week": null,
+        "periods": 1,
+        "type": "1002",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          },
+          {
+            "teacherId": 304880808,
+            "name": "示例文本-c3865b5e",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      }
+    ],
+    "3": [
+      {
+        "classArrangeId": 780499202,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 682500548,
+          "description": "示例文本-c244a136",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 679875020,
+              "studentNum": "",
+              "name": "示例文本-34becee6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 490500212,
+            "name": "示例文本-0c7adbea",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115779500000,
+        "endTime": 1115781900000,
+        "week": null,
+        "periods": 1,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 492760664,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 237958942,
+          "description": "示例文本-2366ad6c",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 619540604,
+              "studentNum": "",
+              "name": "示例文本-75fed6eb",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 152289766,
+              "studentNum": "",
+              "name": "示例文本-63978605",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115788800000,
+        "endTime": 1115794200000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      }
+    ],
+    "4": [
+      {
+        "classArrangeId": 706203194,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 237958942,
+          "description": "示例文本-2366ad6c",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 619540604,
+              "studentNum": "",
+              "name": "示例文本-75fed6eb",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 152289766,
+              "studentNum": "",
+              "name": "示例文本-63978605",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115856600000,
+        "endTime": 1115862000000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 612634560,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 6087526,
+          "description": "示例文本-9ea00e2f",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 508394932,
+              "studentNum": "",
+              "name": "示例文本-7df1ca86",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 789416856,
+              "studentNum": "",
+              "name": "示例文本-1d781126",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 628822628,
+            "name": "示例文本-6c00c5aa",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115865900000,
+        "endTime": 1115871300000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      }
+    ],
+    "5": [
+      {
+        "classArrangeId": 291640982,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 327335263,
+          "description": "示例文本-3ccae375",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 577296875,
+              "studentNum": "",
+              "name": "示例文本-fa03d3b2",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 107237384,
+              "studentNum": "",
+              "name": "示例文本-6f896207",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 833803161,
+              "studentNum": "",
+              "name": "示例文本-fc2cfb8e",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 679875020,
+              "studentNum": "",
+              "name": "示例文本-34becee6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 574356362,
+              "studentNum": "",
+              "name": "示例文本-3bb6a405",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 703246939,
+              "studentNum": "",
+              "name": "示例文本-6dc5710e",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            },
+            {
+              "studentId": 887372654,
+              "studentNum": "",
+              "name": "示例文本-1b0ba14f",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 490500212,
+            "name": "示例文本-0c7adbea",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115949000000,
+        "endTime": 1115951400000,
+        "week": null,
+        "periods": 1,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      },
+      {
+        "classArrangeId": 544234562,
+        "classRoomId": {
+          "seqNum": null,
+          "classRoomId": 760146628,
+          "code": "D-Senior School-132"
+        },
+        "courseId": {
+          "courseId": 682500548,
+          "description": "示例文本-c244a136",
+          "subject": {
+            "description": "示例文本-0774c50d",
+            "subjectId": 423757816,
+            "color": "示例文本-641cc16e",
+            "countIn": true
+          },
+          "students": [
+            {
+              "studentId": 679875020,
+              "studentNum": "",
+              "name": "示例文本-34becee6",
+              "enName": "",
+              "lastName": "",
+              "firstName": "",
+              "avatarUrl": "",
+              "gender": "",
+              "sectionId": null,
+              "sectionName": ""
+            }
+          ],
+          "teacher": [
+            {
+              "teacherId": 503964563,
+              "name": "示例文本-5675321a",
+              "enName": "",
+              "avatarUrl": "",
+              "dataPermission": null,
+              "teacherName": "",
+              "teacherEnName": "",
+              "isTeacher": false
+            }
+          ]
+        },
+        "targetSections": [
+          {
+            "seqNum": null,
+            "campusName": "",
+            "sectionName": "",
+            "sectionCampusId": 490500212,
+            "name": "示例文本-0c7adbea",
+            "teachers": []
+          }
+        ],
+        "startTime": 1115952300000,
+        "endTime": 1115957700000,
+        "week": null,
+        "periods": 2,
+        "type": "1001",
+        "originDayOfWeek": null,
+        "teachers": [
+          {
+            "teacherId": 503964563,
+            "name": "示例文本-5675321a",
+            "isSubstitute": false
+          }
+        ],
+        "resources": []
+      }
+    ]
+  },
+  "regular": 23,
+  "institute": 0
+}

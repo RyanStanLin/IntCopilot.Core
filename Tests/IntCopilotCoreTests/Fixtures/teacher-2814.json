@@ -1,0 +1,82 @@
+[
+  {
+    "key": 261892813,
+    "value": "House",
+    "enValue": "House",
+    "disable": false,
+    "extraValue": true,
+    "lowPoints": 1,
+    "highPoints": 5,
+    "special": false
+  },
+  {
+    "key": 167935102,
+    "value": "Conduct",
+    "enValue": "Conduct",
+    "disable": false,
+    "extraValue": true,
+    "lowPoints": 1,
+    "highPoints": 18,
+    "special": false
+  },
+  {
+    "key": 860163158,
+    "value": "Note",
+    "enValue": "Note",
+    "disable": false,
+    "extraValue": true,
+    "lowPoints": 1,
+    "highPoints": 2,
+    "special": false
+  },
+  {
+    "key": 482800394,
+    "value": "Showcase",
+    "enValue": "Showcase",
+    "disable": false,
+    "extraValue": true,
+    "lowPoints": 5,
+    "highPoints": 5,
+    "special": false
+  },
+  {
+    "key": 188945266,
+    "value": "Executive Principals Award",
+    "enValue": "Executive Principals Award",
+    "disable": false,
+    "extraValue": true,
+    "lowPoints": 10,
+    "highPoints": 10,
+    "special": false
+  },
+  {
+    "key": 98213563,
+    "value": "Chinese Principal’s Award",
+    "enValue": "Chinese Principal’s Award",
+    "disable": false,
+    "extraValue": true,
+    "lowPoints": 5,
+    "highPoints": 5,
+    "special": false
+  },
+  {
+    "key": 778142784,
+    "value": "护士来访",
+    "enValue": "Nurse visit",
+    "disable": false,
+    "extraValue": false,
+    "lowPoints": null,
+    "highPoints": null,
+    "special": true
+  },
+  {
+    "key": 103364383,
+    "value": "Note Only",
+    "enValue": "Note Only",
+    "disable": false,
+    "extraValue": false,
+    "lowPoints": null,
+    "highPoints": null,
+    "special": false
+  }
+]

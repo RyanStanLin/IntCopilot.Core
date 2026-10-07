@@ -1,0 +1,228 @@
+{
+  "calendarDays": [
+    {
+      "date": 1114876800000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115222400000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115308800000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1115827200000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1115913600000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1116000000000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1116086400000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1116172800000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1116259200000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1116345600000,
+      "type": "1709",
+      "description": ""
+    },
+    {
+      "date": 1113148800000,
+      "type": "1715",
+      "description": ""
+    },
+    {
+      "date": 1113235200000,
+      "type": "1712",
+      "description": ""
+    },
+    {
+      "date": 1113321600000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1113408000000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1113494400000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1113580800000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1113667200000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1113753600000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1113840000000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1113926400000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114012800000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114099200000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114185600000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1114272000000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1114358400000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114444800000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114531200000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114617600000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114704000000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1114790400000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1114963200000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115049600000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115136000000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115395200000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1115481600000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1115568000000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115654400000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1115740800000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1116432000000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1116518400000,
+      "type": "1708",
+      "description": ""
+    },
+    {
+      "date": 1116604800000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1116691200000,
+      "type": "1714",
+      "description": ""
+    },
+    {
+      "date": 1116777600000,
+      "type": "1708",
+      "description": ""
+    }
+  ],
+  "firstSemStartDate": 1113235200000,
+  "firstSemEndDate": 1125590400000,
+  "secondSemStartDate": 1128268800000,
+  "secondSemEndDate": 1140105600000,
+  "thirdSemStartDate": null,
+  "thirdSemEndDate": null,
+  "startDate": 1110297600000,
+  "lastDate": 1144684800000,
+  "eventList": []
+}

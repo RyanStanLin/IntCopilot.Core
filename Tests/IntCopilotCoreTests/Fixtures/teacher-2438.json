@@ -1,0 +1,93 @@
+[
+  {
+    "attendanceStatusId": 457271502,
+    "attendanceKindId": 515248940,
+    "value": "weekendHoliday",
+    "name": "假期（不可操作）",
+    "enName": "WeekendHoliday",
+    "attend": false,
+    "show": false,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-b4cc8c61",
+    "abbr": "H"
+  },
+  {
+    "attendanceStatusId": 431222982,
+    "attendanceKindId": 607421638,
+    "value": "noRecords",
+    "name": "无考勤",
+    "enName": "NoRecords",
+    "attend": false,
+    "show": false,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-9ffd3160",
+    "abbr": "--"
+  },
+  {
+    "attendanceStatusId": 302003605,
+    "attendanceKindId": 495560216,
+    "value": "intime",
+    "name": "准时",
+    "enName": "Present",
+    "attend": true,
+    "show": true,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-d49fe2a0",
+    "abbr": "P"
+  },
+  {
+    "attendanceStatusId": 793550077,
+    "attendanceKindId": 483374455,
+    "value": "late",
+    "name": "迟到",
+    "enName": "Late",
+    "attend": true,
+    "show": true,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-bb7973e3",
+    "abbr": "L"
+  },
+  {
+    "attendanceStatusId": 852034434,
+    "attendanceKindId": 285560698,
+    "value": "illness",
+    "name": "病假",
+    "enName": "Sick Absent",
+    "attend": false,
+    "show": true,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-b5dfda15",
+    "abbr": "EA"
+  },
+  {
+    "attendanceStatusId": 182340180,
+    "attendanceKindId": 597615127,
+    "value": "personal",
+    "name": "缺席（非病假）",
+    "enName": "Excused Absent",
+    "attend": false,
+    "show": true,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-7a974696",
+    "abbr": "EA"
+  },
+  {
+    "attendanceStatusId": 676741518,
+    "attendanceKindId": 685525860,
+    "value": "absent",
+    "name": "旷课",
+    "enName": "Absent",
+    "attend": false,
+    "show": true,
+    "permissions": true,
+    "status": false,
+    "color": "示例文本-4eb5d5d2",
+    "abbr": "A"
+  }
+]

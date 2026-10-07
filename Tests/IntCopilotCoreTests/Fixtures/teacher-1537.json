@@ -1,0 +1,1592 @@
+[
+  {
+    "teacherId": 82311781,
+    "name": "示例文本-387b75e0",
+    "enName": "示例文本-968e5d91",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 154944788,
+    "name": "",
+    "enName": "示例文本-c2a2d46f",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 586017051,
+    "name": "示例文本-da926484",
+    "enName": "示例文本-fc878da0",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 173853727,
+    "name": "示例文本-b72a4714",
+    "enName": "示例文本-130e9f81",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 745217363,
+    "name": "",
+    "enName": "示例文本-fbea5ccf",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 852034434,
+    "name": "",
+    "enName": "示例文本-d16b658e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 489064775,
+    "name": "示例文本-97450368",
+    "enName": "示例文本-56f1dc7e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 793217531,
+    "name": "示例文本-eaff4598",
+    "enName": "示例文本-42391cde",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 451463236,
+    "name": "示例文本-23bbac57",
+    "enName": "示例文本-5016a38c",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 46248677,
+    "name": "",
+    "enName": "示例文本-0eb69c4b",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 886562020,
+    "name": "示例文本-9bc65846",
+    "enName": "示例文本-42e8aa5b",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 673152600,
+    "name": "示例文本-0aba7c58",
+    "enName": "示例文本-662964e1",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 20666931,
+    "name": "",
+    "enName": "示例文本-2678187f",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 434306005,
+    "name": "示例文本-07529b37",
+    "enName": "示例文本-699eb490",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 702760607,
+    "name": "",
+    "enName": "示例文本-80a848d2",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 633030530,
+    "name": "示例文本-dde317c4",
+    "enName": "示例文本-f9de7ece",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 232000802,
+    "name": "示例文本-b720de3e",
+    "enName": "示例文本-a3068694",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 355048078,
+    "name": "示例文本-ef9f4652",
+    "enName": "示例文本-ebf78a53",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 60513202,
+    "name": "",
+    "enName": "示例文本-7de5676f",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 580890170,
+    "name": "示例文本-09dfabbe",
+    "enName": "示例文本-6ce9aebc",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 548209215,
+    "name": "示例文本-75b3fbba",
+    "enName": "示例文本-75d2ad16",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 653100048,
+    "name": "示例文本-3298d1e6",
+    "enName": "示例文本-57d79912",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 211182083,
+    "name": "示例文本-340edcab",
+    "enName": "示例文本-83def680",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 213842589,
+    "name": "示例文本-a4104903",
+    "enName": "示例文本-fca7bebd",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 420681424,
+    "name": "示例文本-b49bd051",
+    "enName": "示例文本-1cf20413",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 599576137,
+    "name": "示例文本-0efe1e1d",
+    "enName": "示例文本-57a439f1",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 190806995,
+    "name": "示例文本-7e2744e2",
+    "enName": "示例文本-bc084800",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 586761267,
+    "name": "示例文本-947585c5",
+    "enName": "示例文本-5b96eb46",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 115809118,
+    "name": "示例文本-f0247028",
+    "enName": "示例文本-bb8969ff",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 480726483,
+    "name": "示例文本-7ef9abfd",
+    "enName": "示例文本-42b4aa67",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 626897877,
+    "name": "示例文本-4ae0b239",
+    "enName": "示例文本-a3f0388a",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 811634901,
+    "name": "示例文本-9f53e6be",
+    "enName": "示例文本-4adb9981",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 788046588,
+    "name": "示例文本-3fdb14d9",
+    "enName": "示例文本-57f0230e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 503964563,
+    "name": "示例文本-2885d277",
+    "enName": "示例文本-9dda1ef8",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 815007745,
+    "name": "示例文本-95c17242",
+    "enName": "示例文本-356fa186",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 304880808,
+    "name": "示例文本-155892e6",
+    "enName": "示例文本-8102a296",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 329817938,
+    "name": "示例文本-d1096323",
+    "enName": "示例文本-b3ae9dc0",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 845351896,
+    "name": "示例文本-d7d21303",
+    "enName": "示例文本-05e50c64",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 148015990,
+    "name": "示例文本-461321e8",
+    "enName": "示例文本-c175a2a6",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 531576534,
+    "name": "示例文本-e827b99b",
+    "enName": "示例文本-53b6184c",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 583396045,
+    "name": "示例文本-8004ed15",
+    "enName": "示例文本-e7445855",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 894781395,
+    "name": "示例文本-a1b27609",
+    "enName": "示例文本-91724597",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 857640729,
+    "name": "示例文本-26ce470a",
+    "enName": "示例文本-0d727b2d",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 800533473,
+    "name": "示例文本-7755bf06",
+    "enName": "示例文本-b334e52e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 586490274,
+    "name": "示例文本-df7b3cdc",
+    "enName": "示例文本-bc1293a8",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 676151557,
+    "name": "示例文本-02f67a83",
+    "enName": "示例文本-51709145",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 34436932,
+    "name": "示例文本-6eaf4ffb",
+    "enName": "示例文本-abdaa512",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 121155882,
+    "name": "示例文本-eda78efd",
+    "enName": "示例文本-aa16f846",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 436736083,
+    "name": "示例文本-5df5729b",
+    "enName": "示例文本-103c36ad",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 326686062,
+    "name": "示例文本-a442565d",
+    "enName": "示例文本-7ba73f94",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 329654755,
+    "name": "示例文本-1e9861f6",
+    "enName": "示例文本-5f66a830",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 32795344,
+    "name": "示例文本-a195ea0a",
+    "enName": "示例文本-92742479",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 237783848,
+    "name": "示例文本-ed11a463",
+    "enName": "示例文本-2e09627c",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 488777382,
+    "name": "示例文本-460fe803",
+    "enName": "示例文本-26e05445",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 378821092,
+    "name": "示例文本-7b51304c",
+    "enName": "示例文本-fc7e2089",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 189483417,
+    "name": "示例文本-8ed7c860",
+    "enName": "示例文本-2938d9fa",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 233056391,
+    "name": "示例文本-fc9bf4d5",
+    "enName": "示例文本-d017773e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 461524082,
+    "name": "示例文本-b1f8c141",
+    "enName": "示例文本-3b787cb6",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 46197713,
+    "name": "示例文本-22f5eb1b",
+    "enName": "示例文本-82224713",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 171949173,
+    "name": "示例文本-548433e2",
+    "enName": "示例文本-6c1b3aee",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 696776328,
+    "name": "示例文本-20cbf4f7",
+    "enName": "示例文本-5dd314df",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 6143371,
+    "name": "",
+    "enName": "示例文本-e0f17e23",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 796754365,
+    "name": "示例文本-9a0df5c6",
+    "enName": "示例文本-cbf8d524",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 675641057,
+    "name": "示例文本-66508a94",
+    "enName": "示例文本-51ec5155",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 200615009,
+    "name": "示例文本-675d5765",
+    "enName": "示例文本-d6ad2816",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 269091250,
+    "name": "示例文本-05348e65",
+    "enName": "示例文本-0db918df",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 457271502,
+    "name": "",
+    "enName": "示例文本-c2edcca7",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 807661735,
+    "name": "示例文本-bf068a41",
+    "enName": "示例文本-4a41fca6",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 148139860,
+    "name": "",
+    "enName": "示例文本-41c2388f",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 544238090,
+    "name": "示例文本-c3a3d47c",
+    "enName": "示例文本-c3c7b26d",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 843009614,
+    "name": "示例文本-3665272a",
+    "enName": "示例文本-9da23d5e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 702669566,
+    "name": "示例文本-a090e9c6",
+    "enName": "示例文本-40affd63",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 489429871,
+    "name": "示例文本-d26c9080",
+    "enName": "示例文本-020178a2",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 28702029,
+    "name": "示例文本-8eb9a189",
+    "enName": "示例文本-7d0109c5",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 326163407,
+    "name": "示例文本-d9a091bd",
+    "enName": "示例文本-65a9eab4",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 285391099,
+    "name": "示例文本-974b485a",
+    "enName": "示例文本-b2c1b0d5",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 836625123,
+    "name": "示例文本-5fa066ae",
+    "enName": "示例文本-3b4944e4",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 622367463,
+    "name": "示例文本-d7645797",
+    "enName": "示例文本-eda0942a",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 288426693,
+    "name": "示例文本-a8652676",
+    "enName": "示例文本-c152c0a1",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 372604762,
+    "name": "示例文本-013d3d6a",
+    "enName": "示例文本-1ae642e9",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 685574401,
+    "name": "示例文本-8275566b",
+    "enName": "示例文本-a1735db0",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 493436790,
+    "name": "示例文本-bb048aaa",
+    "enName": "示例文本-ffdb3c02",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 60254105,
+    "name": "示例文本-9d40db53",
+    "enName": "示例文本-94477804",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 583897113,
+    "name": "示例文本-55e4d34c",
+    "enName": "示例文本-23fba700",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 730918004,
+    "name": "示例文本-2f38cf28",
+    "enName": "示例文本-af0f8e99",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 385971047,
+    "name": "示例文本-1cb14145",
+    "enName": "示例文本-b9839130",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 423116111,
+    "name": "示例文本-0d18b67e",
+    "enName": "示例文本-483004a5",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 173962351,
+    "name": "示例文本-e9cf3fde",
+    "enName": "示例文本-e44129c1",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 553627912,
+    "name": "示例文本-bed9aa8d",
+    "enName": "示例文本-145702ba",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 658002220,
+    "name": "示例文本-8f8d1dd7",
+    "enName": "示例文本-b7bee763",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 565731301,
+    "name": "示例文本-88a1b5b0",
+    "enName": "示例文本-08a6a720",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 105084467,
+    "name": "",
+    "enName": "示例文本-75ccc502",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 472149019,
+    "name": "示例文本-b939584e",
+    "enName": "示例文本-33006c65",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 473646995,
+    "name": "",
+    "enName": "示例文本-992acc27",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 44221406,
+    "name": "示例文本-d3efcc55",
+    "enName": "示例文本-91237494",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 387661966,
+    "name": "示例文本-75890ca1",
+    "enName": "示例文本-ffe245bf",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 784349139,
+    "name": "示例文本-f3407fcb",
+    "enName": "示例文本-b491aee4",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 837859280,
+    "name": "示例文本-3782bb17",
+    "enName": "示例文本-7c25f7db",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 599283441,
+    "name": "示例文本-5cb412b5",
+    "enName": "示例文本-00d2c037",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 638945093,
+    "name": "示例文本-830cb298",
+    "enName": "示例文本-bc8b6990",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 386964490,
+    "name": "示例文本-14f78028",
+    "enName": "示例文本-82d5b35d",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 329573916,
+    "name": "示例文本-90980dd3",
+    "enName": "示例文本-9544a85b",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 246822304,
+    "name": "示例文本-e4cca399",
+    "enName": "示例文本-731478fc",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 259285046,
+    "name": "示例文本-62336214",
+    "enName": "示例文本-b299e46b",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 590430868,
+    "name": "示例文本-54451405",
+    "enName": "示例文本-817483a8",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 768507887,
+    "name": "",
+    "enName": "示例文本-eb9f40f7",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 442701088,
+    "name": "示例文本-ea7af1fb",
+    "enName": "示例文本-91e376f5",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 373877240,
+    "name": "示例文本-586f51de",
+    "enName": "示例文本-38fff2e5",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 243767418,
+    "name": "",
+    "enName": "示例文本-3511e93e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 565475553,
+    "name": "示例文本-91cb0544",
+    "enName": "示例文本-8b93f581",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 691846308,
+    "name": "示例文本-8a534e36",
+    "enName": "示例文本-a316484a",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 791639907,
+    "name": "示例文本-72206a9c",
+    "enName": "示例文本-a316484a",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 241281350,
+    "name": "示例文本-3f0ec8ed",
+    "enName": "示例文本-a6fa0aa0",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 900285852,
+    "name": "示例文本-0ef32e3f",
+    "enName": "示例文本-4e273812",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 560167404,
+    "name": "示例文本-c649dd9e",
+    "enName": "示例文本-b563d181",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 191998106,
+    "name": "示例文本-38a36b79",
+    "enName": "示例文本-91b237d7",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 307088950,
+    "name": "示例文本-bf5c961c",
+    "enName": "示例文本-2be91a58",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 238962181,
+    "name": "示例文本-1f4b46cc",
+    "enName": "示例文本-86744874",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 687775508,
+    "name": "示例文本-a5da1003",
+    "enName": "示例文本-39674c2f",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 709935139,
+    "name": "示例文本-48b12170",
+    "enName": "示例文本-48b12170",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 19407543,
+    "name": "示例文本-4a9f3dd3",
+    "enName": "示例文本-4a9f3dd3",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 825821950,
+    "name": "示例文本-e61e9d7c",
+    "enName": "示例文本-4f7ef21c",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 71477591,
+    "name": "示例文本-e011e955",
+    "enName": "示例文本-4d8b2384",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 33761383,
+    "name": "示例文本-d1776708",
+    "enName": "示例文本-58d43c9c",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 695971817,
+    "name": "示例文本-15f7fdbc",
+    "enName": "示例文本-5dcf51c8",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 792397873,
+    "name": "示例文本-ae84e9e5",
+    "enName": "示例文本-19e9ebbb",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 55140728,
+    "name": "",
+    "enName": "示例文本-ffa811a5",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 789877890,
+    "name": "示例文本-ab421d7b",
+    "enName": "示例文本-cdc9e099",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 31542147,
+    "name": "",
+    "enName": "示例文本-312cdef2",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 851065699,
+    "name": "",
+    "enName": "示例文本-a2c9c687",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 130830740,
+    "name": "示例文本-c3a76644",
+    "enName": "示例文本-492d7fd7",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 172918462,
+    "name": "示例文本-d47fc263",
+    "enName": "示例文本-2d998573",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 587798394,
+    "name": "示例文本-1fb0cd22",
+    "enName": "示例文本-fd236b1b",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 840668090,
+    "name": "示例文本-f27e24a1",
+    "enName": "示例文本-968b64d8",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 100745155,
+    "name": "示例文本-8ceb6d6e",
+    "enName": "示例文本-154c158e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 777207853,
+    "name": "示例文本-58eca283",
+    "enName": "示例文本-9f584a7b",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 520598098,
+    "name": "示例文本-923e5d62",
+    "enName": "示例文本-cb20ea8f",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 235559271,
+    "name": "示例文本-5bcee1c2",
+    "enName": "示例文本-4783ee30",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 363052569,
+    "name": "示例文本-02648f01",
+    "enName": "示例文本-6c2f9fcc",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 746632066,
+    "name": "示例文本-aca9f260",
+    "enName": "示例文本-5dcdefdd",
+    "avatarUrl": "https://example.invalid/resource/a81b5a55",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 697340761,
+    "name": "示例文本-b106457f",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 689174593,
+    "name": "示例文本-125a2a69",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 274738072,
+    "name": "示例文本-9d34682c",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 61039474,
+    "name": "示例文本-c90f8a1f",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 653312686,
+    "name": "示例文本-fd71a901",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 132434476,
+    "name": "示例文本-26f5912e",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 643642936,
+    "name": "示例文本-7197a7ec",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 602449097,
+    "name": "示例文本-8f13b854",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 182275518,
+    "name": "示例文本-c486fad1",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 67336262,
+    "name": "示例文本-2dcaf017",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 872958490,
+    "name": "示例文本-cb363dcf",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 462617428,
+    "name": "示例文本-0dbcfd1a",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 679663088,
+    "name": "示例文本-a86217b8",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 495560216,
+    "name": "示例文本-7f7cb362",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/0874ae3c",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 83040670,
+    "name": "示例文本-a538f9d0",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 563113652,
+    "name": "示例文本-f91e6f79",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 400056236,
+    "name": "示例文本-0d0dfc1a",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 110074793,
+    "name": "示例文本-19e3c5b0",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  },
+  {
+    "teacherId": 283584136,
+    "name": "示例文本-d85c5d80",
+    "enName": "",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "dataPermission": null,
+    "teacherName": "",
+    "teacherEnName": "",
+    "isTeacher": false
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "dailyAttendance": true,
+  "dormitoryAttendance": true,
+  "classAttendance": true,
+  "ssrAttendance": true,
+  "lbAttendance": true
+}

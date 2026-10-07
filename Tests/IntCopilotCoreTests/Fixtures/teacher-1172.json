@@ -1,0 +1,38 @@
+{
+  "courseList": [
+    {
+      "id": 682500548,
+      "name": "示例文本-c244a136",
+      "classRoomName": "示例文本-7c1f0fac",
+      "classPeriodId": 537718987,
+      "classPeriodName": "示例文本-1897a4ee",
+      "start": 1115779500000,
+      "end": 1115781900000,
+      "studentNum": 1,
+      "courseFlag": false
+    },
+    {
+      "id": 237958942,
+      "name": "示例文本-2366ad6c",
+      "classRoomName": "示例文本-7c1f0fac",
+      "classPeriodId": 209549647,
+      "classPeriodName": "示例文本-a5feecae",
+      "start": 1115788800000,
+      "end": 1115791200000,
+      "studentNum": 2,
+      "courseFlag": false
+    },
+    {
+      "id": 237958942,
+      "name": "示例文本-2366ad6c",
+      "classRoomName": "示例文本-7c1f0fac",
+      "classPeriodId": 862180790,
+      "classPeriodName": "示例文本-cace4bfb",
+      "start": 1115791800000,
+      "end": 1115794200000,
+      "studentNum": 2,
+      "courseFlag": false
+    }
+  ],
+  "ccaList": []
+}

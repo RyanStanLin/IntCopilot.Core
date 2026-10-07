@@ -1,0 +1,38 @@
+{
+  "pageSize": 30,
+  "pageCurrent": 1,
+  "totalItem": 1,
+  "items": [
+    {
+      "seqNum": 1,
+      "messageMasterId": 275416848,
+      "title": "示例文本-afbc9973",
+      "content": "示例文本-afbc9973",
+      "sendTime": 1115776015000,
+      "readNum": 0,
+      "withdraw": false,
+      "fromMember": {
+        "memberId": 503964563,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-2885d277",
+        "enName": "示例文本-9dda1ef8",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "",
+        "enterDate": ""
+      },
+      "toMembers": [
+        {
+          "memberId": 304885875,
+          "memberType": "示例文本-8faa7e4f",
+          "name": "示例文本-45e8db28",
+          "enName": "",
+          "studentId": 152289766,
+          "relationship": "other",
+          "avatarUrl": "",
+          "enterDate": ""
+        }
+      ]
+    }
+  ]
+}

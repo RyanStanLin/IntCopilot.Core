@@ -1,0 +1,784 @@
+[
+  {
+    "endpoint": "parent:GET:/api/attendance/attendance-status",
+    "captures": [
+      "362"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/attendance/leave-application",
+    "captures": [
+      "395"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/attendance/statistic/student/{schoolYearId}",
+    "captures": [
+      "363"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/calendar/byMonth",
+    "captures": [
+      "431"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/course-record/listByStudent",
+    "captures": [
+      "249"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/curriculum/student/{schoolYearId}",
+    "captures": [
+      "261"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/diary/by-student",
+    "captures": [
+      "348"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/dropDown/leave-reasons",
+    "captures": [
+      "406"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/dropDown/relatedAllCourses",
+    "captures": [
+      "275",
+      "299"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/dropDown/schoolYearRuleList",
+    "captures": [
+      "244"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/login/vcodeMobileSend",
+    "captures": [
+      "468"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/monthly-grade/monthly-grade/by-student",
+    "captures": [
+      "333"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/monthly-grade/report/detail",
+    "captures": [
+      "334"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/student/class-info",
+    "captures": [
+      "245"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/student/detail",
+    "captures": [
+      "235"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/student/getParents",
+    "captures": [
+      "239"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/student/list",
+    "captures": [
+      "871"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/task-grade/grade-book",
+    "captures": [
+      "315"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/task/detail",
+    "captures": [
+      "286"
+    ]
+  },
+  {
+    "endpoint": "parent:GET:/api/task/mergeList",
+    "captures": [
+      "277",
+      "300"
+    ]
+  },
+  {
+    "endpoint": "parent:POST:/api/attendance/leave-application",
+    "captures": [
+      "410"
+    ]
+  },
+  {
+    "endpoint": "parent:POST:/api/login/unify",
+    "captures": [
+      "184",
+      "187",
+      "469",
+      "472"
+    ]
+  },
+  {
+    "endpoint": "parent:PUT:/api/attendance/leave-application/retrieve",
+    "captures": [
+      "421"
+    ]
+  },
+  {
+    "endpoint": "portal:GET:/api/api/user/info",
+    "captures": [
+      "1118"
+    ]
+  },
+  {
+    "endpoint": "portal:POST:/api/login",
+    "captures": [
+      "1097",
+      "1109"
+    ]
+  },
+  {
+    "endpoint": "portal:POST:/api/oauth/authorize",
+    "captures": [
+      "1133"
+    ]
+  },
+  {
+    "endpoint": "print:GET:/api/render",
+    "captures": [
+      "263"
+    ]
+  },
+  {
+    "endpoint": "teacher:DELETE:/api/diary",
+    "captures": [
+      "2537"
+    ]
+  },
+  {
+    "endpoint": "teacher:DELETE:/api/task/delete",
+    "captures": [
+      "2036"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/attendance-permission",
+    "captures": [
+      "1162"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/attendance-status",
+    "captures": [
+      "2438",
+      "1243"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/class",
+    "captures": [
+      "1245"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/class/cca",
+    "captures": [
+      "1363"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/classList",
+    "captures": [
+      "1347"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/daily",
+    "captures": [
+      "1352"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/dormitory/daily",
+    "captures": [
+      "1406"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/leave-application/pending",
+    "captures": [
+      "2226"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/ssRoom/daily",
+    "captures": [
+      "1414",
+      "1416"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/class",
+    "captures": [
+      "1438",
+      "1453"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/class-period",
+    "captures": [
+      "1465",
+      "1492"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/course/student",
+    "captures": [
+      "2441"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/dormitory",
+    "captures": [
+      "1497"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/house",
+    "captures": [
+      "1428"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/section",
+    "captures": [
+      "1425"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/ssr",
+    "captures": [
+      "1501"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/student/detail/{schoolYearId}",
+    "captures": [
+      "2440"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/attendance/statistic/student/{schoolYearId}",
+    "captures": [
+      "2439"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/course-record/listByStudent",
+    "captures": [
+      "2429"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/course/cascade/attendance",
+    "captures": [
+      "1361"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/course/cascadeBySchoolYear",
+    "captures": [
+      "1730",
+      "1912"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/course/courseAndCca",
+    "captures": [
+      "1172"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/course/students",
+    "captures": [
+      "1190"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/curriculum/room",
+    "captures": [
+      "1548"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/curriculum/student/{schoolYearId}",
+    "captures": [
+      "2424"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/curriculum/teacher",
+    "captures": [
+      "1541"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/curriculum/teacher/personal",
+    "captures": [
+      "1532"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/diary/by-student",
+    "captures": [
+      "2436"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/diary/entries",
+    "captures": [
+      "1513",
+      "1525"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/diary/entry-type",
+    "captures": [
+      "2833",
+      "2834"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/diary/primary-type",
+    "captures": [
+      "2814",
+      "1507"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/authTeachersForMessage",
+    "captures": [
+      "1606"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/authTeachersForMyClass",
+    "captures": [
+      "1165"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/campusList",
+    "captures": [
+      "1435"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/classListAll",
+    "captures": [
+      "1634"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/classRoomCascade",
+    "captures": [
+      "1545"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/course-teacher",
+    "captures": [
+      "1622"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/dormitoryList",
+    "captures": [
+      "1405"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/floorAndDormitoryList",
+    "captures": [
+      "1509"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/floorAndDormitoryListAll",
+    "captures": [
+      "1635"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/floorList",
+    "captures": [
+      "1404"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/head-teachers",
+    "captures": [
+      "1621"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll",
+    "captures": [
+      "1508",
+      "1618",
+      "1633"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/message/receiver",
+    "captures": [
+      "1645"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearList",
+    "captures": [
+      "1511"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList",
+    "captures": [
+      "2425",
+      "2437",
+      "1910"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/sectionCascade",
+    "captures": [
+      "1514",
+      "1632"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/sectionList/cpAttendance",
+    "captures": [
+      "1449"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/semester",
+    "captures": [
+      "1761"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomList",
+    "captures": [
+      "1413",
+      "1510"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomListAll",
+    "captures": [
+      "1636"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/subjectList",
+    "captures": [
+      "1538"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/subjectListForAttendance",
+    "captures": [
+      "1450"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/taskType",
+    "captures": [
+      "1734",
+      "1759",
+      "1911",
+      "1913"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/taskTypeByCourse",
+    "captures": [
+      "1819"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/dropDown/tutors",
+    "captures": [
+      "1623"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/grade-book/grade-book",
+    "captures": [
+      "2431",
+      "1763"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/login/schools",
+    "captures": [
+      "1160"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/login/switchToken",
+    "captures": [
+      "1137"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/login/userInfo",
+    "captures": [
+      "1159"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/message/fromDetail",
+    "captures": [
+      "1707"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/message/fromList",
+    "captures": [
+      "1701"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/message/toList",
+    "captures": [
+      "1611"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/behavior-table",
+    "captures": [
+      "2125"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/grade-period",
+    "captures": [
+      "2067"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/grade-period/{courseId}",
+    "captures": [
+      "2054"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/gradeTable/{gradePeriodId}/{courseId}",
+    "captures": [
+      "2055"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/level/attainment",
+    "captures": [
+      "2050"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/level/effort",
+    "captures": [
+      "2049"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/report",
+    "captures": [
+      "2173"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/report/student-id",
+    "captures": [
+      "2172"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/monthly-grade/teachingReview/list",
+    "captures": [
+      "2068",
+      "2070"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/semester/currentSchoolYear",
+    "captures": [
+      "1161"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/student/class-info",
+    "captures": [
+      "2426"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/student/classAndHouse",
+    "captures": [
+      "1171"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/student/detail",
+    "captures": [
+      "2420"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/student/studentBriefInfo",
+    "captures": [
+      "2418"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/task-grade/rule",
+    "captures": [
+      "1793"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/task/detail",
+    "captures": [
+      "1877"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/task/mergeList",
+    "captures": [
+      "1741",
+      "1914"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/task/performance",
+    "captures": [
+      "1878"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/task/student/detail",
+    "captures": [
+      "2020",
+      "2023"
+    ]
+  },
+  {
+    "endpoint": "teacher:GET:/api/teacher/listAll",
+    "captures": [
+      "1537"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/diary",
+    "captures": [
+      "2471"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/message/send",
+    "captures": [
+      "1682"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/monthly-grade",
+    "captures": [
+      "2058"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/monthly-grade/behaviorRecord",
+    "captures": [
+      "2130",
+      "2131"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/performance/task",
+    "captures": [
+      "1879"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/student/my-student",
+    "captures": [
+      "2411"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/student/student-id",
+    "captures": [
+      "2405"
+    ]
+  },
+  {
+    "endpoint": "teacher:POST:/api/task/add",
+    "captures": [
+      "1904"
+    ]
+  },
+  {
+    "endpoint": "teacher:PUT:/api/attendance/class",
+    "captures": [
+      "1247",
+      "1249",
+      "1364",
+      "1365"
+    ]
+  },
+  {
+    "endpoint": "teacher:PUT:/api/attendance/daily",
+    "captures": [
+      "1353"
+    ]
+  },
+  {
+    "endpoint": "teacher:PUT:/api/attendance/ssRoom/update",
+    "captures": [
+      "1419",
+      "1420"
+    ]
+  },
+  {
+    "endpoint": "teacher:PUT:/api/message/withdraw",
+    "captures": [
+      "1709"
+    ]
+  },
+  {
+    "endpoint": "teacher:PUT:/api/task/updateScore",
+    "captures": [
+      "2019"
+    ]
+  }
+]

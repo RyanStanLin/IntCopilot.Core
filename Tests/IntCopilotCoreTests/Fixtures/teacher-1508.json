@@ -1,0 +1,110 @@
+[
+  {
+    "houseId": 484451471,
+    "houseName": "示例文本-e907bde9",
+    "houseGroups": [
+      {
+        "houseGroupId": 778142784,
+        "name": "示例文本-2f8bc8e6"
+      },
+      {
+        "houseGroupId": 305476988,
+        "name": "示例文本-71cbed04"
+      },
+      {
+        "houseGroupId": 603671419,
+        "name": "示例文本-0f88a2c2"
+      }
+    ]
+  },
+  {
+    "houseId": 831103987,
+    "houseName": "示例文本-072f0d68",
+    "houseGroups": [
+      {
+        "houseGroupId": 554822297,
+        "name": "示例文本-2f8bc8e6"
+      },
+      {
+        "houseGroupId": 707683565,
+        "name": "示例文本-71cbed04"
+      },
+      {
+        "houseGroupId": 341755803,
+        "name": "示例文本-0f88a2c2"
+      }
+    ]
+  },
+  {
+    "houseId": 228319549,
+    "houseName": "示例文本-fe908511",
+    "houseGroups": [
+      {
+        "houseGroupId": 795720149,
+        "name": "示例文本-2f8bc8e6"
+      },
+      {
+        "houseGroupId": 102305221,
+        "name": "示例文本-71cbed04"
+      },
+      {
+        "houseGroupId": 675236001,
+        "name": "示例文本-0f88a2c2"
+      }
+    ]
+  },
+  {
+    "houseId": 299028714,
+    "houseName": "示例文本-f1265dcb",
+    "houseGroups": [
+      {
+        "houseGroupId": 63866906,
+        "name": "示例文本-2f8bc8e6"
+      },
+      {
+        "houseGroupId": 393801271,
+        "name": "示例文本-71cbed04"
+      },
+      {
+        "houseGroupId": 441056618,
+        "name": "示例文本-0f88a2c2"
+      }
+    ]
+  },
+  {
+    "houseId": 233637166,
+    "houseName": "示例文本-cbb358c8",
+    "houseGroups": [
+      {
+        "houseGroupId": 454720616,
+        "name": "示例文本-2f8bc8e6"
+      },
+      {
+        "houseGroupId": 240476712,
+        "name": "示例文本-71cbed04"
+      },
+      {
+        "houseGroupId": 133580501,
+        "name": "示例文本-0f88a2c2"
+      }
+    ]
+  },
+  {
+    "houseId": 734369967,
+    "houseName": "示例文本-9141413a",
+    "houseGroups": [
+      {
+        "houseGroupId": 295114435,
+        "name": "示例文本-2f8bc8e6"
+      },
+      {
+        "houseGroupId": 214001888,
+        "name": "示例文本-71cbed04"
+      },
+      {
+        "houseGroupId": 146014529,
+        "name": "示例文本-0f88a2c2"
+      }
+    ]
+  }
+]

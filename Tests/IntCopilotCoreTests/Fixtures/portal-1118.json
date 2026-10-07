@@ -1,0 +1,20 @@
+{
+  "username": "示例文本-2885d277",
+  "password": null,
+  "ssoStatus": "able",
+  "email": "person-5663bbf2@example.invalid",
+  "userId": "示例文本-967b84cc",
+  "tenantId": null,
+  "id": "示例文本-967b84cc",
+  "appsAuth": [
+    "示例文本-65f26f8f"
+  ],
+  "authorities": [
+    {
+      "authority": "示例文本-0f81fd79"
+    }
+  ],
+  "accountNonExpired": true,
+  "accountNonLocked": true,
+  "credentialsNonExpired": true
+}

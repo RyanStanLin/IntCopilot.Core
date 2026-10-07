@@ -1,0 +1,46 @@
+name: CI
+on:
+  push:
+    branches: [main]
+    tags: ['0.*']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Toolchain
+        run: swift --version
+      - name: Audit public artifacts
+        run: python3 Tools/audit_public_artifacts.py
+      - name: Mock and fixture tests
+        run: swift test -Xswiftc -strict-concurrency=complete
+      - name: Release build
+        run: swift build -c release -Xswiftc -strict-concurrency=complete
+      - name: Check documentation reproducibility
+        run: |
+          python3 Tools/build_wiki.py
+          git diff --exit-code -- Wiki
+  apple-platforms:
+    runs-on: macos-15
+    strategy:
+      fail-fast: false
+      matrix:
+        destination:
+          - 'generic/platform=macOS'
+          - 'generic/platform=iOS'
+          - 'generic/platform=iOS Simulator'
+          - 'generic/platform=macOS,variant=Mac Catalyst'
+          - 'generic/platform=tvOS'
+          - 'generic/platform=watchOS'
+          - 'generic/platform=visionOS'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile Apple destination
+        run: >-
+          xcodebuild -scheme IntCopilot.Core -destination '${{ matrix.destination }}'
+          -derivedDataPath '${{ runner.temp }}/IntCopilotBuild'
+          CODE_SIGNING_ALLOWED=NO SWIFT_VERSION=6 SWIFT_STRICT_CONCURRENCY=complete build

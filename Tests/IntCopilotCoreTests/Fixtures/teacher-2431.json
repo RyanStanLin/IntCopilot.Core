@@ -1,0 +1,933 @@
+{
+  "customColumns": [
+    {
+      "customColumnId": 351253169,
+      "customColumnName": "示例文本-63769413",
+      "publishStudent": true,
+      "publishParent": true
+    }
+  ],
+  "gradeBookItems": [
+    {
+      "subject": "示例文本-82d4dc34",
+      "courseId": 451737754,
+      "courseName": "示例文本-eb6e50b6",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-ecfca508",
+      "courseId": 697968952,
+      "courseName": "示例文本-8ae3c005",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-ab9ef255",
+      "courseId": 336651986,
+      "courseName": "示例文本-795c156d",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-ab9ef255",
+      "courseId": 837310991,
+      "courseName": "示例文本-697d5ef9",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-ab9ef255",
+      "courseId": 341713909,
+      "courseName": "示例文本-949e5acc",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-85f5f650",
+      "courseId": 583346490,
+      "courseName": "示例文本-5a0bcac6",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-cd199b83",
+      "courseId": 648706926,
+      "courseName": "示例文本-fbc93642",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": null,
+          "level": "",
+          "manual": false,
+          "calculatedScore": null,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": []
+    },
+    {
+      "subject": "示例文本-0774c50d",
+      "courseId": 237958942,
+      "courseName": "示例文本-2366ad6c",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 96.8,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 551127306,
+          "taskId": 116669421,
+          "taskName": "示例文本-05904153",
+          "endDate": 1114926213000,
+          "taskTypeName": "示例文本-2c87e636",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-7292d81c",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 356668159,
+          "taskId": 766000310,
+          "taskName": "示例文本-b61535e4",
+          "endDate": 1113445665000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 530002390,
+          "taskId": 224768642,
+          "taskName": "示例文本-42acb0f9",
+          "endDate": 1113524226000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 255695850,
+          "taskId": 273823809,
+          "taskName": "示例文本-42a758bb",
+          "endDate": 1113956157000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 199685026,
+          "taskId": 525462811,
+          "taskName": "示例文本-e657f4f8",
+          "endDate": 1114129120000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 616901379,
+          "taskId": 702961315,
+          "taskName": "示例文本-c9a9ec81",
+          "endDate": 1114494743000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 445418884,
+          "taskId": 739749967,
+          "taskName": "示例文本-b13cea13",
+          "endDate": 1115166692000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    },
+    {
+      "subject": "示例文本-0a49150c",
+      "courseId": 578173192,
+      "courseName": "示例文本-d2457df5",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 92.5,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 538984838,
+          "taskId": 228733606,
+          "taskName": "示例文本-43b4306c",
+          "endDate": 1113361349000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 216692035,
+          "taskId": 15846278,
+          "taskName": "示例文本-23ca4e22",
+          "endDate": 1113459034000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 634738246,
+          "taskId": 30168027,
+          "taskName": "示例文本-ce055c88",
+          "endDate": 1113546491000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 626940457,
+          "taskId": 210601386,
+          "taskName": "示例文本-e4819508",
+          "endDate": 1113553575000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 632557554,
+          "taskId": 768202017,
+          "taskName": "示例文本-13cd6c39",
+          "endDate": 1113983947000,
+          "taskTypeName": "示例文本-da162e18",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-13418f6f",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 17181463,
+          "taskId": 745613319,
+          "taskName": "示例文本-4e72a1fd",
+          "endDate": 1114493114000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 57491859,
+          "taskId": 626925369,
+          "taskName": "示例文本-7cdd276c",
+          "endDate": 1114417416000,
+          "taskTypeName": "示例文本-be789935",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-a20ef2bc",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 38049368,
+          "taskId": 112608976,
+          "taskName": "示例文本-c84d446b",
+          "endDate": 1114592321000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 533077971,
+          "taskId": 95489504,
+          "taskName": "示例文本-ffb0eb42",
+          "endDate": 1114565411000,
+          "taskTypeName": "示例文本-da162e18",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-13418f6f",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 384586237,
+          "taskId": 373606249,
+          "taskName": "示例文本-04a1cb45",
+          "endDate": 1114567998000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 370423327,
+          "taskId": 3789206,
+          "taskName": "示例文本-47a5c592",
+          "endDate": 1114656338000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 144318485,
+          "taskId": 102974489,
+          "taskName": "示例文本-6785db07",
+          "endDate": 1114742550000,
+          "taskTypeName": "示例文本-da162e18",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-13418f6f",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 18766760,
+          "taskId": 592639418,
+          "taskName": "示例文本-4bcd6a71",
+          "endDate": 1115086718000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 150722341,
+          "taskId": 254116448,
+          "taskName": "示例文本-c9c70dd7",
+          "endDate": 1115088749000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 158546293,
+          "taskId": 387691093,
+          "taskName": "示例文本-71e58039",
+          "endDate": 1115175888000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 787262790,
+          "taskId": 234515602,
+          "taskName": "示例文本-fe684e62",
+          "endDate": 1115645016000,
+          "taskTypeName": "示例文本-be789935",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-a20ef2bc",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    },
+    {
+      "subject": "示例文本-0a49150c",
+      "courseId": 263308999,
+      "courseName": "示例文本-c6cb414e",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 90.2,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 147100071,
+          "taskId": 190084153,
+          "taskName": "示例文本-e4819508",
+          "endDate": 1113459246000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 832094705,
+          "taskId": 486554276,
+          "taskName": "示例文本-7cdd276c",
+          "endDate": 1114389984000,
+          "taskTypeName": "示例文本-be789935",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-a20ef2bc",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    },
+    {
+      "subject": "示例文本-32da4e9f",
+      "courseId": 267102167,
+      "courseName": "示例文本-ed6b7d19",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 80.0,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 757488633,
+          "taskId": 285305109,
+          "taskName": "示例文本-0a7bb00e",
+          "endDate": 1115827140000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 121765068,
+          "taskId": 379970461,
+          "taskName": "示例文本-9d37672c",
+          "endDate": 1118505540000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 468246826,
+          "taskId": 65498196,
+          "taskName": "示例文本-7fe2482d",
+          "endDate": 1121097540000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 148598939,
+          "taskId": 641288519,
+          "taskName": "示例文本-80057993",
+          "endDate": 1123775940000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 844563373,
+          "taskId": 110612415,
+          "taskName": "示例文本-46f7fa6d",
+          "endDate": 1125590340000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 301651750,
+          "taskId": 513529397,
+          "taskName": "示例文本-b48ca734",
+          "endDate": 1125590340000,
+          "taskTypeName": "示例文本-c4ed460e",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-1dcb9361",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 535615758,
+          "taskId": 76209022,
+          "taskName": "示例文本-831cb345",
+          "endDate": 1125590340000,
+          "taskTypeName": "示例文本-c4ed460e",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-1dcb9361",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 429566854,
+          "taskId": 278471240,
+          "taskName": "示例文本-52cd8bd8",
+          "endDate": 1125590340000,
+          "taskTypeName": "示例文本-c4ed460e",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-1dcb9361",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 261825560,
+          "taskId": 668315178,
+          "taskName": "示例文本-9be977ba",
+          "endDate": 1128873540000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 370644654,
+          "taskId": 606982390,
+          "taskName": "示例文本-7ef2b771",
+          "endDate": 1131551940000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 30663094,
+          "taskId": 631344764,
+          "taskName": "示例文本-86ec0b2e",
+          "endDate": 1134143940000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 876733755,
+          "taskId": 224508023,
+          "taskName": "示例文本-67bb34a1",
+          "endDate": 1136822340000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 547239157,
+          "taskId": 612742885,
+          "taskName": "示例文本-3234b67a",
+          "endDate": 1139414340000,
+          "taskTypeName": "示例文本-c2d73f25",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-920e0047",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 839134882,
+          "taskId": 788542209,
+          "taskName": "示例文本-a3c46df9",
+          "endDate": 1139414340000,
+          "taskTypeName": "示例文本-c4ed460e",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-1dcb9361",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 165582074,
+          "taskId": 449543400,
+          "taskName": "示例文本-c3e08135",
+          "endDate": 1139414340000,
+          "taskTypeName": "示例文本-c4ed460e",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-1dcb9361",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 531031163,
+          "taskId": 399437917,
+          "taskName": "示例文本-8620b746",
+          "endDate": 1139414340000,
+          "taskTypeName": "示例文本-c4ed460e",
+          "topScore": 5.0,
+          "score": null,
+          "scoreMethod": null,
+          "color": "示例文本-1dcb9361",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    },
+    {
+      "subject": "示例文本-783db887",
+      "courseId": 173650491,
+      "courseName": "示例文本-98cec844",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 87.5,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 248769039,
+          "taskId": 819476928,
+          "taskName": "示例文本-8daa44be",
+          "endDate": 1114504070000,
+          "taskTypeName": "示例文本-f437898c",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-80fc9d04",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 542168920,
+          "taskId": 482491630,
+          "taskName": "示例文本-75e6edb8",
+          "endDate": 1114158664000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 457302975,
+          "taskId": 528514188,
+          "taskName": "示例文本-40cb3109",
+          "endDate": 1114072585000,
+          "taskTypeName": "示例文本-dc74cced",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-cefc413c",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 678159579,
+          "taskId": 787451470,
+          "taskName": "示例文本-468269db",
+          "endDate": 1114159096000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 617615584,
+          "taskId": 879568162,
+          "taskName": "示例文本-8bb42b69",
+          "endDate": 1114741683000,
+          "taskTypeName": "示例文本-b7df3abf",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-13418f6f",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    },
+    {
+      "subject": "示例文本-2721c890",
+      "courseId": 293422607,
+      "courseName": "示例文本-dd046bd5",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 100.0,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 714426351,
+          "taskId": 268384612,
+          "taskName": "示例文本-2418c585",
+          "endDate": 1114646137000,
+          "taskTypeName": "示例文本-2fedc59e",
+          "topScore": 15.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-f7310893",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 553149763,
+          "taskId": 428650593,
+          "taskName": "示例文本-03efc96c",
+          "endDate": 1115251121000,
+          "taskTypeName": "示例文本-2fedc59e",
+          "topScore": 10.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-f7310893",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    },
+    {
+      "subject": "示例文本-dbc5353c",
+      "courseId": 445965865,
+      "courseName": "示例文本-ec07f49d",
+      "inClass": true,
+      "customColumnScores": {
+        "351253169": {
+          "score": 1.5,
+          "level": "",
+          "manual": false,
+          "calculatedScore": 91.9,
+          "calculatedLevel": "",
+          "manualPass": false
+        }
+      },
+      "taskScores": [
+        {
+          "taskStudentId": 549230572,
+          "taskId": 21831261,
+          "taskName": "示例文本-b3e0fbc1",
+          "endDate": 1113292833000,
+          "taskTypeName": "示例文本-d30e791f",
+          "topScore": 10.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-cc760895",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 215668876,
+          "taskId": 541811639,
+          "taskName": "示例文本-ace0d15e",
+          "endDate": 1113897022000,
+          "taskTypeName": "示例文本-67e59a74",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-647394eb",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 381700950,
+          "taskId": 291899839,
+          "taskName": "示例文本-d40a6a4f",
+          "endDate": 1114500747000,
+          "taskTypeName": "示例文本-b7df3abf",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-13418f6f",
+          "abbr": "",
+          "scoreFlag": true
+        },
+        {
+          "taskStudentId": 165906584,
+          "taskId": 711851599,
+          "taskName": "示例文本-129b7cbb",
+          "endDate": 1115105460000,
+          "taskTypeName": "示例文本-b6696560",
+          "topScore": 100.0,
+          "score": 1.5,
+          "scoreMethod": null,
+          "color": "示例文本-c4038e11",
+          "abbr": "",
+          "scoreFlag": true
+        }
+      ]
+    }
+  ]
+}

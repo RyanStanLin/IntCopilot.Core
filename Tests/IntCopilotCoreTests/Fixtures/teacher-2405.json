@@ -1,0 +1,13 @@
+[
+  {
+    "studentId": 152289766,
+    "studentEmail": "person-d73da12a@example.invalid",
+    "myStudent": true,
+    "parentsEmail": [
+      "person-d931b471@example.invalid",
+      "person-b4c93638@example.invalid",
+      "person-d73da12a@example.invalid",
+      "person-45d2d0e5@example.invalid"
+    ]
+  }
+]

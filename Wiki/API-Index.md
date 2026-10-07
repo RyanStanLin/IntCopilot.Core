@@ -1,0 +1,63 @@
+# 完整接口清单
+
+接口目录同时记录原始抓包、静态发现和补充只读验证。稳定性与副作用是独立维度；未完整验证的发现保留实验入口。
+
+| 业务域 | 端点数 | 抓包覆盖数 |
+|---|---:|---:|
+| [API-parent-address-book](API-parent-address-book) | 4 | 0 |
+| [API-parent-attendance](API-parent-attendance) | 15 | 5 |
+| [API-parent-calendar](API-parent-calendar) | 2 | 1 |
+| [API-parent-cca](API-parent-cca) | 5 | 0 |
+| [API-parent-class](API-parent-class) | 3 | 0 |
+| [API-parent-common](API-parent-common) | 6 | 0 |
+| [API-parent-course-record](API-parent-course-record) | 1 | 1 |
+| [API-parent-curriculum](API-parent-curriculum) | 1 | 1 |
+| [API-parent-diary](API-parent-diary) | 5 | 1 |
+| [API-parent-dropDown](API-parent-dropDown) | 14 | 3 |
+| [API-parent-exam](API-parent-exam) | 2 | 0 |
+| [API-parent-grade](API-parent-grade) | 12 | 0 |
+| [API-parent-login](API-parent-login) | 10 | 2 |
+| [API-parent-meetings](API-parent-meetings) | 5 | 0 |
+| [API-parent-message](API-parent-message) | 16 | 0 |
+| [API-parent-monthly-grade](API-parent-monthly-grade) | 4 | 2 |
+| [API-parent-notice](API-parent-notice) | 14 | 0 |
+| [API-parent-parent](API-parent-parent) | 14 | 0 |
+| [API-parent-schedule](API-parent-schedule) | 1 | 0 |
+| [API-parent-semester](API-parent-semester) | 1 | 0 |
+| [API-parent-standard](API-parent-standard) | 1 | 0 |
+| [API-parent-student](API-parent-student) | 13 | 4 |
+| [API-parent-task](API-parent-task) | 4 | 2 |
+| [API-parent-task-grade](API-parent-task-grade) | 6 | 1 |
+| [API-parent-teacher](API-parent-teacher) | 1 | 0 |
+| [API-portal-api](API-portal-api) | 1 | 1 |
+| [API-portal-login](API-portal-login) | 1 | 1 |
+| [API-portal-oauth](API-portal-oauth) | 1 | 1 |
+| [API-print-render](API-print-render) | 1 | 1 |
+| [API-teacher-address-book](API-teacher-address-book) | 4 | 0 |
+| [API-teacher-attendance](API-teacher-attendance) | 62 | 21 |
+| [API-teacher-calendar](API-teacher-calendar) | 6 | 0 |
+| [API-teacher-cca](API-teacher-cca) | 14 | 0 |
+| [API-teacher-class](API-teacher-class) | 10 | 0 |
+| [API-teacher-common](API-teacher-common) | 4 | 0 |
+| [API-teacher-course](API-teacher-course) | 8 | 4 |
+| [API-teacher-course-record](API-teacher-course-record) | 1 | 1 |
+| [API-teacher-curriculum](API-teacher-curriculum) | 18 | 4 |
+| [API-teacher-data-report](API-teacher-data-report) | 1 | 0 |
+| [API-teacher-diary](API-teacher-diary) | 20 | 6 |
+| [API-teacher-dropDown](API-teacher-dropDown) | 88 | 25 |
+| [API-teacher-exam](API-teacher-exam) | 7 | 0 |
+| [API-teacher-feature](API-teacher-feature) | 3 | 0 |
+| [API-teacher-grade](API-teacher-grade) | 36 | 0 |
+| [API-teacher-grade-book](API-teacher-grade-book) | 6 | 1 |
+| [API-teacher-graduation](API-teacher-graduation) | 15 | 0 |
+| [API-teacher-login](API-teacher-login) | 7 | 3 |
+| [API-teacher-meetings](API-teacher-meetings) | 3 | 0 |
+| [API-teacher-message](API-teacher-message) | 27 | 5 |
+| [API-teacher-monthly-grade](API-teacher-monthly-grade) | 33 | 11 |
+| [API-teacher-notice](API-teacher-notice) | 12 | 0 |
+| [API-teacher-performance](API-teacher-performance) | 8 | 1 |
+| [API-teacher-semester](API-teacher-semester) | 1 | 1 |
+| [API-teacher-student](API-teacher-student) | 24 | 6 |
+| [API-teacher-task](API-teacher-task) | 14 | 7 |
+| [API-teacher-task-grade](API-teacher-task-grade) | 22 | 1 |
+| [API-teacher-teacher](API-teacher-teacher) | 8 | 1 |

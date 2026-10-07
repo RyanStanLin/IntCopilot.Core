@@ -1,0 +1,257 @@
+{
+  "full_day": true,
+  "classPeriods": [
+    {
+      "classPeriodId": 167776003,
+      "description": "示例文本-7caea4cb",
+      "start": 1115770200000,
+      "end": 1115772600000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 2377860,
+      "description": "示例文本-14b91e79",
+      "start": 1115773200000,
+      "end": 1115775600000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 126584511,
+      "description": "示例文本-f5719be0",
+      "start": 1115776200000,
+      "end": 1115778600000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 537718987,
+      "description": "示例文本-1897a4ee",
+      "start": 1115779500000,
+      "end": 1115781900000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 28006958,
+      "description": "示例文本-e8ef7336",
+      "start": 1115782500000,
+      "end": 1115784900000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 209549647,
+      "description": "示例文本-a5feecae",
+      "start": 1115788800000,
+      "end": 1115791200000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 862180790,
+      "description": "示例文本-cace4bfb",
+      "start": 1115791800000,
+      "end": 1115794200000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 650765653,
+      "description": "示例文本-3e7c4275",
+      "start": 1115794800000,
+      "end": 1115797200000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 554401205,
+      "description": "示例文本-28490f3b",
+      "start": 1115797800000,
+      "end": 1115800200000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 662791772,
+      "description": "示例文本-9a9575ca",
+      "start": 1115797800000,
+      "end": 1115800200000,
+      "sevenFive": false,
+      "isCCA": true,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 552668082,
+      "description": "示例文本-56ad52a1",
+      "start": 1115800800000,
+      "end": 1115803800000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 721112142,
+      "description": "示例文本-8888809c",
+      "start": 1115800800000,
+      "end": 1115803800000,
+      "sevenFive": false,
+      "isCCA": true,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 754076542,
+      "description": "示例文本-b6637438",
+      "start": 1115803800000,
+      "end": 1115805600000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 194041222,
+      "description": "示例文本-f70c0023",
+      "start": 1115807400000,
+      "end": 1115811000000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 373933688,
+      "description": "示例文本-752a0473",
+      "start": 1115807400000,
+      "end": 1115811000000,
+      "sevenFive": false,
+      "isCCA": true,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 170558227,
+      "description": "示例文本-7d04c71c",
+      "start": 1115811000000,
+      "end": 1115814600000,
+      "sevenFive": false,
+      "isCCA": false,
+      "isFullPeriodArranged": false
+    },
+    {
+      "classPeriodId": 455560785,
+      "description": "示例文本-fd1fa14d",
+      "start": 1115811000000,
+      "end": 1115814600000,
+      "sevenFive": false,
+      "isCCA": true,
+      "isFullPeriodArranged": false
+    }
+  ],
+  "attendances": {
+    "Period 6": {
+      "intime": 17,
+      "noRecords": 186,
+      "personal": 1
+    },
+    "Period 5": {
+      "intime": 11,
+      "noRecords": 193
+    },
+    "Period 4": {
+      "intime": 15,
+      "noRecords": 189
+    },
+    "Period 3": {
+      "intime": 11,
+      "noRecords": 192,
+      "personal": 1
+    },
+    "Period 2": {
+      "intime": 14,
+      "noRecords": 190
+    },
+    "Period 1": {
+      "intime": 10,
+      "noRecords": 193,
+      "illness": 1
+    },
+    "Period 9": {
+      "intime": 7,
+      "noRecords": 155,
+      "personal": 1
+    },
+    "CCA2": {
+      "intime": 8,
+      "noRecords": 52,
+      "absent": 2
+    },
+    "Period 8": {
+      "intime": 8,
+      "noRecords": 191,
+      "absent": 3,
+      "personal": 2
+    },
+    "Period 7": {
+      "intime": 16,
+      "noRecords": 186,
+      "personal": 2
+    }
+  },
+  "dormitoryAttendances": {
+    "eve": {
+      "noRecords": 399
+    },
+    "am": {
+      "noRecords": 399
+    },
+    "pm": {
+      "noRecords": 399
+    }
+  },
+  "studyRoomAttendances": {
+    "eve": {
+      "noRecords": 399
+    }
+  },
+  "sessionAttendances": {
+    "eve": {
+      "noRecords": 199,
+      "weekendHoliday": 200
+    },
+    "am": {
+      "intime": 19,
+      "noRecords": 179,
+      "weekendHoliday": 200,
+      "illness": 1
+    },
+    "pm": {
+      "noRecords": 199,
+      "weekendHoliday": 200
+    }
+  },
+  "dormitoryAttendanceFlag": false,
+  "studyRoomAttendanceFlag": false,
+  "attendanceTypes": [
+    "示例文本-9b8dba1d",
+    "示例文本-aded9823",
+    "示例文本-908d8574",
+    "示例文本-f0257b3e",
+    "示例文本-8d87c00c"
+  ],
+  "dailySession": [
+    "示例文本-899fa247"
+  ],
+  "dormitorySession": [
+    "示例文本-899fa247",
+    "示例文本-21df392a",
+    "示例文本-5907f51a"
+  ]
+}

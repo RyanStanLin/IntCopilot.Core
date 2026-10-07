@@ -1,0 +1,233 @@
+[
+  {
+    "customColumnId": 351253169,
+    "name": "示例文本-63769413",
+    "enName": "示例文本-63769413",
+    "rules": [
+      {
+        "taskTypeId": 797938034,
+        "taskType": "示例文本-b6696560",
+        "colour": "示例文本-c4038e11",
+        "abbr": "示例文本-53d0c80f",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 457218212,
+        "taskType": "示例文本-67e59a74",
+        "colour": "示例文本-647394eb",
+        "abbr": "示例文本-f5a4bf8e",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 542586015,
+        "taskType": "示例文本-b7df3abf",
+        "colour": "示例文本-13418f6f",
+        "abbr": "示例文本-31344091",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 64967958,
+        "taskType": "示例文本-2c87e636",
+        "colour": "示例文本-7292d81c",
+        "abbr": "示例文本-cea78640",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 137945284,
+        "taskType": "示例文本-dc74cced",
+        "colour": "示例文本-cefc413c",
+        "abbr": "示例文本-cea78640",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 352542035,
+        "taskType": "示例文本-1aad8211",
+        "colour": "示例文本-cefc413c",
+        "abbr": "示例文本-53d0c80f",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 510760645,
+        "taskType": "示例文本-d30e791f",
+        "colour": "示例文本-cc760895",
+        "abbr": "示例文本-cea78640",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 12215215,
+        "taskType": "示例文本-f1eabde1",
+        "colour": "示例文本-a20ef2bc",
+        "abbr": "示例文本-8e33a25d",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 224359346,
+        "taskType": "示例文本-21c902d6",
+        "colour": "示例文本-cc760895",
+        "abbr": "示例文本-9182529f",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 190167602,
+        "taskType": "示例文本-401e7b32",
+        "colour": "示例文本-920e0047",
+        "abbr": "示例文本-bebd0fa6",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 624129199,
+        "taskType": "示例文本-c4ed460e",
+        "colour": "示例文本-1dcb9361",
+        "abbr": "示例文本-4c868c83",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 463276409,
+        "taskType": "示例文本-2fedc59e",
+        "colour": "示例文本-f7310893",
+        "abbr": "示例文本-4c868c83",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 455703887,
+        "taskType": "示例文本-183f161a",
+        "colour": "示例文本-5dff6cf3",
+        "abbr": "示例文本-cea78640",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 25606945,
+        "taskType": "示例文本-610874a0",
+        "colour": "示例文本-2d7da138",
+        "abbr": "示例文本-6aac4a54",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 301353814,
+        "taskType": "示例文本-017e97b1",
+        "colour": "示例文本-80fc9d04",
+        "abbr": "示例文本-8c2ad024",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 501453053,
+        "taskType": "示例文本-f5fb00aa",
+        "colour": "示例文本-647394eb",
+        "abbr": "示例文本-d8c86a33",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 809396911,
+        "taskType": "示例文本-5b65566c",
+        "colour": "示例文本-cc760895",
+        "abbr": "示例文本-5260c046",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 780136369,
+        "taskType": "示例文本-da162e18",
+        "colour": "示例文本-13418f6f",
+        "abbr": "示例文本-bc03f85d",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 150831444,
+        "taskType": "示例文本-66d626d2",
+        "colour": "示例文本-c4038e11",
+        "abbr": "示例文本-124b0879",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 722990329,
+        "taskType": "示例文本-be789935",
+        "colour": "示例文本-a20ef2bc",
+        "abbr": "示例文本-982cb1b1",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 505792114,
+        "taskType": "示例文本-b24b7acc",
+        "colour": "示例文本-cc760895",
+        "abbr": "示例文本-c880c44b",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 63317640,
+        "taskType": "示例文本-c2d73f25",
+        "colour": "示例文本-920e0047",
+        "abbr": "示例文本-53d0c80f",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 175428584,
+        "taskType": "示例文本-a6f0e4dc",
+        "colour": "示例文本-a20ef2bc",
+        "abbr": "示例文本-fe26c4db",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 883946060,
+        "taskType": "示例文本-b57f0155",
+        "colour": "示例文本-1dcb9361",
+        "abbr": "示例文本-1881e550",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 513817631,
+        "taskType": "示例文本-6d46db3e",
+        "colour": "示例文本-f7310893",
+        "abbr": "示例文本-d8c86a33",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 261488980,
+        "taskType": "示例文本-1bd40070",
+        "colour": "示例文本-5dff6cf3",
+        "abbr": "示例文本-1b5d4cd6",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 149336153,
+        "taskType": "示例文本-dee3ca74",
+        "colour": "示例文本-2d7da138",
+        "abbr": "示例文本-bebd0fa6",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 24834155,
+        "taskType": "示例文本-f437898c",
+        "colour": "示例文本-80fc9d04",
+        "abbr": "示例文本-921db320",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 866955457,
+        "taskType": "示例文本-652a2306",
+        "colour": "示例文本-cefc413c",
+        "abbr": "示例文本-d6b33960",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 14366504,
+        "taskType": "示例文本-acea04bb",
+        "colour": "示例文本-2d7da138",
+        "abbr": "示例文本-3ed9b4f0",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 779063799,
+        "taskType": "示例文本-e6efcf04",
+        "colour": "示例文本-80fc9d04",
+        "abbr": "示例文本-4ad8c43d",
+        "percentage": 1
+      },
+      {
+        "taskTypeId": 237286490,
+        "taskType": "示例文本-bbb330c8",
+        "colour": "示例文本-5dff6cf3",
+        "abbr": "示例文本-7a5f64ca",
+        "percentage": 1
+      }
+    ]
+  }
+]

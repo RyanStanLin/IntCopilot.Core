@@ -1,0 +1,290 @@
+[
+  {
+    "taskTypeId": 352542035,
+    "name": "示例文本-1aad8211",
+    "enName": "示例文本-1aad8211",
+    "colour": "示例文本-cefc413c",
+    "code": "1001",
+    "abbr": "示例文本-53d0c80f",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 457218212,
+    "name": "示例文本-67e59a74",
+    "enName": "示例文本-67e59a74",
+    "colour": "示例文本-647394eb",
+    "code": "1002",
+    "abbr": "示例文本-f5a4bf8e",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 510760645,
+    "name": "示例文本-d30e791f",
+    "enName": "示例文本-d30e791f",
+    "colour": "示例文本-cc760895",
+    "code": "1003",
+    "abbr": "示例文本-cea78640",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 542586015,
+    "name": "示例文本-b7df3abf",
+    "enName": "示例文本-b7df3abf",
+    "colour": "示例文本-13418f6f",
+    "code": "1004",
+    "abbr": "示例文本-31344091",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 797938034,
+    "name": "示例文本-b6696560",
+    "enName": "示例文本-b6696560",
+    "colour": "示例文本-c4038e11",
+    "code": "1005",
+    "abbr": "示例文本-53d0c80f",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 12215215,
+    "name": "示例文本-f1eabde1",
+    "enName": "示例文本-f1eabde1",
+    "colour": "示例文本-a20ef2bc",
+    "code": "1006",
+    "abbr": "示例文本-8e33a25d",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 224359346,
+    "name": "示例文本-21c902d6",
+    "enName": "示例文本-21c902d6",
+    "colour": "示例文本-cc760895",
+    "code": "1007",
+    "abbr": "示例文本-9182529f",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 190167602,
+    "name": "示例文本-401e7b32",
+    "enName": "示例文本-401e7b32",
+    "colour": "示例文本-920e0047",
+    "code": "1008",
+    "abbr": "示例文本-bebd0fa6",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 64967958,
+    "name": "示例文本-2c87e636",
+    "enName": "示例文本-2c87e636",
+    "colour": "示例文本-7292d81c",
+    "code": "1009",
+    "abbr": "示例文本-cea78640",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 624129199,
+    "name": "示例文本-c4ed460e",
+    "enName": "示例文本-c4ed460e",
+    "colour": "示例文本-1dcb9361",
+    "code": "1010",
+    "abbr": "示例文本-4c868c83",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 463276409,
+    "name": "示例文本-2fedc59e",
+    "enName": "示例文本-2fedc59e",
+    "colour": "示例文本-f7310893",
+    "code": "1011",
+    "abbr": "示例文本-4c868c83",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 455703887,
+    "name": "示例文本-183f161a",
+    "enName": "示例文本-183f161a",
+    "colour": "示例文本-5dff6cf3",
+    "code": "1012",
+    "abbr": "示例文本-cea78640",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 25606945,
+    "name": "示例文本-610874a0",
+    "enName": "示例文本-610874a0",
+    "colour": "示例文本-2d7da138",
+    "code": "1013",
+    "abbr": "示例文本-6aac4a54",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 301353814,
+    "name": "示例文本-017e97b1",
+    "enName": "示例文本-017e97b1",
+    "colour": "示例文本-80fc9d04",
+    "code": "1014",
+    "abbr": "示例文本-8c2ad024",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 137945284,
+    "name": "示例文本-dc74cced",
+    "enName": "示例文本-dc74cced",
+    "colour": "示例文本-cefc413c",
+    "code": "1015",
+    "abbr": "示例文本-cea78640",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 501453053,
+    "name": "示例文本-f5fb00aa",
+    "enName": "示例文本-f5fb00aa",
+    "colour": "示例文本-647394eb",
+    "code": "1016",
+    "abbr": "示例文本-d8c86a33",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 809396911,
+    "name": "示例文本-5b65566c",
+    "enName": "示例文本-5b65566c",
+    "colour": "示例文本-cc760895",
+    "code": "1017",
+    "abbr": "示例文本-5260c046",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 780136369,
+    "name": "示例文本-da162e18",
+    "enName": "示例文本-da162e18",
+    "colour": "示例文本-13418f6f",
+    "code": "1018",
+    "abbr": "示例文本-bc03f85d",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 150831444,
+    "name": "示例文本-66d626d2",
+    "enName": "示例文本-66d626d2",
+    "colour": "示例文本-c4038e11",
+    "code": "1019",
+    "abbr": "示例文本-124b0879",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 722990329,
+    "name": "示例文本-be789935",
+    "enName": "示例文本-be789935",
+    "colour": "示例文本-a20ef2bc",
+    "code": "1020",
+    "abbr": "示例文本-982cb1b1",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 505792114,
+    "name": "示例文本-b24b7acc",
+    "enName": "示例文本-b24b7acc",
+    "colour": "示例文本-cc760895",
+    "code": "1021",
+    "abbr": "示例文本-c880c44b",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 63317640,
+    "name": "示例文本-c2d73f25",
+    "enName": "示例文本-c2d73f25",
+    "colour": "示例文本-920e0047",
+    "code": "1022",
+    "abbr": "示例文本-53d0c80f",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 175428584,
+    "name": "示例文本-a6f0e4dc",
+    "enName": "示例文本-a6f0e4dc",
+    "colour": "示例文本-a20ef2bc",
+    "code": "1023",
+    "abbr": "示例文本-fe26c4db",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 883946060,
+    "name": "示例文本-b57f0155",
+    "enName": "示例文本-b57f0155",
+    "colour": "示例文本-1dcb9361",
+    "code": "1024",
+    "abbr": "示例文本-1881e550",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 513817631,
+    "name": "示例文本-6d46db3e",
+    "enName": "示例文本-6d46db3e",
+    "colour": "示例文本-f7310893",
+    "code": "1025",
+    "abbr": "示例文本-d8c86a33",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 261488980,
+    "name": "示例文本-1bd40070",
+    "enName": "示例文本-1bd40070",
+    "colour": "示例文本-5dff6cf3",
+    "code": "1026",
+    "abbr": "示例文本-1b5d4cd6",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 149336153,
+    "name": "示例文本-dee3ca74",
+    "enName": "示例文本-dee3ca74",
+    "colour": "示例文本-2d7da138",
+    "code": "1027",
+    "abbr": "示例文本-bebd0fa6",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 24834155,
+    "name": "示例文本-f437898c",
+    "enName": "示例文本-f437898c",
+    "colour": "示例文本-80fc9d04",
+    "code": "1028",
+    "abbr": "示例文本-921db320",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 866955457,
+    "name": "示例文本-652a2306",
+    "enName": "示例文本-652a2306",
+    "colour": "示例文本-cefc413c",
+    "code": "1029",
+    "abbr": "示例文本-d6b33960",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 14366504,
+    "name": "示例文本-acea04bb",
+    "enName": "示例文本-acea04bb",
+    "colour": "示例文本-2d7da138",
+    "code": "1030",
+    "abbr": "示例文本-3ed9b4f0",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 779063799,
+    "name": "示例文本-e6efcf04",
+    "enName": "示例文本-e6efcf04",
+    "colour": "示例文本-80fc9d04",
+    "code": "1031",
+    "abbr": "示例文本-4ad8c43d",
+    "isExam": false
+  },
+  {
+    "taskTypeId": 237286490,
+    "name": "示例文本-bbb330c8",
+    "enName": "示例文本-bbb330c8",
+    "colour": "示例文本-5dff6cf3",
+    "code": "1032",
+    "abbr": "示例文本-7a5f64ca",
+    "isExam": false
+  }
+]

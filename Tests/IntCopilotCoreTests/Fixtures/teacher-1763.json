@@ -1,0 +1,420 @@
+{
+  "gradeItems": [
+    {
+      "columnId": "示例文本-6a99c235",
+      "itemId": 351253169,
+      "columnType": "示例文本-943ee815",
+      "name": "示例文本-63769413",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-9ffd3160",
+      "startDate": 1113283239000,
+      "endDate": 1125638454000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": true,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": null,
+      "studentJoin": false,
+      "countInCalculation": false,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-e96b2b1b",
+      "itemId": 739749967,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-b13cea13",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-647394eb",
+      "startDate": 1115080288000,
+      "endDate": 1115166692000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 457218212,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-2908959e",
+      "itemId": 702961315,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-c9a9ec81",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-647394eb",
+      "startDate": 1114408341000,
+      "endDate": 1114494743000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 457218212,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-e0401ea7",
+      "itemId": 525462811,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-e657f4f8",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-647394eb",
+      "startDate": 1113956313000,
+      "endDate": 1114129120000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 457218212,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-ee224008",
+      "itemId": 273823809,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-42a758bb",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-647394eb",
+      "startDate": 1113783353000,
+      "endDate": 1113956157000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 457218212,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-cd6453a0",
+      "itemId": 224768642,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-42acb0f9",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-647394eb",
+      "startDate": 1113437821000,
+      "endDate": 1113524226000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 457218212,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-ab4a66a3",
+      "itemId": 766000310,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-b61535e4",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-647394eb",
+      "startDate": 1113359261000,
+      "endDate": 1113445665000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 457218212,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    },
+    {
+      "columnId": "示例文本-f4b6e8be",
+      "itemId": 116669421,
+      "columnType": "示例文本-344c879a",
+      "name": "示例文本-05904153",
+      "locked": false,
+      "editable": true,
+      "colour": "示例文本-7292d81c",
+      "startDate": 1113284608000,
+      "endDate": 1114926213000,
+      "topScore": 100.0,
+      "scoreMethod": null,
+      "publishTeacher": false,
+      "publishStudent": true,
+      "taskRuleId": null,
+      "taskTypeId": 64967958,
+      "studentJoin": false,
+      "countInCalculation": true,
+      "canColumnLock": false
+    }
+  ],
+  "students": [
+    {
+      "studentId": 619540604,
+      "studentName": "示例文本-df8a44c6",
+      "studentEnName": "示例文本-46d66ce9",
+      "studentFirstName": "示例文本-86da4794",
+      "studentLastName": "示例文本-8a5c5529",
+      "studentNum": "示例文本-482edd96",
+      "inClass": true,
+      "gradeMap": {
+        "task_702961315": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 92.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "示例文本-1f647c5f",
+          "tag": "none"
+        },
+        "task_739749967": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 81.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_116669421": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 95.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_766000310": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 92.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "cus_351253169": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 91.6,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_525462811": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 91.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_224768642": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 94.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_273823809": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 89.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        }
+      }
+    },
+    {
+      "studentId": 152289766,
+      "studentName": "示例文本-86fe5846",
+      "studentEnName": "示例文本-f7b07924",
+      "studentFirstName": "示例文本-82098d41",
+      "studentLastName": "示例文本-4493ce9e",
+      "studentNum": "示例文本-58a5519a",
+      "inClass": true,
+      "gradeMap": {
+        "task_702961315": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 98.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_739749967": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 95.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_116669421": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 95.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_766000310": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 98.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "cus_351253169": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 96.8,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_525462811": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 97.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_224768642": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 98.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        },
+        "task_273823809": {
+          "grade": {
+            "score": 1.5,
+            "level": "",
+            "manual": false,
+            "calculatedScore": 100.0,
+            "calculatedLevel": "",
+            "manualPass": false
+          },
+          "submitted": false,
+          "comment": "",
+          "tag": "none"
+        }
+      }
+    }
+  ],
+  "gradeLevelItems": [],
+  "editable": true,
+  "gradeLevelName": "",
+  "taskGradeLevelId": 626607481,
+  "meanMap": {
+    "task_702961315": 95.0,
+    "task_739749967": 88.0,
+    "task_766000310": 95.0,
+    "task_116669421": 95.0,
+    "cus_351253169": 94.19999999999999,
+    "task_525462811": 94.0,
+    "task_224768642": 96.0,
+    "task_273823809": 94.5
+  },
+  "medianMap": {
+    "task_702961315": 95.0,
+    "task_739749967": 88.0,
+    "task_766000310": 95.0,
+    "task_116669421": 95.0,
+    "cus_351253169": 94.2,
+    "task_525462811": 94.0,
+    "task_224768642": 96.0,
+    "task_273823809": 94.5
+  }
+}

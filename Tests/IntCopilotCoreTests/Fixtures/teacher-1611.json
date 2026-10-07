@@ -1,0 +1,103 @@
+{
+  "pageSize": 30,
+  "pageCurrent": 1,
+  "totalItem": 3,
+  "items": [
+    {
+      "seqNum": 1,
+      "messageMasterId": 660984783,
+      "messageId": 647864643,
+      "masterRecordId": null,
+      "title": "示例文本-9e5c3673",
+      "content": "示例文本-9ee10e89",
+      "sendTime": 1070781819000,
+      "readFlag": true,
+      "type": "1600",
+      "important": false,
+      "fromMember": {
+        "memberId": 593059446,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-919edc3a",
+        "enName": "示例文本-972307d2",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "https://example.invalid/resource/374bd7b8",
+        "enterDate": ""
+      },
+      "toMember": {
+        "memberId": 503964563,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-2885d277",
+        "enName": "示例文本-9dda1ef8",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "",
+        "enterDate": ""
+      }
+    },
+    {
+      "seqNum": 2,
+      "messageMasterId": 686572319,
+      "messageId": 616481552,
+      "masterRecordId": null,
+      "title": "示例文本-03021c20",
+      "content": "示例文本-9e3f469d",
+      "sendTime": 1020644265000,
+      "readFlag": true,
+      "type": "1600",
+      "important": true,
+      "fromMember": {
+        "memberId": 586017051,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-da926484",
+        "enName": "示例文本-fc878da0",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "https://example.invalid/resource/374bd7b8",
+        "enterDate": ""
+      },
+      "toMember": {
+        "memberId": 503964563,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-2885d277",
+        "enName": "示例文本-9dda1ef8",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "",
+        "enterDate": ""
+      }
+    },
+    {
+      "seqNum": 3,
+      "messageMasterId": 791040523,
+      "messageId": 137980821,
+      "masterRecordId": null,
+      "title": "示例文本-8d114587",
+      "content": "示例文本-528812c2",
+      "sendTime": 1020313828000,
+      "readFlag": true,
+      "type": "1600",
+      "important": true,
+      "fromMember": {
+        "memberId": 586017051,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-da926484",
+        "enName": "示例文本-fc878da0",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "https://example.invalid/resource/374bd7b8",
+        "enterDate": ""
+      },
+      "toMember": {
+        "memberId": 503964563,
+        "memberType": "示例文本-d6fac75e",
+        "name": "示例文本-2885d277",
+        "enName": "示例文本-9dda1ef8",
+        "studentId": null,
+        "relationship": "",
+        "avatarUrl": "",
+        "enterDate": ""
+      }
+    }
+  ]
+}

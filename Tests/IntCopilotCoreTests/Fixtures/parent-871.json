@@ -1,0 +1,20 @@
+[
+  {
+    "studentId": 152289766,
+    "name": "示例文本-86fe5846",
+    "enName": "示例文本-f7b07924",
+    "firstName": "示例文本-82098d41",
+    "lastName": "示例文本-4493ce9e",
+    "avatarUrl": "https://example.invalid/resource/374bd7b8",
+    "campusId": 468898755,
+    "campusType": "1233",
+    "attendanceType": "half_day",
+    "relation": "other",
+    "status": "1014",
+    "enterDate": 1058112000000,
+    "surname": "",
+    "moniker": "",
+    "schoolRollStatus": "",
+    "schoolRollNote": ""
+  }
+]

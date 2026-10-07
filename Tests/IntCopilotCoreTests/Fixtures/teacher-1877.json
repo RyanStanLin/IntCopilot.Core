@@ -1,0 +1,33 @@
+{
+  "taskId": 739749967,
+  "name": "示例文本-b13cea13",
+  "subjectName": "示例文本-0774c50d",
+  "course": {
+    "courseId": 237958942,
+    "description": "示例文本-2366ad6c",
+    "subject": null,
+    "students": [],
+    "teacher": []
+  },
+  "type": {
+    "taskTypeId": 457218212,
+    "name": "示例文本-67e59a74",
+    "enName": "",
+    "colour": "示例文本-647394eb",
+    "code": "1002",
+    "abbr": "示例文本-f5a4bf8e",
+    "isExam": false
+  },
+  "scoreFlag": true,
+  "topScore": 100,
+  "startDate": 1115080288000,
+  "endDate": 1115166692000,
+  "inTotal": true,
+  "online": false,
+  "overDeadline": false,
+  "description": "示例文本-20e9a8b3",
+  "publicFlag": true,
+  "courseType": "1001",
+  "canEditType": true,
+  "resources": []
+}

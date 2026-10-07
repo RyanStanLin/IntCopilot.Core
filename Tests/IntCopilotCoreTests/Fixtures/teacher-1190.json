@@ -1,0 +1,27 @@
+{
+  "pageSize": 30,
+  "pageCurrent": 1,
+  "totalItem": 1,
+  "items": [
+    {
+      "studentId": 679875020,
+      "name": "示例文本-34becee6",
+      "gender": "male",
+      "code": "20250088",
+      "grade": "示例文本-0c7adbea",
+      "className": "示例文本-2b780d66",
+      "house": "示例文本-3684fcd8",
+      "houseGroup": "",
+      "avatarUrl": "https://example.invalid/resource/374bd7b8",
+      "medical": "",
+      "medium": "",
+      "medicalTag": false,
+      "mediumTag": false,
+      "studentEmail": "person-7a2f296d@example.invalid",
+      "parentEmail": "person-a84c7b2b@example.invalid",
+      "parentsEmail": [
+        "person-a84c7b2b@example.invalid"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "kinds": [
+    {
+      "attendanceStatusId": 302003605,
+      "attendanceKindId": 495560216,
+      "value": "示例文本-854aa007",
+      "name": "示例文本-77c77625",
+      "enName": "示例文本-907e66e1",
+      "attend": true,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-d49fe2a0",
+      "abbr": "示例文本-cea78640"
+    },
+    {
+      "attendanceStatusId": 793550077,
+      "attendanceKindId": 483374455,
+      "value": "示例文本-3de79a7a",
+      "name": "示例文本-4aa00ecf",
+      "enName": "示例文本-51001ff7",
+      "attend": true,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-bb7973e3",
+      "abbr": "示例文本-fc6ed8ce"
+    },
+    {
+      "attendanceStatusId": 676741518,
+      "attendanceKindId": 685525860,
+      "value": "示例文本-455e38cf",
+      "name": "示例文本-3cdb572e",
+      "enName": "示例文本-0d2652cb",
+      "attend": false,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-4eb5d5d2",
+      "abbr": "示例文本-b36b9917"
+    },
+    {
+      "attendanceStatusId": 182340180,
+      "attendanceKindId": 597615127,
+      "value": "示例文本-4e98f4d4",
+      "name": "示例文本-2320099b",
+      "enName": "示例文本-c99f91ed",
+      "attend": false,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-7a974696",
+      "abbr": "示例文本-59e44e55"
+    },
+    {
+      "attendanceStatusId": 852034434,
+      "attendanceKindId": 285560698,
+      "value": "示例文本-6561357c",
+      "name": "示例文本-edfb8abe",
+      "enName": "示例文本-2acfdb05",
+      "attend": false,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-b5dfda15",
+      "abbr": "示例文本-59e44e55"
+    }
+  ],
+  "statistics": [
+    {
+      "id": 603671419,
+      "dimension": "示例文本-4288a838",
+      "enDimension": "示例文本-4288a838",
+      "attendantNums": 4,
+      "allNums": 4,
+      "attendantRate": 1.0,
+      "statisticDetail": {
+        "1": {
+          "count": 4,
+          "rate": 1.0
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 341755803,
+      "dimension": "示例文本-8e221840",
+      "enDimension": "示例文本-8e221840",
+      "attendantNums": 8,
+      "allNums": 10,
+      "attendantRate": 0.8,
+      "statisticDetail": {
+        "1": {
+          "count": 8,
+          "rate": 0.8
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "7": {
+          "count": 2,
+          "rate": 0.2
+        }
+      }
+    },
+    {
+      "id": 675236001,
+      "dimension": "示例文本-0c400956",
+      "enDimension": "示例文本-0c400956",
+      "attendantNums": 10,
+      "allNums": 11,
+      "attendantRate": 0.9091,
+      "statisticDetail": {
+        "1": {
+          "count": 10,
+          "rate": 0.9091
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.0909
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 441056618,
+      "dimension": "示例文本-56bce866",
+      "enDimension": "示例文本-56bce866",
+      "attendantNums": 19,
+      "allNums": 24,
+      "attendantRate": 0.7917,
+      "statisticDetail": {
+        "1": {
+          "count": 19,
+          "rate": 0.7917
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 3,
+          "rate": 0.125
+        },
+        "7": {
+          "count": 2,
+          "rate": 0.0833
+        }
+      }
+    },
+    {
+      "id": 133580501,
+      "dimension": "示例文本-f3de47dc",
+      "enDimension": "示例文本-f3de47dc",
+      "attendantNums": 0,
+      "allNums": 16,
+      "attendantRate": 0.0,
+      "statisticDetail": {
+        "1": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.0625
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 146014529,
+      "dimension": "示例文本-8a7d475f",
+      "enDimension": "示例文本-8a7d475f",
+      "attendantNums": 17,
+      "allNums": 18,
+      "attendantRate": 0.9444,
+      "statisticDetail": {
+        "1": {
+          "count": 17,
+          "rate": 0.9444
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.0556
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 34695439,
+      "dimension": "示例文本-10b6427a",
+      "enDimension": "示例文本-10b6427a",
+      "attendantNums": 26,
+      "allNums": 27,
+      "attendantRate": 0.963,
+      "statisticDetail": {
+        "1": {
+          "count": 21,
+          "rate": 0.7778
+        },
+        "2": {
+          "count": 5,
+          "rate": 0.1852
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.037
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 617229727,
+      "dimension": "示例文本-6ce3422e",
+      "enDimension": "示例文本-6ce3422e",
+      "attendantNums": 21,
+      "allNums": 42,
+      "attendantRate": 0.5,
+      "statisticDetail": {
+        "1": {
+          "count": 21,
+          "rate": 0.5
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 2,
+          "rate": 0.0476
+        },
+        "4": {
+          "count": 6,
+          "rate": 0.1429
+        },
+        "7": {
+          "count": 1,
+          "rate": 0.0238
+        }
+      }
+    },
+    {
+      "id": 600743532,
+      "dimension": "示例文本-8a2bb109",
+      "enDimension": "示例文本-8a2bb109",
+      "attendantNums": 47,
+      "allNums": 53,
+      "attendantRate": 0.8868,
+      "statisticDetail": {
+        "1": {
+          "count": 46,
+          "rate": 0.8679
+        },
+        "2": {
+          "count": 1,
+          "rate": 0.0189
+        },
+        "3": {
+          "count": 2,
+          "rate": 0.0377
+        },
+        "4": {
+          "count": 3,
+          "rate": 0.0566
+        },
+        "7": {
+          "count": 1,
+          "rate": 0.0189
+        }
+      }
+    },
+    {
+      "id": 490500212,
+      "dimension": "示例文本-0c7adbea",
+      "enDimension": "示例文本-0c7adbea",
+      "attendantNums": 26,
+      "allNums": 36,
+      "attendantRate": 0.7222,
+      "statisticDetail": {
+        "1": {
+          "count": 22,
+          "rate": 0.6111
+        },
+        "2": {
+          "count": 4,
+          "rate": 0.1111
+        },
+        "3": {
+          "count": 2,
+          "rate": 0.0556
+        },
+        "4": {
+          "count": 6,
+          "rate": 0.1667
+        },
+        "7": {
+          "count": 2,
+          "rate": 0.0556
+        }
+      }
+    },
+    {
+      "id": 628822628,
+      "dimension": "示例文本-6c00c5aa",
+      "enDimension": "示例文本-6c00c5aa",
+      "attendantNums": 14,
+      "allNums": 39,
+      "attendantRate": 0.359,
+      "statisticDetail": {
+        "1": {
+          "count": 13,
+          "rate": 0.3333
+        },
+        "2": {
+          "count": 1,
+          "rate": 0.0256
+        },
+        "3": {
+          "count": 16,
+          "rate": 0.4103
+        },
+        "4": {
+          "count": 7,
+          "rate": 0.1795
+        },
+        "7": {
+          "count": 2,
+          "rate": 0.0513
+        }
+      }
+    },
+    {
+      "id": 898609182,
+      "dimension": "示例文本-708aab4f",
+      "enDimension": "示例文本-708aab4f",
+      "attendantNums": 5,
+      "allNums": 30,
+      "attendantRate": 0.1667,
+      "statisticDetail": {
+        "1": {
+          "count": 5,
+          "rate": 0.1667
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 5,
+          "rate": 0.1667
+        },
+        "7": {
+          "count": 1,
+          "rate": 0.0333
+        }
+      }
+    },
+    {
+      "id": null,
+      "dimension": "示例文本-a7b3bbbe",
+      "enDimension": "示例文本-bc3e24e4",
+      "attendantNums": 197,
+      "allNums": 310,
+      "attendantRate": 0.6355,
+      "statisticDetail": {
+        "1": {
+          "count": 186,
+          "rate": 0.6
+        },
+        "2": {
+          "count": 11,
+          "rate": 0.0355
+        },
+        "3": {
+          "count": 22,
+          "rate": 0.071
+        },
+        "4": {
+          "count": 34,
+          "rate": 0.1097
+        },
+        "7": {
+          "count": 11,
+          "rate": 0.0355
+        }
+      }
+    }
+  ]
+}

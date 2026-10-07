@@ -1,0 +1,689 @@
+[
+  {
+    "file": "parent-362.json",
+    "responseType": "ParentAttendanceAttendanceStatusGETResponse",
+    "endpoint": "parent:GET:/api/attendance/attendance-status"
+  },
+  {
+    "file": "parent-395.json",
+    "responseType": "ParentAttendanceLeaveApplicationGETResponse",
+    "endpoint": "parent:GET:/api/attendance/leave-application"
+  },
+  {
+    "file": "parent-363.json",
+    "responseType": "ParentAttendanceStatisticStudentSchoolYearIdGETResponse",
+    "endpoint": "parent:GET:/api/attendance/statistic/student/{schoolYearId}"
+  },
+  {
+    "file": "parent-431.json",
+    "responseType": "ParentCalendarByMonthGETResponse",
+    "endpoint": "parent:GET:/api/calendar/byMonth"
+  },
+  {
+    "file": "parent-249.json",
+    "responseType": "ParentCourseRecordListByStudentGETResponse",
+    "endpoint": "parent:GET:/api/course-record/listByStudent"
+  },
+  {
+    "file": "parent-261.json",
+    "responseType": "ParentCurriculumStudentSchoolYearIdGETResponse",
+    "endpoint": "parent:GET:/api/curriculum/student/{schoolYearId}"
+  },
+  {
+    "file": "parent-348.json",
+    "responseType": "ParentDiaryByStudentGETResponse",
+    "endpoint": "parent:GET:/api/diary/by-student"
+  },
+  {
+    "file": "parent-406.json",
+    "responseType": "ParentDropDownLeaveReasonsGETResponse",
+    "endpoint": "parent:GET:/api/dropDown/leave-reasons"
+  },
+  {
+    "file": "parent-275.json",
+    "responseType": "ParentDropDownRelatedAllCoursesGETResponse",
+    "endpoint": "parent:GET:/api/dropDown/relatedAllCourses"
+  },
+  {
+    "file": "parent-299.json",
+    "responseType": "ParentDropDownRelatedAllCoursesGETResponse",
+    "endpoint": "parent:GET:/api/dropDown/relatedAllCourses"
+  },
+  {
+    "file": "parent-244.json",
+    "responseType": "ParentDropDownSchoolYearRuleListGETResponse",
+    "endpoint": "parent:GET:/api/dropDown/schoolYearRuleList"
+  },
+  {
+    "file": "parent-468.json",
+    "responseType": "ParentLoginVcodeMobileSendGETResponse",
+    "endpoint": "parent:GET:/api/login/vcodeMobileSend"
+  },
+  {
+    "file": "parent-333.json",
+    "responseType": "ParentMonthlyGradeMonthlyGradeByStudentGETResponse",
+    "endpoint": "parent:GET:/api/monthly-grade/monthly-grade/by-student"
+  },
+  {
+    "file": "parent-334.json",
+    "responseType": "ParentMonthlyGradeReportDetailGETResponse",
+    "endpoint": "parent:GET:/api/monthly-grade/report/detail"
+  },
+  {
+    "file": "parent-245.json",
+    "responseType": "ParentStudentClassInfoGETResponse",
+    "endpoint": "parent:GET:/api/student/class-info"
+  },
+  {
+    "file": "parent-235.json",
+    "responseType": "ParentStudentDetailGETResponse",
+    "endpoint": "parent:GET:/api/student/detail"
+  },
+  {
+    "file": "parent-239.json",
+    "responseType": "ParentStudentGetParentsGETResponse",
+    "endpoint": "parent:GET:/api/student/getParents"
+  },
+  {
+    "file": "parent-871.json",
+    "responseType": "ParentStudentListGETResponse",
+    "endpoint": "parent:GET:/api/student/list"
+  },
+  {
+    "file": "parent-315.json",
+    "responseType": "ParentTaskGradeGradeBookGETResponse",
+    "endpoint": "parent:GET:/api/task-grade/grade-book"
+  },
+  {
+    "file": "parent-286.json",
+    "responseType": "ParentTaskDetailGETResponse",
+    "endpoint": "parent:GET:/api/task/detail"
+  },
+  {
+    "file": "parent-277.json",
+    "responseType": "ParentTaskMergeListGETResponse",
+    "endpoint": "parent:GET:/api/task/mergeList"
+  },
+  {
+    "file": "parent-300.json",
+    "responseType": "ParentTaskMergeListGETResponse",
+    "endpoint": "parent:GET:/api/task/mergeList"
+  },
+  {
+    "file": "parent-184.json",
+    "responseType": "ParentLoginUnifyPOSTResponse",
+    "endpoint": "parent:POST:/api/login/unify"
+  },
+  {
+    "file": "parent-187.json",
+    "responseType": "ParentLoginUnifyPOSTResponse",
+    "endpoint": "parent:POST:/api/login/unify"
+  },
+  {
+    "file": "parent-469.json",
+    "responseType": "ParentLoginUnifyPOSTResponse",
+    "endpoint": "parent:POST:/api/login/unify"
+  },
+  {
+    "file": "parent-472.json",
+    "responseType": "ParentLoginUnifyPOSTResponse",
+    "endpoint": "parent:POST:/api/login/unify"
+  },
+  {
+    "file": "portal-1118.json",
+    "responseType": "PortalApiUserInfoGETResponse",
+    "endpoint": "portal:GET:/api/api/user/info"
+  },
+  {
+    "file": "teacher-1162.json",
+    "responseType": "TeacherAttendanceAttendancePermissionGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/attendance-permission"
+  },
+  {
+    "file": "teacher-2438.json",
+    "responseType": "TeacherAttendanceAttendanceStatusGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/attendance-status"
+  },
+  {
+    "file": "teacher-1243.json",
+    "responseType": "TeacherAttendanceAttendanceStatusGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/attendance-status"
+  },
+  {
+    "file": "teacher-1245.json",
+    "responseType": "TeacherAttendanceClassGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/class"
+  },
+  {
+    "file": "teacher-1363.json",
+    "responseType": "TeacherAttendanceClassCcaGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/class/cca"
+  },
+  {
+    "file": "teacher-1347.json",
+    "responseType": "TeacherAttendanceClassListGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/classList"
+  },
+  {
+    "file": "teacher-1352.json",
+    "responseType": "TeacherAttendanceDailyGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/daily"
+  },
+  {
+    "file": "teacher-1406.json",
+    "responseType": "TeacherAttendanceDormitoryDailyGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/dormitory/daily"
+  },
+  {
+    "file": "teacher-2226.json",
+    "responseType": "TeacherAttendanceLeaveApplicationPendingGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/leave-application/pending"
+  },
+  {
+    "file": "teacher-1414.json",
+    "responseType": "TeacherAttendanceSsRoomDailyGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/ssRoom/daily"
+  },
+  {
+    "file": "teacher-1416.json",
+    "responseType": "TeacherAttendanceSsRoomDailyGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/ssRoom/daily"
+  },
+  {
+    "file": "teacher-1438.json",
+    "responseType": "TeacherAttendanceStatisticClassGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class"
+  },
+  {
+    "file": "teacher-1453.json",
+    "responseType": "TeacherAttendanceStatisticClassGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class"
+  },
+  {
+    "file": "teacher-1465.json",
+    "responseType": "TeacherAttendanceStatisticClassPeriodGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class-period"
+  },
+  {
+    "file": "teacher-1492.json",
+    "responseType": "TeacherAttendanceStatisticClassPeriodGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class-period"
+  },
+  {
+    "file": "teacher-2441.json",
+    "responseType": "TeacherAttendanceStatisticCourseStudentGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/course/student"
+  },
+  {
+    "file": "teacher-1497.json",
+    "responseType": "TeacherAttendanceStatisticDormitoryGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/dormitory"
+  },
+  {
+    "file": "teacher-1428.json",
+    "responseType": "TeacherAttendanceStatisticHouseGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/house"
+  },
+  {
+    "file": "teacher-1425.json",
+    "responseType": "TeacherAttendanceStatisticSectionGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/section"
+  },
+  {
+    "file": "teacher-1501.json",
+    "responseType": "TeacherAttendanceStatisticSsrGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/ssr"
+  },
+  {
+    "file": "teacher-2440.json",
+    "responseType": "TeacherAttendanceStatisticStudentDetailSchoolYearIdGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/student/detail/{schoolYearId}"
+  },
+  {
+    "file": "teacher-2439.json",
+    "responseType": "TeacherAttendanceStatisticStudentSchoolYearIdGETResponse",
+    "endpoint": "teacher:GET:/api/attendance/statistic/student/{schoolYearId}"
+  },
+  {
+    "file": "teacher-2429.json",
+    "responseType": "TeacherCourseRecordListByStudentGETResponse",
+    "endpoint": "teacher:GET:/api/course-record/listByStudent"
+  },
+  {
+    "file": "teacher-1361.json",
+    "responseType": "TeacherCourseCascadeAttendanceGETResponse",
+    "endpoint": "teacher:GET:/api/course/cascade/attendance"
+  },
+  {
+    "file": "teacher-1730.json",
+    "responseType": "TeacherCourseCascadeBySchoolYearGETResponse",
+    "endpoint": "teacher:GET:/api/course/cascadeBySchoolYear"
+  },
+  {
+    "file": "teacher-1912.json",
+    "responseType": "TeacherCourseCascadeBySchoolYearGETResponse",
+    "endpoint": "teacher:GET:/api/course/cascadeBySchoolYear"
+  },
+  {
+    "file": "teacher-1172.json",
+    "responseType": "TeacherCourseCourseAndCcaGETResponse",
+    "endpoint": "teacher:GET:/api/course/courseAndCca"
+  },
+  {
+    "file": "teacher-1190.json",
+    "responseType": "TeacherCourseStudentsGETResponse",
+    "endpoint": "teacher:GET:/api/course/students"
+  },
+  {
+    "file": "teacher-1548.json",
+    "responseType": "TeacherCurriculumRoomGETResponse",
+    "endpoint": "teacher:GET:/api/curriculum/room"
+  },
+  {
+    "file": "teacher-2424.json",
+    "responseType": "TeacherCurriculumStudentSchoolYearIdGETResponse",
+    "endpoint": "teacher:GET:/api/curriculum/student/{schoolYearId}"
+  },
+  {
+    "file": "teacher-1541.json",
+    "responseType": "TeacherCurriculumTeacherGETResponse",
+    "endpoint": "teacher:GET:/api/curriculum/teacher"
+  },
+  {
+    "file": "teacher-1532.json",
+    "responseType": "TeacherCurriculumTeacherPersonalGETResponse",
+    "endpoint": "teacher:GET:/api/curriculum/teacher/personal"
+  },
+  {
+    "file": "teacher-2436.json",
+    "responseType": "TeacherDiaryByStudentGETResponse",
+    "endpoint": "teacher:GET:/api/diary/by-student"
+  },
+  {
+    "file": "teacher-1513.json",
+    "responseType": "TeacherDiaryEntriesGETResponse",
+    "endpoint": "teacher:GET:/api/diary/entries"
+  },
+  {
+    "file": "teacher-1525.json",
+    "responseType": "TeacherDiaryEntriesGETResponse",
+    "endpoint": "teacher:GET:/api/diary/entries"
+  },
+  {
+    "file": "teacher-2833.json",
+    "responseType": "TeacherDiaryEntryTypeGETResponse",
+    "endpoint": "teacher:GET:/api/diary/entry-type"
+  },
+  {
+    "file": "teacher-2834.json",
+    "responseType": "TeacherDiaryEntryTypeGETResponse",
+    "endpoint": "teacher:GET:/api/diary/entry-type"
+  },
+  {
+    "file": "teacher-2814.json",
+    "responseType": "TeacherDiaryPrimaryTypeGETResponse",
+    "endpoint": "teacher:GET:/api/diary/primary-type"
+  },
+  {
+    "file": "teacher-1507.json",
+    "responseType": "TeacherDiaryPrimaryTypeGETResponse",
+    "endpoint": "teacher:GET:/api/diary/primary-type"
+  },
+  {
+    "file": "teacher-1606.json",
+    "responseType": "TeacherDropDownAuthTeachersForMessageGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/authTeachersForMessage"
+  },
+  {
+    "file": "teacher-1165.json",
+    "responseType": "TeacherDropDownAuthTeachersForMyClassGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/authTeachersForMyClass"
+  },
+  {
+    "file": "teacher-1435.json",
+    "responseType": "TeacherDropDownCampusListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/campusList"
+  },
+  {
+    "file": "teacher-1634.json",
+    "responseType": "TeacherDropDownClassListAllGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/classListAll"
+  },
+  {
+    "file": "teacher-1545.json",
+    "responseType": "TeacherDropDownClassRoomCascadeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/classRoomCascade"
+  },
+  {
+    "file": "teacher-1622.json",
+    "responseType": "TeacherDropDownCourseTeacherGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/course-teacher"
+  },
+  {
+    "file": "teacher-1405.json",
+    "responseType": "TeacherDropDownDormitoryListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/dormitoryList"
+  },
+  {
+    "file": "teacher-1509.json",
+    "responseType": "TeacherDropDownFloorAndDormitoryListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/floorAndDormitoryList"
+  },
+  {
+    "file": "teacher-1635.json",
+    "responseType": "TeacherDropDownFloorAndDormitoryListAllGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/floorAndDormitoryListAll"
+  },
+  {
+    "file": "teacher-1404.json",
+    "responseType": "TeacherDropDownFloorListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/floorList"
+  },
+  {
+    "file": "teacher-1621.json",
+    "responseType": "TeacherDropDownHeadTeachersGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/head-teachers"
+  },
+  {
+    "file": "teacher-1508.json",
+    "responseType": "TeacherDropDownHouseGroupListAllGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll"
+  },
+  {
+    "file": "teacher-1618.json",
+    "responseType": "TeacherDropDownHouseGroupListAllGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll"
+  },
+  {
+    "file": "teacher-1633.json",
+    "responseType": "TeacherDropDownHouseGroupListAllGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll"
+  },
+  {
+    "file": "teacher-1645.json",
+    "responseType": "TeacherDropDownMessageReceiverGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/message/receiver"
+  },
+  {
+    "file": "teacher-1511.json",
+    "responseType": "TeacherDropDownSchoolYearListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearList"
+  },
+  {
+    "file": "teacher-2425.json",
+    "responseType": "TeacherDropDownSchoolYearRuleListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList"
+  },
+  {
+    "file": "teacher-2437.json",
+    "responseType": "TeacherDropDownSchoolYearRuleListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList"
+  },
+  {
+    "file": "teacher-1910.json",
+    "responseType": "TeacherDropDownSchoolYearRuleListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList"
+  },
+  {
+    "file": "teacher-1514.json",
+    "responseType": "TeacherDropDownSectionCascadeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/sectionCascade"
+  },
+  {
+    "file": "teacher-1632.json",
+    "responseType": "TeacherDropDownSectionCascadeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/sectionCascade"
+  },
+  {
+    "file": "teacher-1449.json",
+    "responseType": "TeacherDropDownSectionListCpAttendanceGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/sectionList/cpAttendance"
+  },
+  {
+    "file": "teacher-1761.json",
+    "responseType": "TeacherDropDownSemesterGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/semester"
+  },
+  {
+    "file": "teacher-1413.json",
+    "responseType": "TeacherDropDownSsRoomListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomList"
+  },
+  {
+    "file": "teacher-1510.json",
+    "responseType": "TeacherDropDownSsRoomListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomList"
+  },
+  {
+    "file": "teacher-1636.json",
+    "responseType": "TeacherDropDownSsRoomListAllGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomListAll"
+  },
+  {
+    "file": "teacher-1538.json",
+    "responseType": "TeacherDropDownSubjectListGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/subjectList"
+  },
+  {
+    "file": "teacher-1450.json",
+    "responseType": "TeacherDropDownSubjectListForAttendanceGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/subjectListForAttendance"
+  },
+  {
+    "file": "teacher-1734.json",
+    "responseType": "TeacherDropDownTaskTypeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/taskType"
+  },
+  {
+    "file": "teacher-1759.json",
+    "responseType": "TeacherDropDownTaskTypeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/taskType"
+  },
+  {
+    "file": "teacher-1911.json",
+    "responseType": "TeacherDropDownTaskTypeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/taskType"
+  },
+  {
+    "file": "teacher-1913.json",
+    "responseType": "TeacherDropDownTaskTypeGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/taskType"
+  },
+  {
+    "file": "teacher-1819.json",
+    "responseType": "TeacherDropDownTaskTypeByCourseGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/taskTypeByCourse"
+  },
+  {
+    "file": "teacher-1623.json",
+    "responseType": "TeacherDropDownTutorsGETResponse",
+    "endpoint": "teacher:GET:/api/dropDown/tutors"
+  },
+  {
+    "file": "teacher-2431.json",
+    "responseType": "TeacherGradeBookGradeBookGETResponse",
+    "endpoint": "teacher:GET:/api/grade-book/grade-book"
+  },
+  {
+    "file": "teacher-1763.json",
+    "responseType": "TeacherGradeBookGradeBookGETResponse",
+    "endpoint": "teacher:GET:/api/grade-book/grade-book"
+  },
+  {
+    "file": "teacher-1160.json",
+    "responseType": "TeacherLoginSchoolsGETResponse",
+    "endpoint": "teacher:GET:/api/login/schools"
+  },
+  {
+    "file": "teacher-1137.json",
+    "responseType": "TeacherLoginSwitchTokenGETResponse",
+    "endpoint": "teacher:GET:/api/login/switchToken"
+  },
+  {
+    "file": "teacher-1159.json",
+    "responseType": "TeacherLoginUserInfoGETResponse",
+    "endpoint": "teacher:GET:/api/login/userInfo"
+  },
+  {
+    "file": "teacher-1707.json",
+    "responseType": "TeacherMessageFromDetailGETResponse",
+    "endpoint": "teacher:GET:/api/message/fromDetail"
+  },
+  {
+    "file": "teacher-1701.json",
+    "responseType": "TeacherMessageFromListGETResponse",
+    "endpoint": "teacher:GET:/api/message/fromList"
+  },
+  {
+    "file": "teacher-1611.json",
+    "responseType": "TeacherMessageToListGETResponse",
+    "endpoint": "teacher:GET:/api/message/toList"
+  },
+  {
+    "file": "teacher-2125.json",
+    "responseType": "TeacherMonthlyGradeBehaviorTableGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/behavior-table"
+  },
+  {
+    "file": "teacher-2067.json",
+    "responseType": "TeacherMonthlyGradeGradePeriodGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/grade-period"
+  },
+  {
+    "file": "teacher-2054.json",
+    "responseType": "TeacherMonthlyGradeGradePeriodCourseIdGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/grade-period/{courseId}"
+  },
+  {
+    "file": "teacher-2055.json",
+    "responseType": "TeacherMonthlyGradeGradeTableGradePeriodIdCourseIdGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/gradeTable/{gradePeriodId}/{courseId}"
+  },
+  {
+    "file": "teacher-2050.json",
+    "responseType": "TeacherMonthlyGradeLevelAttainmentGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/level/attainment"
+  },
+  {
+    "file": "teacher-2049.json",
+    "responseType": "TeacherMonthlyGradeLevelEffortGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/level/effort"
+  },
+  {
+    "file": "teacher-2173.json",
+    "responseType": "TeacherMonthlyGradeReportGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/report"
+  },
+  {
+    "file": "teacher-2172.json",
+    "responseType": "TeacherMonthlyGradeReportStudentIdGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/report/student-id"
+  },
+  {
+    "file": "teacher-2068.json",
+    "responseType": "TeacherMonthlyGradeTeachingReviewListGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/teachingReview/list"
+  },
+  {
+    "file": "teacher-2070.json",
+    "responseType": "TeacherMonthlyGradeTeachingReviewListGETResponse",
+    "endpoint": "teacher:GET:/api/monthly-grade/teachingReview/list"
+  },
+  {
+    "file": "teacher-1161.json",
+    "responseType": "TeacherSemesterCurrentSchoolYearGETResponse",
+    "endpoint": "teacher:GET:/api/semester/currentSchoolYear"
+  },
+  {
+    "file": "teacher-2426.json",
+    "responseType": "TeacherStudentClassInfoGETResponse",
+    "endpoint": "teacher:GET:/api/student/class-info"
+  },
+  {
+    "file": "teacher-1171.json",
+    "responseType": "TeacherStudentClassAndHouseGETResponse",
+    "endpoint": "teacher:GET:/api/student/classAndHouse"
+  },
+  {
+    "file": "teacher-2420.json",
+    "responseType": "TeacherStudentDetailGETResponse",
+    "endpoint": "teacher:GET:/api/student/detail"
+  },
+  {
+    "file": "teacher-2418.json",
+    "responseType": "TeacherStudentStudentBriefInfoGETResponse",
+    "endpoint": "teacher:GET:/api/student/studentBriefInfo"
+  },
+  {
+    "file": "teacher-1793.json",
+    "responseType": "TeacherTaskGradeRuleGETResponse",
+    "endpoint": "teacher:GET:/api/task-grade/rule"
+  },
+  {
+    "file": "teacher-1877.json",
+    "responseType": "TeacherTaskDetailGETResponse",
+    "endpoint": "teacher:GET:/api/task/detail"
+  },
+  {
+    "file": "teacher-1741.json",
+    "responseType": "TeacherTaskMergeListGETResponse",
+    "endpoint": "teacher:GET:/api/task/mergeList"
+  },
+  {
+    "file": "teacher-1914.json",
+    "responseType": "TeacherTaskMergeListGETResponse",
+    "endpoint": "teacher:GET:/api/task/mergeList"
+  },
+  {
+    "file": "teacher-1878.json",
+    "responseType": "TeacherTaskPerformanceGETResponse",
+    "endpoint": "teacher:GET:/api/task/performance"
+  },
+  {
+    "file": "teacher-2020.json",
+    "responseType": "TeacherTaskStudentDetailGETResponse",
+    "endpoint": "teacher:GET:/api/task/student/detail"
+  },
+  {
+    "file": "teacher-2023.json",
+    "responseType": "TeacherTaskStudentDetailGETResponse",
+    "endpoint": "teacher:GET:/api/task/student/detail"
+  },
+  {
+    "file": "teacher-1537.json",
+    "responseType": "TeacherTeacherListAllGETResponse",
+    "endpoint": "teacher:GET:/api/teacher/listAll"
+  },
+  {
+    "file": "teacher-1879.json",
+    "responseType": "TeacherPerformanceTaskPOSTResponse",
+    "endpoint": "teacher:POST:/api/performance/task"
+  },
+  {
+    "file": "teacher-2411.json",
+    "responseType": "TeacherStudentMyStudentPOSTResponse",
+    "endpoint": "teacher:POST:/api/student/my-student"
+  },
+  {
+    "file": "teacher-2405.json",
+    "responseType": "TeacherStudentStudentIdPOSTResponse",
+    "endpoint": "teacher:POST:/api/student/student-id"
+  },
+  {
+    "file": "teacher-1709.json",
+    "responseType": "TeacherMessageWithdrawPUTResponse",
+    "endpoint": "teacher:PUT:/api/message/withdraw"
+  },
+  {
+    "file": "supplemental-parent-schools.json",
+    "responseType": "ParentLoginSchoolsGETResponse",
+    "endpoint": "parent:GET:/api/login/schools",
+    "supplemental": true
+  },
+  {
+    "file": "supplemental-parent-currentSchoolYear.json",
+    "responseType": "ParentSemesterCurrentSchoolYearGETResponse",
+    "endpoint": "parent:GET:/api/semester/currentSchoolYear",
+    "supplemental": true
+  }
+]

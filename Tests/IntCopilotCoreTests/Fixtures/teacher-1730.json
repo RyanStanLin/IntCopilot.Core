@@ -1,0 +1,52 @@
+[
+  {
+    "key": 490500212,
+    "value": "示例文本-0c7adbea",
+    "enValue": "示例文本-0c7adbea",
+    "extraValue": 30,
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 682500548,
+        "value": "示例文本-c244a136",
+        "enValue": "示例文本-c244a136",
+        "extraValue": null,
+        "isTeach": true,
+        "subOptions": []
+      },
+      {
+        "key": 327335263,
+        "value": "示例文本-3ccae375",
+        "enValue": "示例文本-3ccae375",
+        "extraValue": null,
+        "isTeach": true,
+        "subOptions": []
+      }
+    ]
+  },
+  {
+    "key": 628822628,
+    "value": "示例文本-6c00c5aa",
+    "enValue": "示例文本-6c00c5aa",
+    "extraValue": 30,
+    "isTeach": false,
+    "subOptions": [
+      {
+        "key": 237958942,
+        "value": "示例文本-2366ad6c",
+        "enValue": "示例文本-2366ad6c",
+        "extraValue": null,
+        "isTeach": true,
+        "subOptions": []
+      },
+      {
+        "key": 6087526,
+        "value": "示例文本-9ea00e2f",
+        "enValue": "示例文本-9ea00e2f",
+        "extraValue": null,
+        "isTeach": true,
+        "subOptions": []
+      }
+    ]
+  }
+]

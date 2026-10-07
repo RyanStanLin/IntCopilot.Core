@@ -1,0 +1,2075 @@
+[
+  {
+    "capture": "362",
+    "endpoint": "parent:GET:/api/attendance/attendance-status",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "395",
+    "endpoint": "parent:GET:/api/attendance/leave-application",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "363",
+    "endpoint": "parent:GET:/api/attendance/statistic/student/{schoolYearId}",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {
+      "schoolYearId": "601051559"
+    }
+  },
+  {
+    "capture": "431",
+    "endpoint": "parent:GET:/api/calendar/byMonth",
+    "query": {
+      "dateStart": [
+        "示例文本-e15d64b7"
+      ],
+      "dateEnd": [
+        "示例文本-5a1e3e8e"
+      ],
+      "date": [
+        "1115737505280"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "249",
+    "endpoint": "parent:GET:/api/course-record/listByStudent",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "261",
+    "endpoint": "parent:GET:/api/curriculum/student/{schoolYearId}",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {
+      "schoolYearId": "601051559"
+    }
+  },
+  {
+    "capture": "348",
+    "endpoint": "parent:GET:/api/diary/by-student",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "406",
+    "endpoint": "parent:GET:/api/dropDown/leave-reasons",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "275",
+    "endpoint": "parent:GET:/api/dropDown/relatedAllCourses",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ],
+      "deleteFlag": [
+        "示例文本-c9d1fe79"
+      ],
+      "courseFlag": [
+        "示例文本-c9d1fe79"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "299",
+    "endpoint": "parent:GET:/api/dropDown/relatedAllCourses",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ],
+      "deleteFlag": [
+        "示例文本-c9d1fe79"
+      ],
+      "courseFlag": [
+        "示例文本-c9d1fe79"
+      ],
+      "name": [
+        "示例文本-6ca78a00"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "244",
+    "endpoint": "parent:GET:/api/dropDown/schoolYearRuleList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "468",
+    "endpoint": "parent:GET:/api/login/vcodeMobileSend",
+    "query": {
+      "areaCode": [
+        "示例文本-d6b9ca0a"
+      ],
+      "mobile": [
+        "示例文本-a9f5aac5"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "333",
+    "endpoint": "parent:GET:/api/monthly-grade/monthly-grade/by-student",
+    "query": {
+      "schoolYearId": [
+        "300351004"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "334",
+    "endpoint": "parent:GET:/api/monthly-grade/report/detail",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "gradePeriodId": [
+        "443224744"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "245",
+    "endpoint": "parent:GET:/api/student/class-info",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "235",
+    "endpoint": "parent:GET:/api/student/detail",
+    "query": {
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "239",
+    "endpoint": "parent:GET:/api/student/getParents",
+    "query": {
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "871",
+    "endpoint": "parent:GET:/api/student/list",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "315",
+    "endpoint": "parent:GET:/api/task-grade/grade-book",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "286",
+    "endpoint": "parent:GET:/api/task/detail",
+    "query": {
+      "taskStudentId": [
+        "445418884"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "277",
+    "endpoint": "parent:GET:/api/task/mergeList",
+    "query": {
+      "pageSize": [
+        "30"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "courseId": [
+        "237958942"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ],
+      "name": [
+        ""
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "300",
+    "endpoint": "parent:GET:/api/task/mergeList",
+    "query": {
+      "pageSize": [
+        "30"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "courseId": [
+        "237958942"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ],
+      "name": [
+        "示例文本-6ca78a00"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "410",
+    "endpoint": "parent:POST:/api/attendance/leave-application",
+    "query": {},
+    "body": {
+      "type": "personal",
+      "startTime": 1115827200046,
+      "endTime": 1115827260673,
+      "reason": "示例文本-cdc3275f",
+      "studentId": "152289766",
+      "resourceIds": [],
+      "reasonId": 734369967
+    },
+    "path": {}
+  },
+  {
+    "capture": "184",
+    "endpoint": "parent:POST:/api/login/unify",
+    "query": {},
+    "body": {
+      "account": "示例文本-d73da12a",
+      "password": "fixture-password"
+    },
+    "path": {}
+  },
+  {
+    "capture": "187",
+    "endpoint": "parent:POST:/api/login/unify",
+    "query": {},
+    "body": {
+      "account": "示例文本-d73da12a",
+      "password": "fixture-password"
+    },
+    "path": {}
+  },
+  {
+    "capture": "469",
+    "endpoint": "parent:POST:/api/login/unify",
+    "query": {},
+    "body": {
+      "account": "示例文本-a9f5aac5",
+      "vcode": "fixture-vcode",
+      "areaCode": "示例文本-d6b9ca0a"
+    },
+    "path": {}
+  },
+  {
+    "capture": "472",
+    "endpoint": "parent:POST:/api/login/unify",
+    "query": {},
+    "body": {
+      "account": "示例文本-a9f5aac5",
+      "vcode": "fixture-vcode",
+      "areaCode": "示例文本-d6b9ca0a"
+    },
+    "path": {}
+  },
+  {
+    "capture": "421",
+    "endpoint": "parent:PUT:/api/attendance/leave-application/retrieve",
+    "query": {
+      "leaveApplicationId": [
+        "607706919"
+      ]
+    },
+    "body": {},
+    "path": {}
+  },
+  {
+    "capture": "1118",
+    "endpoint": "portal:GET:/api/api/user/info",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1097",
+    "endpoint": "portal:POST:/api/login",
+    "query": {},
+    "body": {
+      "loginType": "示例文本-965246e0",
+      "username": "示例文本-5663bbf2",
+      "tenant": "示例文本-e63ebdca",
+      "password": "fixture-password"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1109",
+    "endpoint": "portal:POST:/api/login",
+    "query": {},
+    "body": {
+      "loginType": "示例文本-965246e0",
+      "username": "示例文本-45da660b",
+      "tenant": "示例文本-e63ebdca",
+      "password": "fixture-password"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1133",
+    "endpoint": "portal:POST:/api/oauth/authorize",
+    "query": {},
+    "body": {
+      "user_oauth_approval": "示例文本-c9d1fe79"
+    },
+    "path": {}
+  },
+  {
+    "capture": "263",
+    "endpoint": "print:GET:/api/render",
+    "query": {
+      "url": [
+        "https://example.invalid/resource/74878c22"
+      ],
+      "pdf.landscape": [
+        "示例文本-c9d1fe79"
+      ],
+      "pdf.printBackground": [
+        "示例文本-c9d1fe79"
+      ],
+      "pdf.scale": [
+        "示例文本-6c5ad49f"
+      ],
+      "pdf.margin.left": [
+        "示例文本-02499a45"
+      ],
+      "pdf.margin.right": [
+        "示例文本-6a39b916"
+      ],
+      "pdf.margin.top": [
+        "示例文本-6a39b916"
+      ],
+      "waitFor": [
+        "示例文本-cfa719cf"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2537",
+    "endpoint": "teacher:DELETE:/api/diary",
+    "query": {
+      "diaryEntryId": [
+        "73270036"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2036",
+    "endpoint": "teacher:DELETE:/api/task/delete",
+    "query": {
+      "taskId": [
+        "492953657"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1162",
+    "endpoint": "teacher:GET:/api/attendance/attendance-permission",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2438",
+    "endpoint": "teacher:GET:/api/attendance/attendance-status",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1243",
+    "endpoint": "teacher:GET:/api/attendance/attendance-status",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1245",
+    "endpoint": "teacher:GET:/api/attendance/class",
+    "query": {
+      "date": [
+        "1115771593729"
+      ],
+      "courseId": [
+        "237958942"
+      ],
+      "classPeriodId": [
+        "862180790"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1363",
+    "endpoint": "teacher:GET:/api/attendance/class/cca",
+    "query": {
+      "date": [
+        "1115771839894"
+      ],
+      "courseId": [
+        "366818097"
+      ],
+      "classPeriodId": [
+        "721112142"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1347",
+    "endpoint": "teacher:GET:/api/attendance/classList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1352",
+    "endpoint": "teacher:GET:/api/attendance/daily",
+    "query": {
+      "date": [
+        "1115827199999"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "classId": [
+        "179412897"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1406",
+    "endpoint": "teacher:GET:/api/attendance/dormitory/daily",
+    "query": {
+      "date": [
+        "1115771904004"
+      ],
+      "floorId": [
+        "749172282"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2226",
+    "endpoint": "teacher:GET:/api/attendance/leave-application/pending",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "exportFlag": [
+        "示例文本-ece3f4cf"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1414",
+    "endpoint": "teacher:GET:/api/attendance/ssRoom/daily",
+    "query": {
+      "date": [
+        "1115771966827"
+      ],
+      "selfStudyRoomId": [
+        "297800311"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1416",
+    "endpoint": "teacher:GET:/api/attendance/ssRoom/daily",
+    "query": {
+      "date": [
+        "1115685566827"
+      ],
+      "selfStudyRoomId": [
+        "297800311"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1438",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class",
+    "query": {
+      "start": [
+        "1115772100586"
+      ],
+      "end": [
+        "1115772100586"
+      ],
+      "campusId": [
+        "734369967"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1453",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class",
+    "query": {
+      "start": [
+        "1115772139853"
+      ],
+      "end": [
+        "1115772139853"
+      ],
+      "campusId": [
+        "468898755"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1465",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class-period",
+    "query": {
+      "start": [
+        "1115772183448"
+      ],
+      "end": [
+        "1115772183448"
+      ],
+      "sectionId": [
+        "898609182"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1492",
+    "endpoint": "teacher:GET:/api/attendance/statistic/class-period",
+    "query": {
+      "start": [
+        "1115685783448"
+      ],
+      "end": [
+        "1115772183448"
+      ],
+      "sectionId": [
+        "898609182"
+      ],
+      "subjectIds": [
+        "示例文本-e1348d35",
+        "示例文本-8cb5c47a",
+        "示例文本-5a50a2cd",
+        "示例文本-655b9fcc",
+        "示例文本-4c6f51bf",
+        "示例文本-232ba082",
+        "示例文本-f396e136",
+        "示例文本-4d6dcde1",
+        "示例文本-7e5ae68e",
+        "示例文本-85064de6",
+        "示例文本-a7e81839",
+        "示例文本-072b0343",
+        "示例文本-0defe15e"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2441",
+    "endpoint": "teacher:GET:/api/attendance/statistic/course/student",
+    "query": {
+      "start": [
+        "1110297600000"
+      ],
+      "end": [
+        "1144684800000"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1497",
+    "endpoint": "teacher:GET:/api/attendance/statistic/dormitory",
+    "query": {
+      "start": [
+        "1115772279681"
+      ],
+      "end": [
+        "1115772279681"
+      ],
+      "session": [
+        "示例文本-899fa247"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1428",
+    "endpoint": "teacher:GET:/api/attendance/statistic/house",
+    "query": {
+      "start": [
+        "1115772090191"
+      ],
+      "end": [
+        "1115772090191"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1425",
+    "endpoint": "teacher:GET:/api/attendance/statistic/section",
+    "query": {
+      "start": [
+        "1115772078539"
+      ],
+      "end": [
+        "1115772078539"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1501",
+    "endpoint": "teacher:GET:/api/attendance/statistic/ssr",
+    "query": {
+      "start": [
+        "1115772291392"
+      ],
+      "end": [
+        "1115772291392"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2440",
+    "endpoint": "teacher:GET:/api/attendance/statistic/student/detail/{schoolYearId}",
+    "query": {
+      "start": [
+        "1110297600000"
+      ],
+      "end": [
+        "1144684800000"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {
+      "schoolYearId": "601051559"
+    }
+  },
+  {
+    "capture": "2439",
+    "endpoint": "teacher:GET:/api/attendance/statistic/student/{schoolYearId}",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {
+      "schoolYearId": "601051559"
+    }
+  },
+  {
+    "capture": "2429",
+    "endpoint": "teacher:GET:/api/course-record/listByStudent",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1361",
+    "endpoint": "teacher:GET:/api/course/cascade/attendance",
+    "query": {
+      "date": [
+        "1115771839894"
+      ],
+      "type": [
+        "1002"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1730",
+    "endpoint": "teacher:GET:/api/course/cascadeBySchoolYear",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1912",
+    "endpoint": "teacher:GET:/api/course/cascadeBySchoolYear",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1172",
+    "endpoint": "teacher:GET:/api/course/courseAndCca",
+    "query": {
+      "teacherId": [
+        "503964563"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1190",
+    "endpoint": "teacher:GET:/api/course/students",
+    "query": {
+      "courseId": [
+        "682500548"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1548",
+    "endpoint": "teacher:GET:/api/curriculum/room",
+    "query": {
+      "classRoomId": [
+        "587898041"
+      ],
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2424",
+    "endpoint": "teacher:GET:/api/curriculum/student/{schoolYearId}",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {
+      "schoolYearId": "601051559"
+    }
+  },
+  {
+    "capture": "1541",
+    "endpoint": "teacher:GET:/api/curriculum/teacher",
+    "query": {
+      "teacherId": [
+        "82311781"
+      ],
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1532",
+    "endpoint": "teacher:GET:/api/curriculum/teacher/personal",
+    "query": {
+      "start": [
+        "1115568000000"
+      ],
+      "end": [
+        "1116172799999"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2436",
+    "endpoint": "teacher:GET:/api/diary/by-student",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1513",
+    "endpoint": "teacher:GET:/api/diary/entries",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1525",
+    "endpoint": "teacher:GET:/api/diary/entries",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "primaryTypeId": [
+        "167935102"
+      ],
+      "sectionId": [
+        "617229727"
+      ],
+      "name": [
+        "示例文本-f7b07924"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2833",
+    "endpoint": "teacher:GET:/api/diary/entry-type",
+    "query": {
+      "primaryTypeId": [
+        "261892813"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2834",
+    "endpoint": "teacher:GET:/api/diary/entry-type",
+    "query": {
+      "primaryTypeId": [
+        "167935102"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2814",
+    "endpoint": "teacher:GET:/api/diary/primary-type",
+    "query": {
+      "allType": [
+        "true"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1507",
+    "endpoint": "teacher:GET:/api/diary/primary-type",
+    "query": {
+      "allType": [
+        "true"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1606",
+    "endpoint": "teacher:GET:/api/dropDown/authTeachersForMessage",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1165",
+    "endpoint": "teacher:GET:/api/dropDown/authTeachersForMyClass",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1435",
+    "endpoint": "teacher:GET:/api/dropDown/campusList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1634",
+    "endpoint": "teacher:GET:/api/dropDown/classListAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1545",
+    "endpoint": "teacher:GET:/api/dropDown/classRoomCascade",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1622",
+    "endpoint": "teacher:GET:/api/dropDown/course-teacher",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1405",
+    "endpoint": "teacher:GET:/api/dropDown/dormitoryList",
+    "query": {
+      "floorId": [
+        "749172282"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1509",
+    "endpoint": "teacher:GET:/api/dropDown/floorAndDormitoryList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1635",
+    "endpoint": "teacher:GET:/api/dropDown/floorAndDormitoryListAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1404",
+    "endpoint": "teacher:GET:/api/dropDown/floorList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1621",
+    "endpoint": "teacher:GET:/api/dropDown/head-teachers",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1508",
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1618",
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1633",
+    "endpoint": "teacher:GET:/api/dropDown/houseGroupListAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1645",
+    "endpoint": "teacher:GET:/api/dropDown/message/receiver",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "name": [
+        "示例文本-0b4f71c8"
+      ],
+      "queryType": [
+        "示例文本-34e74543"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1511",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2425",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2437",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1910",
+    "endpoint": "teacher:GET:/api/dropDown/schoolYearRuleList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1514",
+    "endpoint": "teacher:GET:/api/dropDown/sectionCascade",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1632",
+    "endpoint": "teacher:GET:/api/dropDown/sectionCascade",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1449",
+    "endpoint": "teacher:GET:/api/dropDown/sectionList/cpAttendance",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1761",
+    "endpoint": "teacher:GET:/api/dropDown/semester",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1413",
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1510",
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1636",
+    "endpoint": "teacher:GET:/api/dropDown/ssRoomListAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1538",
+    "endpoint": "teacher:GET:/api/dropDown/subjectList",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1450",
+    "endpoint": "teacher:GET:/api/dropDown/subjectListForAttendance",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1734",
+    "endpoint": "teacher:GET:/api/dropDown/taskType",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1759",
+    "endpoint": "teacher:GET:/api/dropDown/taskType",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1911",
+    "endpoint": "teacher:GET:/api/dropDown/taskType",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1913",
+    "endpoint": "teacher:GET:/api/dropDown/taskType",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1819",
+    "endpoint": "teacher:GET:/api/dropDown/taskTypeByCourse",
+    "query": {
+      "courseIds": [
+        "示例文本-7f4dbba6"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1623",
+    "endpoint": "teacher:GET:/api/dropDown/tutors",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2431",
+    "endpoint": "teacher:GET:/api/grade-book/grade-book",
+    "query": {
+      "studentId": [
+        "152289766"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1763",
+    "endpoint": "teacher:GET:/api/grade-book/grade-book",
+    "query": {
+      "courseId": [
+        "237958942"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1160",
+    "endpoint": "teacher:GET:/api/login/schools",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1137",
+    "endpoint": "teacher:GET:/api/login/switchToken",
+    "query": {
+      "accessToken": [
+        "fixture-session-token"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1159",
+    "endpoint": "teacher:GET:/api/login/userInfo",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1707",
+    "endpoint": "teacher:GET:/api/message/fromDetail",
+    "query": {
+      "messageMasterId": [
+        "275416848"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1701",
+    "endpoint": "teacher:GET:/api/message/fromList",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "fromMemberId": [
+        "503964563"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1611",
+    "endpoint": "teacher:GET:/api/message/toList",
+    "query": {
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ],
+      "toMemberId": [
+        "503964563"
+      ],
+      "queryType": [
+        "示例文本-ba404d9b"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2125",
+    "endpoint": "teacher:GET:/api/monthly-grade/behavior-table",
+    "query": {
+      "gradePeriodId": [
+        "301009947"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2067",
+    "endpoint": "teacher:GET:/api/monthly-grade/grade-period",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ],
+      "isTeachingReview": [
+        "示例文本-c9d1fe79"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2054",
+    "endpoint": "teacher:GET:/api/monthly-grade/grade-period/{courseId}",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {
+      "courseId": "237958942"
+    }
+  },
+  {
+    "capture": "2055",
+    "endpoint": "teacher:GET:/api/monthly-grade/gradeTable/{gradePeriodId}/{courseId}",
+    "query": {},
+    "body": null,
+    "path": {
+      "gradePeriodId": "416163508",
+      "courseId": "237958942"
+    }
+  },
+  {
+    "capture": "2050",
+    "endpoint": "teacher:GET:/api/monthly-grade/level/attainment",
+    "query": {
+      "campusId": [
+        "468898755"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2049",
+    "endpoint": "teacher:GET:/api/monthly-grade/level/effort",
+    "query": {
+      "campusId": [
+        "468898755"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2173",
+    "endpoint": "teacher:GET:/api/monthly-grade/report",
+    "query": {
+      "gradePeriodId": [
+        "416163508"
+      ],
+      "studentName": [
+        "示例文本-f7b07924"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "pageSize": [
+        "30"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2172",
+    "endpoint": "teacher:GET:/api/monthly-grade/report/student-id",
+    "query": {
+      "gradePeriodId": [
+        "416163508"
+      ],
+      "studentName": [
+        "示例文本-f7b07924"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2068",
+    "endpoint": "teacher:GET:/api/monthly-grade/teachingReview/list",
+    "query": {
+      "monthlyGradePeriodId": [
+        "301009947"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2070",
+    "endpoint": "teacher:GET:/api/monthly-grade/teachingReview/list",
+    "query": {
+      "monthlyGradePeriodId": [
+        "416163508"
+      ],
+      "subjectIds": [
+        "示例文本-85064de6"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1161",
+    "endpoint": "teacher:GET:/api/semester/currentSchoolYear",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2426",
+    "endpoint": "teacher:GET:/api/student/class-info",
+    "query": {
+      "schoolYearId": [
+        "601051559"
+      ],
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1171",
+    "endpoint": "teacher:GET:/api/student/classAndHouse",
+    "query": {
+      "teacherId": [
+        "503964563"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2420",
+    "endpoint": "teacher:GET:/api/student/detail",
+    "query": {
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2418",
+    "endpoint": "teacher:GET:/api/student/studentBriefInfo",
+    "query": {
+      "studentId": [
+        "152289766"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1793",
+    "endpoint": "teacher:GET:/api/task-grade/rule",
+    "query": {
+      "courseId": [
+        "237958942"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1877",
+    "endpoint": "teacher:GET:/api/task/detail",
+    "query": {
+      "taskId": [
+        "739749967"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1741",
+    "endpoint": "teacher:GET:/api/task/mergeList",
+    "query": {
+      "pageSize": [
+        "30"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "courseId": [
+        "237958942"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1914",
+    "endpoint": "teacher:GET:/api/task/mergeList",
+    "query": {
+      "pageSize": [
+        "30"
+      ],
+      "pageCurrent": [
+        "1"
+      ],
+      "courseId": [
+        "237958942"
+      ],
+      "schoolYearId": [
+        "601051559"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1878",
+    "endpoint": "teacher:GET:/api/task/performance",
+    "query": {
+      "taskId": [
+        "739749967"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2020",
+    "endpoint": "teacher:GET:/api/task/student/detail",
+    "query": {
+      "taskStudentId": [
+        "538138508"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2023",
+    "endpoint": "teacher:GET:/api/task/student/detail",
+    "query": {
+      "taskStudentId": [
+        "119453546"
+      ]
+    },
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "1537",
+    "endpoint": "teacher:GET:/api/teacher/listAll",
+    "query": {},
+    "body": null,
+    "path": {}
+  },
+  {
+    "capture": "2471",
+    "endpoint": "teacher:POST:/api/diary",
+    "query": {},
+    "body": {
+      "primaryTypeId": 261892813,
+      "diaryEntryTypeId": 788553664,
+      "date": "示例文本-90f6c08e",
+      "time": "示例文本-617492e1",
+      "location": "示例文本-32eb034f",
+      "description": "示例文本-8bbd5680",
+      "points": 1,
+      "confidential": false,
+      "followUpDate": 1115783154000,
+      "followUpAction": "示例文本-d49a1fbb",
+      "followUpAdvice": "示例文本-d49a1fbb",
+      "attachments": [],
+      "shareWithParents": false,
+      "shareWithStudents": false,
+      "students": [
+        11012
+      ],
+      "addressee": [],
+      "shareWithHeadTeachers": false,
+      "shareWithTutors": false,
+      "injureParts": [],
+      "enclosures": [],
+      "recordTime": 1115782517000,
+      "notice": true
+    },
+    "path": {}
+  },
+  {
+    "capture": "1682",
+    "endpoint": "teacher:POST:/api/message/send",
+    "query": {},
+    "body": {
+      "sendHeadTeacher": false,
+      "sendTutor": false,
+      "sendMail": true,
+      "sendParent": false,
+      "important": false,
+      "attachments": [],
+      "content": "示例文本-25c5a627",
+      "parents": [
+        {
+          "id": "示例文本-1b877bb9",
+          "title": "示例文本-33e76110",
+          "isPre": false,
+          "admissionTime": "示例文本-883600a6"
+        }
+      ],
+      "title": "示例文本-afbc9973",
+      "resourceIds": [],
+      "toParents": [
+        {
+          "parentId": 304885875,
+          "studentId": 152289766
+        }
+      ]
+    },
+    "path": {}
+  },
+  {
+    "capture": "2058",
+    "endpoint": "teacher:POST:/api/monthly-grade",
+    "query": {},
+    "body": {
+      "courseId": 237958942,
+      "gradePeriodId": 416163508,
+      "studentId": 619540604,
+      "effort": 7,
+      "attainment": 92,
+      "comment": ""
+    },
+    "path": {}
+  },
+  {
+    "capture": "2130",
+    "endpoint": "teacher:POST:/api/monthly-grade/behaviorRecord",
+    "query": {},
+    "body": {
+      "gradePeriodId": 416163508,
+      "studentId": 152289766,
+      "point": null,
+      "comment": "",
+      "type": "house"
+    },
+    "path": {}
+  },
+  {
+    "capture": "2131",
+    "endpoint": "teacher:POST:/api/monthly-grade/behaviorRecord",
+    "query": {},
+    "body": {
+      "gradePeriodId": 416163508,
+      "studentId": 402840576,
+      "point": 1,
+      "comment": "",
+      "type": "house"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1879",
+    "endpoint": "teacher:POST:/api/performance/task",
+    "query": {},
+    "body": {
+      "taskId": 739749967
+    },
+    "path": {}
+  },
+  {
+    "capture": "2411",
+    "endpoint": "teacher:POST:/api/student/my-student",
+    "query": {},
+    "body": {
+      "pageCurrent": 1,
+      "pageSize": 30,
+      "sectionId": [
+        898609182
+      ],
+      "name": "示例文本-f7b07924",
+      "classId": 179412897,
+      "inSchool": true
+    },
+    "path": {}
+  },
+  {
+    "capture": "2405",
+    "endpoint": "teacher:POST:/api/student/student-id",
+    "query": {},
+    "body": {
+      "pageCurrent": 1,
+      "pageSize": 0,
+      "sectionId": [
+        898609182
+      ],
+      "name": "示例文本-f7b07924",
+      "classId": 179412897,
+      "inSchool": true
+    },
+    "path": {}
+  },
+  {
+    "capture": "1904",
+    "endpoint": "teacher:POST:/api/task/add",
+    "query": {},
+    "body": {
+      "name": "示例文本-05904153",
+      "treeSelectCourses": [
+        20742
+      ],
+      "type": 399,
+      "attachments": [],
+      "startDate": 1115776651761,
+      "deadline": "示例文本-0cd94ad5",
+      "online": "示例文本-ece3f4cf",
+      "scoreFlag": true,
+      "topScore": 100,
+      "inTotal": true,
+      "publicFlag": true,
+      "endDate": 1115780254544,
+      "courseIds": [
+        20742
+      ],
+      "resourceIds": [],
+      "courseType": "1001",
+      "description": "示例文本-8e3a8add"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1247",
+    "endpoint": "teacher:PUT:/api/attendance/class",
+    "query": {},
+    "body": {
+      "classArrangeId": 492760664,
+      "studentId": 152289766,
+      "status": "intime",
+      "comment": ""
+    },
+    "path": {}
+  },
+  {
+    "capture": "1249",
+    "endpoint": "teacher:PUT:/api/attendance/class",
+    "query": {},
+    "body": {
+      "classArrangeId": 492760664,
+      "studentId": 152289766,
+      "status": "noRecords",
+      "comment": ""
+    },
+    "path": {}
+  },
+  {
+    "capture": "1364",
+    "endpoint": "teacher:PUT:/api/attendance/class",
+    "query": {},
+    "body": {
+      "classArrangeId": 884994817,
+      "studentId": 152289766,
+      "status": "intime",
+      "comment": ""
+    },
+    "path": {}
+  },
+  {
+    "capture": "1365",
+    "endpoint": "teacher:PUT:/api/attendance/class",
+    "query": {},
+    "body": {
+      "classArrangeId": 884994817,
+      "studentId": 152289766,
+      "status": "noRecord",
+      "comment": ""
+    },
+    "path": {}
+  },
+  {
+    "capture": "1353",
+    "endpoint": "teacher:PUT:/api/attendance/daily",
+    "query": {},
+    "body": {
+      "date": 1115827199999,
+      "studentId": 152289766,
+      "status": "personal",
+      "type": "am"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1419",
+    "endpoint": "teacher:PUT:/api/attendance/ssRoom/update",
+    "query": {},
+    "body": {
+      "date": 1115685566827,
+      "type": "status",
+      "studentId": 695031199,
+      "status": "late"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1420",
+    "endpoint": "teacher:PUT:/api/attendance/ssRoom/update",
+    "query": {},
+    "body": {
+      "date": 1115685566827,
+      "type": "status",
+      "studentId": 695031199,
+      "status": "intime"
+    },
+    "path": {}
+  },
+  {
+    "capture": "1709",
+    "endpoint": "teacher:PUT:/api/message/withdraw",
+    "query": {
+      "messageMasterId": [
+        "275416848"
+      ]
+    },
+    "body": {},
+    "path": {}
+  },
+  {
+    "capture": "2019",
+    "endpoint": "teacher:PUT:/api/task/updateScore",
+    "query": {},
+    "body": {
+      "studentId": 619540604,
+      "taskId": 492953657,
+      "score": 1,
+      "tag": "none",
+      "comment": "示例文本-fb298448"
+    },
+    "path": {}
+  }
+]

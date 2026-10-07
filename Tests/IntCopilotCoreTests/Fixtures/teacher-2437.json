@@ -1,0 +1,50 @@
+[
+  {
+    "key": 601051559,
+    "value": "示例文本-f8851328",
+    "enValue": "示例文本-f8851328",
+    "extraValue": "示例文本-e9c53f5a",
+    "startTime": 1110297600000,
+    "endTime": 1144684800000
+  },
+  {
+    "key": 831103987,
+    "value": "示例文本-66414e2d",
+    "enValue": "示例文本-66414e2d",
+    "extraValue": "示例文本-74bb5d14",
+    "startTime": 955036800000,
+    "endTime": 985622400000
+  },
+  {
+    "key": 228319549,
+    "value": "示例文本-c5831bbb",
+    "enValue": "示例文本-c5831bbb",
+    "extraValue": "示例文本-74bb5d14",
+    "startTime": 985708800000,
+    "endTime": 1016553600000
+  },
+  {
+    "key": 572688838,
+    "value": "示例文本-16034c42",
+    "enValue": "示例文本-16034c42",
+    "extraValue": "示例文本-74bb5d14",
+    "startTime": 1016640000000,
+    "endTime": 1047225600000
+  },
+  {
+    "key": 855332885,
+    "value": "示例文本-d40c9abb",
+    "enValue": "示例文本-d40c9abb",
+    "extraValue": "示例文本-74bb5d14",
+    "startTime": 1047312000000,
+    "endTime": 1078848000000
+  },
+  {
+    "key": 300351004,
+    "value": "示例文本-30405708",
+    "enValue": "示例文本-30405708",
+    "extraValue": "示例文本-74bb5d14",
+    "startTime": 1078934400000,
+    "endTime": 1110211200000
+  }
+]

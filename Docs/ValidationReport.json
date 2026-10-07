@@ -1,0 +1,17 @@
+{
+  "providedCapturePairs": 157,
+  "capturedJSONResponses": 135,
+  "frontendVersions": {"parent": "3.0.9", "teacher": "3.1.6", "portal": "0.3.1"},
+  "readOnlyObservations": [
+    {"endpoint": "parent:GET:/api/login/schools", "reference": "read-only:2026-10-07:parent-school-domain-bootstrap", "fields": ["schoolId", "name", "enName", "shortName", "domain", "logoUrl"]},
+    {"endpoint": "parent:GET:/api/semester/currentSchoolYear", "reference": "read-only:2026-10-07:parent-current-school-year", "fields": ["schoolYearId", "name", "startTime", "endTime"]}
+  ],
+  "liveReadOnlySmoke": {
+    "parent": ["password authentication", "associated-student list", "current-school-year query"],
+    "teacher": ["portal password authentication", "OAuth exchange", "school and user initialization", "permitted course roster", "permitted target student detail"]
+  },
+  "liveBusinessMutations": 0,
+  "liveSMSSends": 0,
+  "ciEvidence": "https://github.com/RyanStanLin/IntCopilot.Core/actions/workflows/ci.yml",
+  "limitations": ["A static script or mock does not validate real server behavior.", "No live business mutation was performed.", "Printing, attachment upload and incomplete contracts retain explicit experimental limitations."]
+}

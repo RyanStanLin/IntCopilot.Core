@@ -1,0 +1,39 @@
+[
+  {
+    "messageMasterId": 275416848,
+    "masterRecordId": null,
+    "type": "1600",
+    "title": "示例文本-afbc9973",
+    "content": "示例文本-25c5a627",
+    "sendMail": true,
+    "sendTime": 1115776015000,
+    "withdraw": false,
+    "selfDelete": false,
+    "canDelete": false,
+    "resources": [],
+    "fromMember": {
+      "memberId": 503964563,
+      "memberType": "示例文本-d6fac75e",
+      "name": "示例文本-2885d277",
+      "enName": "示例文本-9dda1ef8",
+      "studentId": null,
+      "relationship": "",
+      "avatarUrl": "",
+      "enterDate": ""
+    },
+    "toTeachers": [],
+    "toStudents": [],
+    "toParents": [
+      {
+        "memberId": 304885875,
+        "memberType": "示例文本-8faa7e4f",
+        "name": "示例文本-63978605",
+        "enName": "",
+        "studentId": 152289766,
+        "relationship": "other",
+        "avatarUrl": "",
+        "enterDate": ""
+      }
+    ]
+  }
+]

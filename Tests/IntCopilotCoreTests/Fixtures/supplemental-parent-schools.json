@@ -1,0 +1,66 @@
+[
+  {
+    "schoolId": 495560216,
+    "name": "示例文本-73c30820",
+    "enName": "示例文本-d090af75",
+    "shortName": "示例文本-0f4342f4",
+    "domain": "",
+    "logoUrl": "https://example.invalid/resource/4ed24bff"
+  },
+  {
+    "schoolId": 483374455,
+    "name": "示例文本-7a16c689",
+    "enName": "示例文本-7c9b4ee9",
+    "shortName": "示例文本-f49c5100",
+    "domain": "示例文本-26347b5a",
+    "logoUrl": "https://example.invalid/resource/4478b5e5"
+  },
+  {
+    "schoolId": 685525860,
+    "name": "示例文本-7f5b4e8f",
+    "enName": "示例文本-e526f0d9",
+    "shortName": "示例文本-f5d7b9ba",
+    "domain": "示例文本-53bd4b02",
+    "logoUrl": "https://example.invalid/resource/181982ba"
+  },
+  {
+    "schoolId": 330982703,
+    "name": "示例文本-70161ef9",
+    "enName": "示例文本-eef455c4",
+    "shortName": "示例文本-6e717b2a",
+    "domain": "示例文本-a7a01885",
+    "logoUrl": "https://example.invalid/resource/a37b63a5"
+  },
+  {
+    "schoolId": 285560698,
+    "name": "示例文本-477edb5a",
+    "enName": "示例文本-7b0b0a67",
+    "shortName": "示例文本-362c56d2",
+    "domain": "示例文本-1037958c",
+    "logoUrl": "https://example.invalid/resource/8dcc828c"
+  },
+  {
+    "schoolId": 696410819,
+    "name": "示例文本-5de3e3c8",
+    "enName": "示例文本-a4b7f071",
+    "shortName": "示例文本-8efc8870",
+    "domain": "示例文本-344f1926",
+    "logoUrl": "https://example.invalid/resource/87a7b0c0"
+  },
+  {
+    "schoolId": 641244983,
+    "name": "示例文本-e34975f4",
+    "enName": "示例文本-fc1d8371",
+    "shortName": "示例文本-0cc5364e",
+    "domain": "示例文本-2e9d29b5",
+    "logoUrl": "https://example.invalid/resource/84726cd9"
+  },
+  {
+    "schoolId": 704044317,
+    "name": "示例文本-09c1e5da",
+    "enName": "示例文本-09c1e5da",
+    "shortName": "示例文本-43c36af2",
+    "domain": "",
+    "logoUrl": ""
+  }
+]

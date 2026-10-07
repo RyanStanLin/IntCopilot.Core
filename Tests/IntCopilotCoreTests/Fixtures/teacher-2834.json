@@ -1,0 +1,50 @@
+[
+  {
+    "key": 505362124,
+    "value": "同类型NOTE行为被记录3-5次",
+    "enValue": "Same behavior has been recorded 3-5 NOTES",
+    "extraValue": null
+  },
+  {
+    "key": 795150456,
+    "value": "逃课",
+    "enValue": "Truancy",
+    "extraValue": null
+  },
+  {
+    "key": 98055426,
+    "value": "使用电子产品观看视频、打游戏等",
+    "enValue": "Using Device to watch videos 、playing games",
+    "extraValue": null
+  },
+  {
+    "key": 115183075,
+    "value": "在校内点外送物品如外卖食品、药品等",
+    "enValue": "Order take-away food, drugs etc. on campus",
+    "extraValue": null
+  },
+  {
+    "key": 529919097,
+    "value": "忽视教师指令",
+    "enValue": "Ignoring Instruction",
+    "extraValue": null
+  },
+  {
+    "key": 830715778,
+    "value": "不合规的语言使用/一般性攻击性行为",
+    "enValue": "Inappropriate language / Aggressive Behavior",
+    "extraValue": null
+  },
+  {
+    "key": 793031882,
+    "value": "学术诚信：抄袭他人作业",
+    "enValue": "Academic Misconduct: Copying other’s work",
+    "extraValue": null
+  },
+  {
+    "key": 199306872,
+    "value": "其他",
+    "enValue": "Others",
+    "extraValue": null
+  }
+]

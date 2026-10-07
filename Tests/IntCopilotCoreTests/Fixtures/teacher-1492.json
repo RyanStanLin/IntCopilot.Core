@@ -1,0 +1,191 @@
+{
+  "kinds": [
+    {
+      "attendanceStatusId": 302003605,
+      "attendanceKindId": 495560216,
+      "value": "示例文本-854aa007",
+      "name": "示例文本-77c77625",
+      "enName": "示例文本-907e66e1",
+      "attend": true,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-d49fe2a0",
+      "abbr": "示例文本-cea78640"
+    },
+    {
+      "attendanceStatusId": 793550077,
+      "attendanceKindId": 483374455,
+      "value": "示例文本-3de79a7a",
+      "name": "示例文本-4aa00ecf",
+      "enName": "示例文本-51001ff7",
+      "attend": true,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-bb7973e3",
+      "abbr": "示例文本-fc6ed8ce"
+    },
+    {
+      "attendanceStatusId": 676741518,
+      "attendanceKindId": 685525860,
+      "value": "示例文本-455e38cf",
+      "name": "示例文本-3cdb572e",
+      "enName": "示例文本-0d2652cb",
+      "attend": false,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-4eb5d5d2",
+      "abbr": "示例文本-b36b9917"
+    },
+    {
+      "attendanceStatusId": 182340180,
+      "attendanceKindId": 597615127,
+      "value": "示例文本-4e98f4d4",
+      "name": "示例文本-2320099b",
+      "enName": "示例文本-c99f91ed",
+      "attend": false,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-7a974696",
+      "abbr": "示例文本-59e44e55"
+    },
+    {
+      "attendanceStatusId": 852034434,
+      "attendanceKindId": 285560698,
+      "value": "示例文本-6561357c",
+      "name": "示例文本-edfb8abe",
+      "enName": "示例文本-2acfdb05",
+      "attend": false,
+      "show": true,
+      "permissions": false,
+      "status": false,
+      "color": "示例文本-b5dfda15",
+      "abbr": "示例文本-59e44e55"
+    }
+  ],
+  "statistics": [
+    {
+      "id": 126584511,
+      "dimension": "示例文本-f5719be0",
+      "enDimension": "示例文本-f5719be0",
+      "attendantNums": 0,
+      "allNums": 2,
+      "attendantRate": 0.0,
+      "statisticDetail": {
+        "1": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.5
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 537718987,
+      "dimension": "示例文本-1897a4ee",
+      "enDimension": "示例文本-1897a4ee",
+      "attendantNums": 0,
+      "allNums": 3,
+      "attendantRate": 0.0,
+      "statisticDetail": {
+        "1": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.3333
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": 28006958,
+      "dimension": "示例文本-e8ef7336",
+      "enDimension": "示例文本-e8ef7336",
+      "attendantNums": 1,
+      "allNums": 3,
+      "attendantRate": 0.3333,
+      "statisticDetail": {
+        "1": {
+          "count": 1,
+          "rate": 0.3333
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 1,
+          "rate": 0.3333
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    },
+    {
+      "id": null,
+      "dimension": "示例文本-a7b3bbbe",
+      "enDimension": "示例文本-bc3e24e4",
+      "attendantNums": 1,
+      "allNums": 8,
+      "attendantRate": 0.125,
+      "statisticDetail": {
+        "1": {
+          "count": 1,
+          "rate": 0.125
+        },
+        "2": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "3": {
+          "count": 0,
+          "rate": 0.0
+        },
+        "4": {
+          "count": 3,
+          "rate": 0.375
+        },
+        "7": {
+          "count": 0,
+          "rate": 0.0
+        }
+      }
+    }
+  ]
+}

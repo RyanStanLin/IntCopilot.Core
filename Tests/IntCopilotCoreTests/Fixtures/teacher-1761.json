@@ -1,0 +1,32 @@
+[
+  {
+    "semesterId": 518321034,
+    "schoolYearName": "示例文本-f8851328",
+    "schoolYearId": 601051559,
+    "name": "示例文本-0d6f40f7",
+    "semesterType": "1204",
+    "startTime": 1113235200000,
+    "endTime": 1125590400000,
+    "status": "1202"
+  },
+  {
+    "semesterId": 522064421,
+    "schoolYearName": "示例文本-f8851328",
+    "schoolYearId": 601051559,
+    "name": "示例文本-0d6f40f7",
+    "semesterType": "1204",
+    "startTime": 1113235200000,
+    "endTime": 1125590400000,
+    "status": "1202"
+  },
+  {
+    "semesterId": 500755546,
+    "schoolYearName": "示例文本-f8851328",
+    "schoolYearId": 601051559,
+    "name": "示例文本-0d6f40f7",
+    "semesterType": "1204",
+    "startTime": 1113235200000,
+    "endTime": 1125590400000,
+    "status": "1202"
+  }
+]
